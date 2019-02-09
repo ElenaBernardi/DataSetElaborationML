@@ -11,7 +11,7 @@ def query():
                                       database="ActivityTracker")
         # 71 anni
         cursor = connection.cursor()
-        postgreSQL_select_Query = "select value from dataset where userid='7dff80378c4576868787bbd859a26ba572be91cc' and type='5'"
+        postgreSQL_select_Query = "select value from dataset where userid='7dff878c4576868787bbd859a26ba572be91cc' and type='5'"
         cursor.execute(postgreSQL_select_Query)
         mobile_records1 = cursor.fetchall()
         plt.plot(mobile_records1, label='71')
