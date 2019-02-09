@@ -1,0 +1,27 @@
+1: steps: 2108420.0
+2: weight: 445691.0
+3:  calculated BMI: 445444.0
+4:  systolic blood pressure: 71926.0
+5:  pulse wave velocity: 115583.0
+6:  PWV healthiness: 115583.0
+7:  heart rate avg: 402466.0
+8:  heart rate min: 402466.0
+9:  heart rate max: 402466.0
+10: sleepduration: 1353261.0
+11: bedin: 1353261.0
+12: bedout: 1353261.0
+13: nbawake: 1353261.0
+14: awakeduration (hours): 1353261.0
+15: time to sleep (hours): 1353261.0
+16: time to wake up (hours): 1353261.0
+17: lightduration: 1353261.0
+18: remduration: 112186.0
+19: deepduration: 1353261.0
+20: activity type: 174195.0
+21: activity duration: 174195.0
+22: activity calories: 174195.0
+23: activity hr average: 7129.0
+24: activity hr minimum: 7132.0
+25: activity hr maximum: 7129.0
+26: steps gait speed: 1271759.0
+27: distance gait speed: 1271759.0
