@@ -5,6 +5,8 @@ import saveDatasetInDB
 import saveUsersInDB
 import plot_graph
 import age_userid_type5
+import age_userid_type4
+import avg_vector
 
 
 def main():
@@ -58,5 +60,7 @@ if __name__=="__main__":
     #main()
     #saveDatasetInDB.saveData()
     #saveUsersInDB.saveData()
-    plot_graph.query()
+    plot_graph.query_avg()
     #age_userid_type5.save_data()
+    #age_userid_type4.save_data()
+    #avg_vector.avg_behaviour(5,0,30)
