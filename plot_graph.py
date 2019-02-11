@@ -9,12 +9,12 @@ def query():
                                       port="5433",
                                       host="localhost",
                                       database="ActivityTracker")
-        # 71 anni
+        # 67 anni
         cursor = connection.cursor()
-        postgreSQL_select_Query = "select value from dataset where userid='7dff878c4576868787bbd859a26ba572be91cc' and type='5'"
+        postgreSQL_select_Query = "select value from dataset where userid='2e6822c963b20adbd4c863bb65ba79642e2c0489' and type='5'"
         cursor.execute(postgreSQL_select_Query)
         mobile_records1 = cursor.fetchall()
-        plt.plot(mobile_records1, label='71')
+        plt.plot(mobile_records1, label='67')
         #70 anni
         cursor = connection.cursor()
         postgreSQL_select_Query = "select value from dataset where userid='a1625a009fe1007237af2d66d50e1fb8eeba84f3' and type='5'"
