@@ -2,7 +2,6 @@ import os
 import sys
 import psycopg2
 
-#hello!
 def save_data():
     try:
         connection = psycopg2.connect(user="postgres",
