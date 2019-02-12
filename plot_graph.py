@@ -5,8 +5,8 @@ import avg_vector
 def query():
     try:
         connection = psycopg2.connect(user="postgres",
-                                      password="2912",
-                                      port="5433",
+                                      password="22021996",
+                                      #port="5433",
                                       host="localhost",
                                       database="ActivityTracker")
         # 25 anni
@@ -36,8 +36,8 @@ def query():
             print("PostgreSQL connection is closed")
 
 def query_avg():
-    vector1=avg_vector.avg_behaviour(2,0,30)
-    vector2=avg_vector.avg_behaviour(2,60,70)
+    vector1=avg_vector.avg_behaviour(22,0,30)
+    vector2=avg_vector.avg_behaviour(22,60,70)
 
     plt.plot(vector1, label='giovani')
     plt.plot(vector2, label='adulti')

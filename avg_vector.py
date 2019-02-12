@@ -39,8 +39,8 @@ def avg_behaviour(type, value1, value2):
 def pull_data(type, value1, value2):
     try:
         connection = psycopg2.connect(user="postgres",
-                                      password="2912",
-                                      port="5433",
+                                      password="22021996",
+                                      #port="5433",
                                       host="localhost",
                                       database="ActivityTracker")
         cursor = connection.cursor()

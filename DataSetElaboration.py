@@ -7,6 +7,8 @@ import plot_graph
 import age_userid_type5
 import age_userid_type4
 import avg_vector
+import plot2D
+import clustering
 
 
 def main():
@@ -60,7 +62,9 @@ if __name__=="__main__":
     #main()
     #saveDatasetInDB.saveData()
     #saveUsersInDB.saveData()
-    plot_graph.query_avg()
+    #plot_graph.query_avg()
     #age_userid_type5.save_data()
     #age_userid_type4.save_data()
     #avg_vector.avg_behaviour(5,0,30)
+    #plot2D.fromArray_toVectorTuples(5,6)
+    clustering.cluster3D(3,5,4)
