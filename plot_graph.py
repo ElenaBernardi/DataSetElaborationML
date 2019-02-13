@@ -35,6 +35,15 @@ def query():
             connection.close()
             print("PostgreSQL connection is closed")
 
+def query_avg_scatter():
+    vector1=avg_vector.avg_behaviour(22,0,30)
+    vector2=avg_vector.avg_behaviour(22,60,70)
+
+    plt.scatter(vector1, label='giovani')
+    plt.scatter(vector2, label='adulti')
+    plt.legend()
+    plt.show()
+
 def query_avg():
     vector1=avg_vector.avg_behaviour(22,0,30)
     vector2=avg_vector.avg_behaviour(22,60,70)
