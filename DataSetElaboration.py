@@ -69,4 +69,5 @@ if __name__=="__main__":
     #plot2D.fromArray_toVectorTuples(5,6)
     #clustering.cluster3D(3,5,11)
     #clustering.cluster(3,1,4)
-    plot_graph.query_avg_scatter(5,4,0,30,60,90)
+    #plot_graph.query_avg_scatter(5,4,0,30,60,90)
+    plot_graph.scatter_3_types(5,4,1,0,30,60,90)

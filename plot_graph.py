@@ -2,6 +2,7 @@ import psycopg2
 from matplotlib import pyplot as plt
 import avg_vector
 import plot2D
+import numpy as np
 
 #Query specifica relativa ad un valore di un certo tipo di un determinato utente. Fa anche il plot del risultato
 def query_Single_User():
@@ -56,4 +57,17 @@ def plot_avg(type,age1,age2, age3, age4):
     plt.plot(vector1, label='giovani')
     plt.plot(vector2, label='adulti')
     plt.legend()
+    plt.show()
+
+def scatter_3_types(type1,type2,type3,age1Min,age1Max,age2Min,age2Max):
+    X = np.array(plot2D.query_3_types_age(type1,type2,type3,age1Min,age1Max))
+    Y = np.array(plot2D.query_3_types_age(type1,type2,type3,age2Min,age2Max))
+    print(X)
+    fig = plt.figure()
+    colors = ["g.", "r.", "c.", "b.", "k.", "c."]
+
+    ax = plt.axes(projection='3d')
+    ax.scatter3D(X[:, 0], X[:, 1], X[:, 2], cmap='viridis', linewidth=0.5);
+    ax.scatter3D(Y[:, 0], Y[:, 1], Y[:, 2], cmap='viridis', linewidth=0.5);
+
     plt.show()
