@@ -67,5 +67,6 @@ if __name__=="__main__":
     #age_userid_type4.save_data()
     #avg_vector.avg_behaviour(5,0,30)
     #plot2D.fromArray_toVectorTuples(5,6)
-    clustering.cluster3D(3,5,11)
+    #clustering.cluster3D(3,5,11)
     #clustering.cluster(3,1,4)
+    plot_graph.query_avg_scatter(5,4,0,30,60,90)
