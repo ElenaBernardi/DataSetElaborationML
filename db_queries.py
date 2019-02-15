@@ -1,15 +1,10 @@
 import psycopg2
 import connection_db
-import avg_vector
 
 #dati due tipi restituisce un vettore di coppie di uno stesso utente (val1,val2)
-def fromArray_toVectorTuples(type1, type2):
+def pull_2types_values(type1, type2):
     try:
-        connection = psycopg2.connect(user="postgres",
-                                      password="22021996",
-                                      #port="5433",
-                                      host="localhost",
-                                      database="ActivityTracker")
+        connection = connection_db.connect()
         cursor = connection.cursor()
         postgreSQL_select_Query = "select value1, value2 from ( select userid, avg(value) as value1 from dataset where type="+str(type1)+\
                                   "group by userid) as query1 join (select userid, avg(value) as value2 from dataset where type="+str(type2)+\
@@ -26,14 +21,11 @@ def fromArray_toVectorTuples(type1, type2):
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
+
 #dato un tipo e un'età restituisce un vettore di coppie (val,età)
-def query_with_age(type):
+def pull_type_and_age(type):
     try:
-        connection = psycopg2.connect(user="postgres",
-                                      password="22021996",
-                                      # port="5433",
-                                      host="localhost",
-                                      database="ActivityTracker")
+        connection = connection_db.connect()
         cursor = connection.cursor()
 
         postgreSQL_select_Query = "select query1.value1, users.age from(" + \
@@ -51,14 +43,11 @@ def query_with_age(type):
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
-#restituisce un vettore con una tripla di uno stesso utente (val1,val2,val3) per 3 tipi di valori diversi
-def query_3_output(type1, type2):
+
+#restituisce un vettore con una tripla di uno stesso utente (val1,val2,age) per 2 tipi di valori diversi
+def pull_2types_and_age(type1, type2):
     try:
-        connection = psycopg2.connect(user="postgres",
-                                      password="22021996",
-                                      # port="5433",
-                                      host="localhost",
-                                      database="ActivityTracker")
+        connection = connection_db.connect()
         cursor = connection.cursor()
         postgreSQL_select_Query = "select query3.value1, query3.value2, users.age from(select value1, value2, query1.userid from ( select userid, avg(value) as value1 from dataset where type=" + str(
             type1) + \
@@ -78,7 +67,27 @@ def query_3_output(type1, type2):
             connection.close()
             print("PostgreSQL connection is closed")
 
-def query_types_age(type1,type2,ageMin,ageMax):
+#dato un type e una fascia di età restituisce un vettore di valori medi per ogni utente
+def pull_1type_from_range_age(type, ageMin, ageMax):
+    connection = connection_db.connect()
+    try:
+        cursor = connection.cursor()
+        postgreSQL_select_Query = "select avg(dataset.value), users.userid from users join dataset on users.userid = dataset.userid where dataset.type=" + str(type) +" and users.age<" + str(ageMax) + " and users.age>" + str(ageMin) + "group by dataset.userid"
+
+        cursor.execute(postgreSQL_select_Query)
+        results = cursor.fetchall()
+        return results
+    except (Exception, psycopg2.Error) as error:
+        print("Error while fetching data from PostgreSQL", error)
+    finally:
+        # closing database connection.
+        if (connection):
+            cursor.close()
+            connection.close()
+            print("PostgreSQL connection is closed")
+
+#dati due types e una fascia di età restituisce un vettore bidimensionale con i valori medi dei types per uno stesso utente
+def pull_2types_from_range_age(type1, type2, ageMin, ageMax):
     connection = connection_db.connect()
     try:
         cursor = connection.cursor()
@@ -109,7 +118,8 @@ def query_types_age(type1,type2,ageMin,ageMax):
             connection.close()
             print("PostgreSQL connection is closed")
 
-def query_3_types_age(type1,type2,type3,ageMin,ageMax):
+#dati 3 types e una fascia di età restituisce un vettore di triple con i valori medi di uno stesso utente
+def pull_3types_from_range_age(type1, type2, type3, ageMin, ageMax):
     connection = connection_db.connect()
     try:
         cursor = connection.cursor()
@@ -129,3 +139,4 @@ def query_3_types_age(type1,type2,type3,ageMin,ageMax):
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
+

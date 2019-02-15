@@ -1,16 +1,17 @@
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 from matplotlib import style
+from mpl_toolkits.mplot3d import Axes3D
+
 style.use('ggplot')
 import numpy as np
 from sklearn.cluster import KMeans
-import plot2D
+import db_queries
 
-def cluster(n, type1,type2):
-    X = np.array(plot2D.query_with_age(type1))
-    #X = np.array(plot2D.fromArray_toVectorTuples(type1,type2))
-# plt.scatter(X[:,0],X[:,1], s=150, linewidths=5)
-# plt.show()
+
+#clustering 2D, dato il numero di cluster da trovare e 2 tipi di dati
+def cluster2D(n, type1,type2):
+    X = np.array(db_queries.pull_2types_values(type1, type2))
     clf = KMeans(n_clusters=n)
     clf.fit(X)
 
@@ -24,22 +25,28 @@ def cluster(n, type1,type2):
     plt.scatter(centroids[:,0], centroids[:,1], marker='x', s=150, linewidths=5)
     plt.show()
 
-def from_triple_to_vectors(X):
-    x=[]
-    y=[]
-    z=[]
-    for i in range(len(X)):
-        x.append(str(i[0]))
-        y.append(str(i[1]))
-        z.append(str(i[2]))
-    return x,y,z
-
-def cluster3D(n, type1, type2):
-    X = np.array(plot2D.query_3_output(type1, type2))
-    fig=plt.figure()
-    colors = ["g.", "r.", "c.", "b.", "k.", "c."]
-
-    ax = plt.axes(projection='3d')
-    ax.scatter3D(X[:,0], X[:,1], X[:,2], cmap='viridis', linewidth=0.5);
-
+#clusterunf 3D, dato un dataset
+def cluster3D(dataset, vector1, vector2):
+    plt.rcParams['figure.figsize'] = (16, 9)
+    dataset = np.array(dataset)
+    # Creating a sample dataset with 4 clusters
+    X = dataset
+    Y = vector1
+    Z= vector2
+    #ax.scatter(X[:, 0], X[:, 1], X[:, 2])
+    #plt.show()
+    # Initializing KMeans
+    kmeans = KMeans(n_clusters=2)
+    # Fitting with inputs
+    kmeans = kmeans.fit(X)
+    # Predicting the clusters
+    labels = kmeans.predict(X)
+    # Getting the cluster centers
+    C = kmeans.cluster_centers_
+    fig = plt.figure()
+    ax = Axes3D(fig)
+    ax.scatter(Y[:, 0], Y[:, 1], Y[:, 2])
+    ax.scatter(Z[:, 0], Z[:, 1], Z[:, 2])
+    ax.scatter(C[:, 0], C[:, 1], C[:, 2], marker='*', c='#050505', s=1000)
     plt.show()
+
