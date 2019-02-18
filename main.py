@@ -15,7 +15,13 @@ if __name__=="__main__":
     #vector2 = np.array(vector2)
     #vector = np.concatenate([vector1,vector2])
     #clustering.cluster3D(vector, vector1, vector2)
-    #clustering.cluster2D(2,5,2)
+
+    vector1= db_queries.pull_2types_from_range_age(5, 2, 30, 40)
+    vector2 = db_queries.pull_2types_from_range_age(5, 2, 60, 90)
+    vector1 = np.array(vector1)
+    vector2 = np.array(vector2)
+    vector = np.concatenate([vector1,vector2])
+    clustering.cluster2D_by_vectors(vector, vector1, vector2)
 
     #graph.graph_avg_plot(5,0,30,60,90)
 
@@ -23,4 +29,4 @@ if __name__=="__main__":
 
     #graph.scatter3D_3types_from_2ranges(5,4,1,0,30,60,90)
 
-    classificator.training(5,2)
+    #classificator.training(5,2)

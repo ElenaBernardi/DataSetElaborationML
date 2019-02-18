@@ -25,6 +25,30 @@ def cluster2D(n, type1,type2):
     plt.scatter(centroids[:,0], centroids[:,1], marker='x', s=150, linewidths=5)
     plt.show()
 
+#clustering 2D date due vettori diversi
+def cluster2D_by_vectors(dataset, vector1, vector2):
+    plt.rcParams['figure.figsize'] = (16, 9)
+    dataset = np.array(dataset)
+    # Creating a sample dataset with 4 clusters
+    X = dataset
+    Y = vector1
+    Z= vector2
+    #ax.scatter(X[:, 0], X[:, 1], X[:, 2])
+    #plt.show()
+    # Initializing KMeans
+    kmeans = KMeans(n_clusters=2)
+    # Fitting with inputs
+    kmeans = kmeans.fit(X)
+    # Predicting the clusters
+    labels = kmeans.predict(X)
+    # Getting the cluster centers
+    C = kmeans.cluster_centers_
+    fig = plt.figure()
+    plt.scatter(Y[:, 0], Y[:, 1])
+    plt.scatter(Z[:, 0], Z[:, 1])
+    plt.scatter(C[:, 0], C[:, 1], marker='*', c='#050505', s=1000)
+    plt.show()
+
 #clusterunf 3D, dato un dataset
 def cluster3D(dataset, vector1, vector2):
     plt.rcParams['figure.figsize'] = (16, 9)

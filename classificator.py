@@ -9,7 +9,7 @@ def training(type1,type2):
     trainingset = db_queries.pull_2types_and_age(type1,type2)
     X, y = prepare_input(trainingset)
     # Split the data and the targets into training/testing sets
-    X_train, X_test, y_train, y_test = model_selection.train_test_split(X, y, test_size=0.3, random_state=0)
+    X_train, X_test, y_train, y_test = model_selection.train_test_split(X, y, test_size=0.1, random_state=0)
     regr = linear_model.LogisticRegression(class_weight='balanced')
     X_train = numpy.array(X_train,dtype=numpy.float64)
     regr.fit(X_train, y_train)
