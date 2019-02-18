@@ -58,6 +58,7 @@ def pull_2types_and_age(type1, type2):
         cursor.execute(postgreSQL_select_Query)
         results = cursor.fetchall()
         return results
+
     except (Exception, psycopg2.Error) as error:
         print("Error while fetching data from PostgreSQL", error)
     finally:
@@ -72,7 +73,7 @@ def pull_1type_from_range_age(type, ageMin, ageMax):
     connection = connection_db.connect()
     try:
         cursor = connection.cursor()
-        postgreSQL_select_Query = "select avg(dataset.value), users.userid from users join dataset on users.userid = dataset.userid where dataset.type=" + str(type) +" and users.age<" + str(ageMax) + " and users.age>" + str(ageMin) + "group by dataset.userid"
+        postgreSQL_select_Query = "select query.media from(select avg(dataset.value) as media, dataset.userid from users join dataset on users.userid = dataset.userid where dataset.type=" + str(type) +" and users.age<" + str(ageMax) + " and users.age>" + str(ageMin) + "group by dataset.userid) as query"
 
         cursor.execute(postgreSQL_select_Query)
         results = cursor.fetchall()

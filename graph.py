@@ -18,6 +18,8 @@ def graph_avg_plot(type, age1, age2, age3, age4):
     vector1 = db_queries.pull_1type_from_range_age(type, age1, age2)
     vector2 = db_queries.pull_1type_from_range_age(type, age3, age4)
 
+    print(vector1)
+
     plt.plot(vector1, label='giovani')
     plt.plot(vector2, label='adulti')
     plt.legend()
