@@ -141,3 +141,23 @@ def pull_3types_from_range_age(type1, type2, type3, ageMin, ageMax):
             connection.close()
             print("PostgreSQL connection is closed")
 
+"""metodo che risporta i valori medi dei type in ingresso dato uno user"""
+def pull_avg_value_from_user(user, type1, type2):
+    connection = connection_db.connect()
+    try:
+        cursor = connection.cursor()
+        postgreSQL_select_Query = "select query3.value1, query3.value2 from(select value1, value2, query1.userid from ( select userid, avg(value) as value1 from dataset where type="+str(type1)+\
+                                  "group by userid) as query1 join (select userid, avg(value) as value2 from dataset where type="+str(type2)+\
+                                  "group by userid) as query2 on query1.userid = query2.userid) as query3  where query3.userid="+str(user)
+
+        cursor.execute(postgreSQL_select_Query)
+        results = cursor.fetchall()
+        return results
+    except (Exception, psycopg2.Error) as error:
+        print("Error while fetching data from PostgreSQL", error)
+    finally:
+        # closing database connection.
+        if (connection):
+            cursor.close()
+            connection.close()
+            print("PostgreSQL connection is closed")
