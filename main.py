@@ -5,6 +5,7 @@ import db_queries
 import clustering
 import classificator
 import create_files_utils
+import segments
 
 if __name__=="__main__":
 
@@ -42,5 +43,8 @@ if __name__=="__main__":
 
     """classificatore"""
     #classificator.training(5,2)
-    user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
-    classificator.predict_result(user)
+    #user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
+    #classificator.predict_result(user)
+
+    """prova"""
+    segments.segments()

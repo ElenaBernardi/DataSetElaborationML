@@ -1,3 +1,5 @@
+import numpy as np
+
 import psycopg2
 import connection_db
 
@@ -152,6 +154,25 @@ def pull_avg_value_from_user(user, type1, type2):
 
         cursor.execute(postgreSQL_select_Query)
         results = cursor.fetchall()
+        return results
+    except (Exception, psycopg2.Error) as error:
+        print("Error while fetching data from PostgreSQL", error)
+    finally:
+        # closing database connection.
+        if (connection):
+            cursor.close()
+            connection.close()
+            print("PostgreSQL connection is closed")
+
+def prova():
+    connection = connection_db.connect()
+    try:
+        cursor = connection.cursor()
+        postgreSQL_select_Query = "select value from dataset where userid='102b72d02aebae82c5c1ee3d4dcbc4d82de7c7ee' and type=5"
+
+        cursor.execute(postgreSQL_select_Query)
+        results = cursor.fetchall()
+        results = np.squeeze(np.asarray(results))
         return results
     except (Exception, psycopg2.Error) as error:
         print("Error while fetching data from PostgreSQL", error)

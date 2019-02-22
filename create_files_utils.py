@@ -103,3 +103,24 @@ def createFileByType_age():
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
+
+def take_typ5(type):
+    connection = connection_db.connect()
+    try:
+        cursor = connection.cursor()
+        postgreSQL_select_Query = "select value, userid from dataset where type=5 order by dataset.userid"
+
+        cursor.execute(postgreSQL_select_Query)
+        data = cursor.fetchall()
+        output = open("list_age_userid.txt", "w+")
+        for i in data:
+            output.write(str(i[0]))
+            output.write("\t%s\n" % str(i[1]))
+    except (Exception, psycopg2.Error) as error:
+        print("Error while fetching data from PostgreSQL", error)
+    finally:
+        # closing database connection.
+        if (connection):
+            cursor.close()
+            connection.close()
+            print("PostgreSQL connection is closed")
