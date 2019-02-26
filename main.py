@@ -2,6 +2,8 @@ import csv
 from collections import defaultdict
 
 import numpy as np
+
+import cluster_segments
 import graph
 import db_queries
 import clustering
@@ -49,18 +51,12 @@ if __name__=="__main__":
     #user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
     #classificator.predict_result(user)
 
-    """prova"""
-    #segments.segments()
-    array=[]
-    results=db_queries.map(30,40)
-    print(len(results))
-    elements = segments.segments(results)
-    for segment in elements:
-        array.append(math_operations.tuple_module_gradient(segment))
-    #print(array)
-    list1, list2 = zip(*array)
-    print(max(list2))
-    print(min(list2))
-    #map_segments=defaultdict(list)
-    #for k,values in map.items():
-     #   map_segments[k].append(segments.segments(values))
+    '''clustering dei segmenti, relativi ai segnali di tipo 5, in base al loro modulo e alla loro inclinazione'''
+    segments,types=cluster_segments.manual_clustering(10,90)
+    print(types)
+    '''rilevazione dei pattern di sequenza di n segmenti'''
+
+
+    # map_segments=defaultdict(list)
+    # for k,values in map.items():
+    #   map_segments[k].append(segments.segments(values))

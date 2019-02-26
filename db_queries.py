@@ -186,7 +186,7 @@ def prova():
             connection.close()
             print("PostgreSQL connection is closed")
 
-def map(agemin, agemax):
+def map_user_and_value_from_age_range(agemin, agemax):
     connection = connection_db.connect()
     try:
         cursor = connection.cursor()

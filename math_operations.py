@@ -12,9 +12,23 @@ def get_gradient(vector):
     cateto1 = vector[2] - vector[0]
     cateto2 = vector[3] - vector[1]
     gradient = float(cateto2/cateto1)
-    #if gradient<0:
-    #    normalized = (gradient-0)/(1-0)
     return gradient
 
 def tuple_module_gradient(vector):
     return (get_module(vector), get_gradient(vector))
+
+def normalize(gradients, min, max):
+    elements = []
+    normalized = []
+    if min<0:
+        for gradient in gradients:
+            element = gradient-min
+            elements.append(element)
+        max = max - min
+        for element in elements:
+            normalize = float(2*element/max)-1
+            normalized.append(normalize)
+    for gradient in gradients:
+        normalize = float(2*element / max)-1
+        normalized.append(normalize)
+    return normalized
