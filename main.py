@@ -1,4 +1,6 @@
 import csv
+from collections import defaultdict
+
 import numpy as np
 import graph
 import db_queries
@@ -42,9 +44,14 @@ if __name__=="__main__":
     #graph.scatter3D_3types_from_2ranges(5,4,1,0,30,60,90)
 
     """classificatore"""
-    #classificator.training(5,2)
+    #classificator.training(5,4)
     #user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
     #classificator.predict_result(user)
 
     """prova"""
     segments.segments()
+
+    #map=db_queries.map()
+    #map_segments=defaultdict(list)
+    #for k,values in map.items():
+        #map_segments[k].append(segments.segments(values))

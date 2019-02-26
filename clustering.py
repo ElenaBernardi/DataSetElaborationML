@@ -6,6 +6,8 @@ from mpl_toolkits.mplot3d import Axes3D
 style.use('ggplot')
 import numpy as np
 from sklearn.cluster import KMeans
+from sklearn import metrics
+import matplotlib.cm as cm
 import db_queries
 
 
@@ -36,7 +38,8 @@ def cluster2D_by_vectors(dataset, vector1, vector2):
     #ax.scatter(X[:, 0], X[:, 1], X[:, 2])
     #plt.show()
     # Initializing KMeans
-    kmeans = KMeans(n_clusters=2)
+    n_clusters=2
+    kmeans = KMeans(n_clusters)
     # Fitting with inputs
     kmeans = kmeans.fit(X)
     # Predicting the clusters
@@ -48,6 +51,13 @@ def cluster2D_by_vectors(dataset, vector1, vector2):
     plt.scatter(Z[:, 0], Z[:, 1])
     plt.scatter(C[:, 0], C[:, 1], marker='*', c='#050505', s=1000)
     plt.show()
+    silhouette=metrics.silhouette_score(X, labels)
+    silhouette_sample=metrics.silhouette_samples(X,labels)
+    print("silhouette score: "+str(silhouette))
+    print("silhouette samples: "+str(silhouette_sample))
+
+
+
 
 #clusterunf 3D, dato un dataset
 def cluster3D(dataset, vector1, vector2):

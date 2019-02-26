@@ -6,16 +6,27 @@ from matplotlib.lines import Line2D
 
 
 def segments():
-    figure()
+
     data = db_queries.prova()
-    max_error = 1
+    max_error = 0.5
     print(len(data))
+
+    figure()
     segments = slidingwindowsegment(data, regression, sumsquared_error, max_error)
     print(len(segments))
     print(segments)
-    draw_plot(data,"Sliding window with regression")
+    #draw_plot(data,"Sliding window with regression")
     draw_segments(segments)
     show()
+
+    #figure()
+    #segments = topdownsegment(data,interpolate,sumsquared_error,max_error)
+    #print(len(segments))
+    #print(segments)
+    #draw_plot(data, "Top down with simple interpolation")
+    #show()
+    #draw_segments(segments)
+    #show()
 
 
 def slidingwindowsegment(sequence, create_segment, compute_error, max_error, seq_range=None):
@@ -78,6 +89,54 @@ def sumsquared_error(sequence, segment):
     p, error = leastsquareslinefit(sequence,(x0,x1))
     return error
 
+
+def topdownsegment(sequence, create_segment, compute_error, max_error, seq_range=None):
+    """
+    Return a list of line segments that approximate the sequence.
+
+    The list is computed using the bottom-up technique.
+
+    Parameters
+    ----------
+    sequence : sequence to segment
+    create_segment : a function of two arguments (sequence, sequence range) that returns a line segment that approximates the sequence data in the specified range
+    compute_error: a function of two argments (sequence, segment) that returns the error from fitting the specified line segment to the sequence data
+    max_error: the maximum allowable line segment fitting error
+
+    """
+    if not seq_range:
+        seq_range = (0, len(sequence) - 1)
+
+    bestlefterror, bestleftsegment = float('inf'), None
+    bestrighterror, bestrightsegment = float('inf'), None
+    bestidx = None
+
+    for idx in range(seq_range[0] + 1, seq_range[1]):
+        segment_left = create_segment(sequence, (seq_range[0], idx))
+        error_left = compute_error(sequence, segment_left)
+        segment_right = create_segment(sequence, (idx, seq_range[1]))
+        error_right = compute_error(sequence, segment_right)
+        if error_left + error_right < bestlefterror + bestrighterror:
+            bestlefterror, bestrighterror = error_left, error_right
+            bestleftsegment, bestrightsegment = segment_left, segment_right
+            bestidx = idx
+
+    if bestlefterror <= max_error:
+        leftsegs = [bestleftsegment]
+    else:
+        leftsegs = topdownsegment(sequence, create_segment, compute_error, max_error, (seq_range[0], bestidx))
+
+    if bestrighterror <= max_error:
+        rightsegs = [bestrightsegment]
+    else:
+        rightsegs = topdownsegment(sequence, create_segment, compute_error, max_error, (bestidx, seq_range[1]))
+
+    return leftsegs + rightsegs
+
+def interpolate(sequence, seq_range):
+    """Return (x0,y0,x1,y1) of a line fit to a segment using a simple interpolation"""
+    return (seq_range[0], sequence[seq_range[0]], seq_range[1], sequence[seq_range[1]])
+
 def draw_plot(data,plot_title):
     plot(range(len(data)),data,alpha=0.8,color='blue')
     title(plot_title)
@@ -86,7 +145,12 @@ def draw_plot(data,plot_title):
     xlim((0,len(data)-1))
 
 def draw_segments(segments):
-    ax = gca()
+    #ax = gca()
+    fig=figure()
+    ax = fig.add_subplot(111)
+
     for segment in segments:
         line = Line2D((segment[0],segment[2]),(segment[1],segment[3]))
         ax.add_line(line)
+    ax.plot()
+    fig.show()

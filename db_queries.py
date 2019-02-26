@@ -1,7 +1,10 @@
-import numpy as np
+from collections import defaultdict
 
+import numpy as np
 import psycopg2
+
 import connection_db
+
 
 #dati due tipi restituisce un vettore di coppie di uno stesso utente (val1,val2)
 def pull_2types_values(type1, type2):
@@ -174,6 +177,28 @@ def prova():
         results = cursor.fetchall()
         results = np.squeeze(np.asarray(results))
         return results
+    except (Exception, psycopg2.Error) as error:
+        print("Error while fetching data from PostgreSQL", error)
+    finally:
+        # closing database connection.
+        if (connection):
+            cursor.close()
+            connection.close()
+            print("PostgreSQL connection is closed")
+
+def map():
+    connection = connection_db.connect()
+    try:
+        cursor = connection.cursor()
+        postgreSQL_select_Query = "select userid, value from dataset where type='5'"
+        cursor.execute(postgreSQL_select_Query)
+        results = cursor.fetchall()
+
+        map=defaultdict(list)
+        for k,value in results:
+            map[k].append(value)
+
+        return map
     except (Exception, psycopg2.Error) as error:
         print("Error while fetching data from PostgreSQL", error)
     finally:
