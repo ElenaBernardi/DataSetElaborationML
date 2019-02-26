@@ -186,19 +186,22 @@ def prova():
             connection.close()
             print("PostgreSQL connection is closed")
 
-def map():
+def map(agemin, agemax):
     connection = connection_db.connect()
     try:
         cursor = connection.cursor()
-        postgreSQL_select_Query = "select userid, value from dataset where type='5'"
+        postgreSQL_select_Query = "select dataset.value from dataset join users on dataset.userid=users.userid where dataset.type='5' and users.age<"+str(agemax)+" and users.age>"+str(agemin)
+
         cursor.execute(postgreSQL_select_Query)
         results = cursor.fetchall()
+        results = np.squeeze(np.asarray(results))
+        results=results.tolist()
+        return results
+        #map=defaultdict(list)
+        #for k,value in results:
+         #   map[k].append(value)
 
-        map=defaultdict(list)
-        for k,value in results:
-            map[k].append(value)
-
-        return map
+        #return map
     except (Exception, psycopg2.Error) as error:
         print("Error while fetching data from PostgreSQL", error)
     finally:

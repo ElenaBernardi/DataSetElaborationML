@@ -5,20 +5,18 @@ from numpy.linalg import lstsq
 from matplotlib.lines import Line2D
 
 
-def segments():
+def segments(data):
 
-    data = db_queries.prova()
+#    data = db_queries.prova()
     max_error = 0.5
     print(len(data))
 
     figure()
     segments = slidingwindowsegment(data, regression, sumsquared_error, max_error)
-    print(len(segments))
-    print(segments)
-    #draw_plot(data,"Sliding window with regression")
+    draw_plot(data,"Sliding window with regression")
     draw_segments(segments)
     show()
-
+    return segments
     #figure()
     #segments = topdownsegment(data,interpolate,sumsquared_error,max_error)
     #print(len(segments))
@@ -47,6 +45,7 @@ def slidingwindowsegment(sequence, create_segment, compute_error, max_error, seq
         seq_range = (0,len(sequence)-1)
     start = seq_range[0]
     end = start
+    array = []
     result_segment = create_segment(sequence,(seq_range[0],seq_range[1]))
     while end < seq_range[1]:
         end += 1
@@ -55,12 +54,14 @@ def slidingwindowsegment(sequence, create_segment, compute_error, max_error, seq
         if error <= max_error:
             result_segment = test_segment
         else:
-            break
+            array.append(result_segment)
+            start = end-1
 
     if end == seq_range[1]:
-        return [result_segment]
-    else:
-        return [result_segment] + slidingwindowsegment(sequence, create_segment, compute_error, max_error, (end-1,seq_range[1]))
+        array.append(result_segment)
+    return array
+    #else:
+     #   return [result_segment] + slidingwindowsegment(sequence, create_segment, compute_error, max_error, (end-1,seq_range[1]))
 
 
 def regression(sequence, seq_range):
@@ -145,12 +146,12 @@ def draw_plot(data,plot_title):
     xlim((0,len(data)-1))
 
 def draw_segments(segments):
-    #ax = gca()
-    fig=figure()
-    ax = fig.add_subplot(111)
+    ax = gca()
+   # fig=figure()
+    #ax = fig.add_subplot(111)
 
     for segment in segments:
         line = Line2D((segment[0],segment[2]),(segment[1],segment[3]))
         ax.add_line(line)
-    ax.plot()
-    fig.show()
+    #ax.plot()
+    #fig.show()

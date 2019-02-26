@@ -8,6 +8,7 @@ import clustering
 import classificator
 import create_files_utils
 import segments
+import math_operations
 
 if __name__=="__main__":
 
@@ -49,9 +50,17 @@ if __name__=="__main__":
     #classificator.predict_result(user)
 
     """prova"""
-    segments.segments()
-
-    #map=db_queries.map()
+    #segments.segments()
+    array=[]
+    results=db_queries.map(30,40)
+    print(len(results))
+    elements = segments.segments(results)
+    for segment in elements:
+        array.append(math_operations.tuple_module_gradient(segment))
+    #print(array)
+    list1, list2 = zip(*array)
+    print(max(list2))
+    print(min(list2))
     #map_segments=defaultdict(list)
     #for k,values in map.items():
-        #map_segments[k].append(segments.segments(values))
+     #   map_segments[k].append(segments.segments(values))
