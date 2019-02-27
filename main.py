@@ -2,7 +2,7 @@ import csv
 from collections import defaultdict
 
 import numpy as np
-
+import find_pattern
 import cluster_segments
 import graph
 import db_queries
@@ -53,9 +53,11 @@ if __name__=="__main__":
 
     '''clustering dei segmenti, relativi ai segnali di tipo 5, in base al loro modulo e alla loro inclinazione'''
     segments,types=cluster_segments.manual_clustering(10,90)
-    print(types)
-    '''rilevazione dei pattern di sequenza di n segmenti'''
+    #print(types)
 
+    '''rilevazione dei pattern di sequenza di n segmenti'''
+    patterns=find_pattern.sliding_window(types,5,10)
+    print(patterns)
 
     # map_segments=defaultdict(list)
     # for k,values in map.items():
