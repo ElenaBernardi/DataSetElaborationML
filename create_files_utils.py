@@ -124,3 +124,11 @@ def take_typ5(type):
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
+
+def save_patterns(dict, type, valueMin):
+    output = open("Patterns Type "+str(type)+".txt", "w+")
+    for key, value in dict.items():
+        if(value>valueMin):
+            output.write("%s\t" % key )
+            output.write("%s\n" % value)
+

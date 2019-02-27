@@ -7,10 +7,10 @@ import segments
 
 '''metodo che restituisce la lista intera dei segmenti appartenenti
  agli utenti, con età compresa in un range, e la loro classe di tipo a cui appartengono, da 1 a 10 '''
-def manual_clustering(ageMin,ageMax):
+def manual_clustering(ageMin,ageMax, type):
     metadatas = []
     #get data from DB
-    results = db_queries.map_user_and_value_from_age_range(ageMin, ageMax)
+    results = db_queries.map_user_and_value_from_age_range(ageMin, ageMax, type)
     #get segments for each user
     elements = segments.segments(results)
     #concatenate all segments for all user
@@ -30,7 +30,7 @@ def get_types_from_metadatas(metadatas):
     #print(metadatas)
     types=[]
     modules,gradients =zip(*metadatas)
-    avg_module = float(max(gradients)/2)
+    avg_module = sum(modules)/float(len(modules))
     for module,gradient in metadatas:
         if gradient<0:
             if 0.1<fabs(gradient)<0.5:
@@ -65,3 +65,10 @@ def get_types_from_metadatas(metadatas):
                 else:
                     types.append("type_6")
     return types
+
+
+
+
+
+
+

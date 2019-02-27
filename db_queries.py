@@ -186,11 +186,11 @@ def prova():
             connection.close()
             print("PostgreSQL connection is closed")
 
-def map_user_and_value_from_age_range(agemin, agemax):
+def map_user_and_value_from_age_range(agemin, agemax, type):
     connection = connection_db.connect()
     try:
         cursor = connection.cursor()
-        postgreSQL_select_Query = "select dataset.value from dataset join users on dataset.userid=users.userid where dataset.type='5' and users.age<"+str(agemax)+" and users.age>"+str(agemin)
+        postgreSQL_select_Query = "select dataset.value from dataset join users on dataset.userid=users.userid where dataset.type="+str(type)+" and users.age<"+str(agemax)+" and users.age>"+str(agemin)
 
         cursor.execute(postgreSQL_select_Query)
         results = cursor.fetchall()

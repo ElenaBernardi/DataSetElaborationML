@@ -155,3 +155,4 @@ def draw_segments(segments):
         ax.add_line(line)
     #ax.plot()
     #fig.show()
+

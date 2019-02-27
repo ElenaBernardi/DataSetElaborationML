@@ -11,6 +11,7 @@ import classificator
 import create_files_utils
 import segments
 import math_operations
+import comparison_between_types
 
 if __name__=="__main__":
 
@@ -52,13 +53,18 @@ if __name__=="__main__":
     #classificator.predict_result(user)
 
     '''clustering dei segmenti, relativi ai segnali di tipo 5, in base al loro modulo e alla loro inclinazione'''
-    segments,types=cluster_segments.manual_clustering(10,90)
+    #segments1,types=cluster_segments.manual_clustering(10,90,5)
+   # segments2, types2 = cluster_segments.manual_clustering(10, 90, 4)
+
+
     #print(types)
 
     '''rilevazione dei pattern di sequenza di n segmenti'''
-    patterns=find_pattern.sliding_window(types,5,10)
-    print(patterns)
 
-    # map_segments=defaultdict(list)
-    # for k,values in map.items():
-    #   map_segments[k].append(segments.segments(values))
+  #  B= types.copy()
+   # d=find_pattern.get_patters(types,B,5)
+    #create_files_utils.save_patterns(d,5,200)
+
+
+    dict=comparison_between_types.compare(10,90,4,5,5)
+   # print(dict)
