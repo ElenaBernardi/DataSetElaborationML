@@ -12,6 +12,7 @@ import create_files_utils
 import segments
 import math_operations
 import comparison_between_types
+import math
 
 if __name__=="__main__":
 
@@ -61,10 +62,13 @@ if __name__=="__main__":
 
     '''rilevazione dei pattern di sequenza di n segmenti'''
 
-  #  B= types.copy()
-   # d=find_pattern.get_patters(types,B,5)
+    #B= types.copy()
+    #d=find_pattern.get_patters(types,B,5)
     #create_files_utils.save_patterns(d,5,200)
 
 
     dict=comparison_between_types.compare(10,90,4,5,5)
-   # print(dict)
+    print(dict)
+    create_files_utils.save_comparison(dict,4,5)
+
+   # print(math.sqrt(2 * 102912 + 1/4) - 1/2)

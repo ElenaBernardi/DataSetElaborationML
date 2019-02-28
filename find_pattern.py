@@ -3,7 +3,8 @@ from collections import defaultdict
 
 def get_patters(A, B, window):
     d = defaultdict(int)
-    while(len(B)>1):
+    #while(len(B)>1):
+    while(len(B)>=window):
         C = []
         B.pop(0)
         for i in range(len(B)):
@@ -24,6 +25,7 @@ def find_pattern(C,A,window):
             count=0
         if(count==window):
             list.append(get_list(A,window,i))
+            count = count-1
     return list
 
 def get_list(A,window,i):

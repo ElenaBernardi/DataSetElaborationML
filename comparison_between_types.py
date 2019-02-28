@@ -8,7 +8,7 @@ def compare(ageMin,ageMax,type2,typeFile,window):
     segments2, types2 = cluster_segments.manual_clustering(ageMin, ageMax, type2)
     print(len(types2))
     print("INIZIO COMPARISON")
-    comparison(types1,types2,typeFile, window)
+    return comparison(types1,types2,typeFile, window)
 
 
 def comparison(list1, list2, type, window):
@@ -16,8 +16,8 @@ def comparison(list1, list2, type, window):
     keys = dict.keys()
     range_iter= min(len(list1),len(list2))
     for key in keys:
-        for i in range(0,200-1):
-            if(i+window<200-1):
+        for i in range(0,range_iter-1):
+            if(i+window<range_iter-1):
                 tmp = ""
                 for j in range(i,i+window):
                     tmp = tmp+" "+list1[j]
@@ -27,8 +27,7 @@ def comparison(list1, list2, type, window):
                     tmp1 = ""
                     for j in range(i,i+window):
                         tmp1= tmp1+" "+list2[j]
-                        dict[key].append(tmp1)
-    print(dict.items())
+                    dict[key].append(tmp1)
     return dict
 
 

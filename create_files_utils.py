@@ -2,6 +2,7 @@ import csv
 import psycopg2
 import connection_db
 import numpy as np
+import math
 #campi del dataset userinfo.csv
 id = 0
 user = 1
@@ -129,6 +130,12 @@ def save_patterns(dict, type, valueMin):
     output = open("Patterns Type "+str(type)+".txt", "w+")
     for key, value in dict.items():
         if(value>valueMin):
+            value =  math.sqrt(2*value+1/4) - 1/2
             output.write("%s\t" % key )
             output.write("%s\n" % value)
 
+def save_comparison(dict,type1,type2):
+    output = open("Compare Type "+str(type1)+" con "+str(type2)+".txt", "w+")
+    for key, values in dict.items():
+            output.write("%s :" % key )
+            output.write("\t%s\n" % values)
