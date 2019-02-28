@@ -6,6 +6,8 @@ from sklearn import linear_model
 from sklearn import model_selection
 from sklearn import metrics
 
+'''fase di training del classificatore che dati in ingresso due tipi di segnale esso addrestra il modello sui valori 
+dei tipi di segnali in input e la relativa età degli utenti'''
 def training(type1,type2):
     trainingset = db_queries.pull_2types_and_age(type1,type2)
     X, y = prepare_input(trainingset)
@@ -25,7 +27,6 @@ def training(type1,type2):
 
     pickle.dump(regr, open(filename, 'wb'))
 
-
 def prepare_input(dataset):
     X=[]
     y=[]
@@ -42,6 +43,8 @@ def prepare_input(dataset):
 
     return X,y
 
+'''metodo che utilizza il modello, creato dal metodo training, per predire la fascia di età di un utente a partire dai 
+suoi valori medi dei due tipi di segnale in input'''
 def predict_result(user, type1=5, type2=2):
   file = open('finalized_model.sav', 'rb')
   input = db_queries.pull_avg_value_from_user(user, type1, type2)
@@ -50,6 +53,7 @@ def predict_result(user, type1=5, type2=2):
   values = ideal_value_by_range_age(result)
   return result, values
 
+'''metotodo che restituisce i valori ideali di PWV e peso ideale dato in input una fascia di età'''
 def ideal_value_by_range_age(range):
     values=""
     if range == "range 0-30":

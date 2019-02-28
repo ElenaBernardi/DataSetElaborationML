@@ -59,7 +59,7 @@ def cluster2D_by_vectors(dataset, vector1, vector2):
 
 
 
-#clusterunf 3D, dato un dataset
+#clustering 3D, dato un dataset
 def cluster3D(dataset, vector1, vector2):
     plt.rcParams['figure.figsize'] = (16, 9)
     dataset = np.array(dataset)

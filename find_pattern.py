@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-
+'''metodo che trova i pattern ricorrenti in una lista, e ritorna in output la lista dei pattern trovati'''
 def get_patters(A, B, window):
     d = defaultdict(int)
     #while(len(B)>1):
@@ -13,7 +13,6 @@ def get_patters(A, B, window):
         for k in list:
            d[k] = d[k]+1
     return d
-
 
 def find_pattern(C,A,window):
     count=0

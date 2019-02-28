@@ -25,7 +25,7 @@ def manual_clustering(ageMin,ageMax, type):
     types=get_types_from_metadatas(metadatas)
     return elements,types
 
-
+'''clustering manuale dei segmenti nei 10 possibili insiemi in base ai valori di inclinazione e modulo'''
 def get_types_from_metadatas(metadatas):
     #print(metadatas)
     types=[]

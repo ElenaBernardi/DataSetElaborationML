@@ -2,6 +2,8 @@ import csv
 from collections import defaultdict
 
 import numpy as np
+
+import comparison_between_types
 import find_pattern
 import cluster_segments
 import graph
@@ -57,7 +59,6 @@ if __name__=="__main__":
     #segments1,types=cluster_segments.manual_clustering(10,90,5)
    # segments2, types2 = cluster_segments.manual_clustering(10, 90, 4)
 
-
     #print(types)
 
     '''rilevazione dei pattern di sequenza di n segmenti'''
@@ -66,11 +67,12 @@ if __name__=="__main__":
     #d=find_pattern.get_patters(types,B,5)
     #create_files_utils.save_patterns(d,5,200)
 
-
+    '''rilevazione di comportamenti ripetitivi in altri segnali al verificarsi dei pattern'''
     #dict=comparison_between_types.compare(10,90,4,5,5)
     #print(dict)
     #create_files_utils.save_comparison(dict,4,5)
 
+    '''rilevazione di comportamenti ripetitivi, relativi ad altri segnali, al verificarsi dei pattern con la relativa percentuale di successo'''
     dict=comparison_between_types.percentage_comparison(4,5)
     create_files_utils.save_percentage(dict)
-   # print(math.sqrt(2 * 102912 + 1/4) - 1/2)
+    # print(math.sqrt(2 * 102912 + 1/4) - 1/2)

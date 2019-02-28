@@ -5,6 +5,9 @@ from collections import defaultdict
 from collections import Counter
 import numpy as np
 
+'''metodo che ritorna, dati in ingresso una fascia di età e due tipi di segnale, un dizionario dove per ogni pattern(chiave),
+riscontrato nel segnale di tipo typeFile e di dimensione window, è associata una lista di ricorrenze registrate nel segnale 
+di tipo type2'''
 def compare(ageMin,ageMax,type2,typeFile,window):
     print("INIZIO CLUSTER1")
     segments1, types1 = cluster_segments.manual_clustering(ageMin, ageMax, typeFile)
@@ -14,7 +17,8 @@ def compare(ageMin,ageMax,type2,typeFile,window):
     print("INIZIO COMPARISON")
     return comparison(types1,types2,typeFile, window)
 
-
+'''metodo di ricerca dei comportamenti ripetitivi nel segnale contenuto nella lista list2[] al verificarsi 
+dei pattern, di dimensione window, nel segnale contenuto nella lista list1[]'''
 def comparison(list1, list2, type, window):
     dict = read_file(type)
     keys = dict.keys()
@@ -34,9 +38,6 @@ def comparison(list1, list2, type, window):
                     dict[key].append(tmp1)
     return dict
 
-
-
-
 def read_file(type):
     dict = defaultdict(list)
     file = open("Patterns Type " + str(type) + ".txt", "r")
@@ -54,6 +55,8 @@ def read_file_comparison(type1,type2):
         dict[tmp[0]] = tmp[1]
     return dict
 
+'''metodo che calcola le ripetizioni dei comportamenti in percentuale, relativo al segnale di tipo type2, al 
+verificarsi di un certo pattern nel segnale di tipo type1; e riporta in output un dizionario con tali informazioni'''
 def percentage_comparison(type1,type2):
     dict_file = read_file_comparison(type1,type2)
     dict1= defaultdict(dict)
