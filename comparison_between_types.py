@@ -8,18 +8,18 @@ import numpy as np
 '''metodo che ritorna, dati in ingresso una fascia di età e due tipi di segnale, un dizionario dove per ogni pattern(chiave),
 riscontrato nel segnale di tipo typeFile e di dimensione window, è associata una lista di ricorrenze registrate nel segnale 
 di tipo type2'''
-def compare(ageMin,ageMax,type2,typeFile,window):
+def compare(ageMin,ageMax,type2,typeFile,window, window2):
     print("INIZIO CLUSTER1")
     segments1, types1 = cluster_segments.manual_clustering(ageMin, ageMax, typeFile)
     print("INIZIO CLUSTER2")
     segments2, types2 = cluster_segments.manual_clustering(ageMin, ageMax, type2)
     print(len(types2))
     print("INIZIO COMPARISON")
-    return comparison(types1,types2,typeFile, window)
+    return comparison(types1,types2,typeFile, window, window2)
 
 '''metodo di ricerca dei comportamenti ripetitivi nel segnale contenuto nella lista list2[] al verificarsi 
 dei pattern, di dimensione window, nel segnale contenuto nella lista list1[]'''
-def comparison(list1, list2, type, window):
+def comparison(list1, list2, type, window, window2):
     dict = read_file(type)
     keys = dict.keys()
     range_iter= min(len(list1),len(list2))
@@ -29,13 +29,12 @@ def comparison(list1, list2, type, window):
                 tmp = ""
                 for j in range(i,i+window):
                     tmp = tmp+" "+list1[j]
-                #print("tmp: "+tmp +"chiave: "+ key)
-                #print(key.replace(" ","")==tmp.replace(" ",""))
                 if(key.replace(" ","")==tmp.replace(" ","")):
                     tmp1 = ""
-                    for j in range(i,i+window):
-                        tmp1= tmp1+" "+list2[j]
-                    dict[key].append(tmp1)
+                    if (i + window2 < len(list2) - 1):
+                        for j in range(i,i+window2):
+                            tmp1= tmp1+" "+list2[j]
+                        dict[key].append(tmp1)
     return dict
 
 def read_file(type):
