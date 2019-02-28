@@ -1,5 +1,9 @@
+from IPython.core.tests.tclass import C
+
 import cluster_segments
 from collections import defaultdict
+from collections import Counter
+import numpy as np
 
 def compare(ageMin,ageMax,type2,typeFile,window):
     print("INIZIO CLUSTER1")
@@ -40,3 +44,34 @@ def read_file(type):
         tmp = x.split(sep='\t')
         dict[tmp[0]]
     return dict
+
+
+def read_file_comparison(type1,type2):
+    dict = defaultdict(list)
+    file = open("Compare Type "+str(type1)+" con "+str(type2)+".txt", "r")
+    for x in file:
+        tmp = x.split(sep='\t')
+        dict[tmp[0]] = tmp[1]
+    return dict
+
+def percentage_comparison(type1,type2):
+    dict_file = read_file_comparison(type1,type2)
+    dict1= defaultdict(dict)
+    for key, values in dict_file.items():
+
+        values=values.replace("]","")
+        values = values.replace("[", "")
+        values = values.replace(" ", "")
+        print("########")
+        print(values)
+        array = values.split(sep=',')
+        dict1[key] = Counter(array)
+        tot=0
+        final_dict=defaultdict(int)
+        for key1,values1 in dict1[key].items():
+            tot = int(values1)+ tot
+        for key1, values1 in dict1[key].items():
+            values2 = (values1/tot * 100)
+            final_dict[key1]=values2
+        dict1[key]=final_dict
+    return dict1

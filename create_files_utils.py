@@ -137,5 +137,13 @@ def save_patterns(dict, type, valueMin):
 def save_comparison(dict,type1,type2):
     output = open("Compare Type "+str(type1)+" con "+str(type2)+".txt", "w+")
     for key, values in dict.items():
-            output.write("%s :" % key )
+            output.write("%s" % key )
             output.write("\t%s\n" % values)
+
+def save_percentage(dict):
+    output = open("Percentage.txt", "w+")
+    for key, values in dict.items():
+        output.write("%s :\n" % key)
+        for key1, values1 in values.items():
+            output.write("\t\t%s : " % key1)
+            output.write("%s\n" % values1)

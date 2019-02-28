@@ -1,0 +1,3688 @@
+type_6 type_6 type_6 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 17.594254937163374
+		'type_3type_3type_3type_3type_9' : 0.3590664272890485
+		'type_3type_3type_3type_9type_9' : 0.5385996409335727
+		'type_9type_9type_9type_9type_9' : 27.109515260323157
+		'type_9type_9type_9type_9type_3' : 0.5385996409335727
+		'type_10type_10type_10type_10type_10' : 13.285457809694792
+		'type_9type_9type_3type_3type_3' : 0.17953321364452424
+		'type_9type_3type_3type_3type_3' : 0.718132854578097
+		'type_4type_4type_4type_4type_4' : 11.490125673249551
+		'type_3type_3type_9type_9type_9' : 0.718132854578097
+		'type_3type_9type_9type_9type_9' : 0.8976660682226212
+		'type_3type_3type_3type_3type_4' : 0.17953321364452424
+		'type_3type_3type_3type_4type_4' : 0.3590664272890485
+		'type_4type_4type_4type_3type_3' : 0.5385996409335727
+		'type_4type_4type_3type_3type_3' : 0.5385996409335727
+		'type_4type_3type_3type_3type_3' : 0.5385996409335727
+		'type_4type_4type_4type_10type_10' : 0.5385996409335727
+		'type_4type_4type_9type_4type_4' : 0.17953321364452424
+		'type_4type_9type_9type_9type_9' : 0.718132854578097
+		'type_10type_10type_10type_10type_4' : 0.3590664272890485
+		'type_10type_10type_10type_4type_4' : 0.3590664272890485
+		'type_5type_5type_5type_5type_5' : 4.308797127468582
+		'type_9type_9type_4type_4type_4' : 0.3590664272890485
+		'type_9type_4type_4type_4type_4' : 0.3590664272890485
+		'type_9type_9type_5type_5type_7' : 0.17953321364452424
+		'type_9type_5type_5type_7type_5' : 0.17953321364452424
+		'type_5type_5type_7type_5type_5' : 0.17953321364452424
+		'type_5type_7type_5type_5type_5' : 0.17953321364452424
+		'type_7type_5type_5type_5type_5' : 0.17953321364452424
+		'type_5type_5type_5type_5type_1' : 0.17953321364452424
+		'type_5type_5type_5type_1type_1' : 0.17953321364452424
+		'type_5type_5type_1type_1type_1' : 0.17953321364452424
+		'type_4type_4type_10type_10type_10' : 0.3590664272890485
+		'type_10type_4type_4type_4type_4' : 0.5385996409335727
+		'type_10type_10type_4type_4type_4' : 0.3590664272890485
+		'type_7type_7type_7type_7type_1' : 0.17953321364452424
+		'type_7type_7type_7type_1type_1' : 0.17953321364452424
+		'type_1type_1type_1type_1type_1' : 3.052064631956912
+		'type_10type_10type_10type_3type_3' : 0.17953321364452424
+		'type_9type_9type_9type_9type_7' : 0.3590664272890485
+		'type_9type_9type_9type_7type_7' : 0.3590664272890485
+		'type_9type_9type_7type_7type_7' : 0.3590664272890485
+		'type_9type_7type_7type_7type_7' : 0.17953321364452424
+		'type_7type_7type_7type_7type_9' : 0.3590664272890485
+		'type_3type_3type_3type_10type_10' : 0.17953321364452424
+		'type_9type_9type_9type_9type_10' : 0.17953321364452424
+		'type_4type_4type_4type_9type_9' : 0.3590664272890485
+		'type_4type_4type_9type_9type_9' : 0.3590664272890485
+		'type_7type_7type_7type_7type_7' : 0.5385996409335727
+		'type_3type_9type_9type_10type_10' : 0.17953321364452424
+		'type_9type_9type_10type_10type_10' : 0.3590664272890485
+		'type_9type_10type_10type_10type_10' : 0.17953321364452424
+		'type_3type_10type_10type_10type_10' : 0.3590664272890485
+		'type_10type_4type_10type_10type_10' : 0.3590664272890485
+		'type_4type_10type_10type_10type_10' : 0.3590664272890485
+		'type_10type_9type_9type_9type_9' : 0.718132854578097
+		'type_7type_7type_9type_9type_9' : 0.17953321364452424
+		'type_3type_3type_4type_4type_4' : 0.17953321364452424
+		'type_3type_4type_4type_4type_9' : 0.17953321364452424
+		'type_1type_1type_1type_3type_3' : 0.17953321364452424
+		'type_5type_5type_5type_5type_3' : 0.17953321364452424
+		'type_7type_7type_7type_9type_9' : 0.17953321364452424
+		'type_4type_4type_4type_4type_10' : 0.17953321364452424
+		'type_10type_3type_3type_3type_3' : 0.3590664272890485
+		'type_10type_10type_10type_10type_3' : 0.3590664272890485
+		'type_3type_9type_9type_9type_1' : 0.17953321364452424
+		'type_9type_9type_9type_1type_1' : 0.17953321364452424
+		'type_9type_9type_1type_1type_1' : 0.17953321364452424
+		'type_9type_1type_1type_1type_1' : 0.17953321364452424
+		'type_9type_9type_9type_4type_4' : 0.17953321364452424
+		'type_1type_1type_1type_1type_9' : 0.17953321364452424
+		'type_1type_1type_1type_9type_9' : 0.17953321364452424
+		'type_10type_10type_10type_9type_9' : 0.17953321364452424
+		'type_10type_10type_9type_9type_9' : 0.17953321364452424
+		'type_9type_9type_9type_3type_3' : 0.17953321364452424
+		'type_9type_5type_5type_5type_5' : 0.17953321364452424
+		'type_7type_7type_10type_10type_10' : 0.17953321364452424
+		'type_7type_10type_10type_10type_10' : 0.17953321364452424
+		'type_10type_10type_3type_3type_3' : 0.17953321364452424
+		'type_4type_4type_4type_4type_3' : 0.17953321364452424
+		'type_9type_7type_7type_7type_5' : 0.17953321364452424
+		'type_9type_9type_9type_9type_1' : 0.17953321364452424
+		'type_4type_4type_9type_9type_9'
+ : 0.17953321364452424
+type_7 type_7 type_7 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 27.685950413223143
+		'type_1type_1type_1type_1type_1' : 3.3057851239669422
+		'type_10type_10type_10type_10type_10' : 16.94214876033058
+		'type_7type_7type_7type_7type_7' : 2.066115702479339
+		'type_10type_10type_10type_10type_3' : 0.4132231404958678
+		'type_3type_3type_3type_3type_3' : 15.702479338842975
+		'type_4type_4type_4type_4type_4' : 14.87603305785124
+		'type_4type_9type_9type_9type_9' : 0.8264462809917356
+		'type_10type_10type_10type_10type_9' : 1.6528925619834711
+		'type_3type_3type_3type_5type_5' : 0.4132231404958678
+		'type_3type_3type_5type_5type_5' : 0.4132231404958678
+		'type_9type_3type_3type_3type_3' : 1.2396694214876034
+		'type_10type_10type_10type_9type_9' : 0.8264462809917356
+		'type_9type_9type_9type_4type_4' : 0.4132231404958678
+		'type_9type_9type_4type_4type_4' : 0.4132231404958678
+		'type_9type_4type_4type_4type_4' : 0.4132231404958678
+		'type_4type_4type_4type_4type_10' : 0.8264462809917356
+		'type_3type_3type_7type_7type_7' : 0.4132231404958678
+		'type_5type_5type_5type_5type_5' : 1.2396694214876034
+		'type_3type_3type_3type_3type_9' : 0.4132231404958678
+		'type_3type_1type_1type_1type_4' : 0.4132231404958678
+		'type_9type_9type_7type_7type_7' : 0.4132231404958678
+		'type_3type_3type_3type_3type_4' : 0.4132231404958678
+		'type_3type_3type_3type_4type_4' : 0.4132231404958678
+		'type_3type_3type_4type_4type_4' : 0.8264462809917356
+		'type_3type_4type_4type_4type_4' : 0.4132231404958678
+		'type_10type_10type_9type_9type_9' : 0.4132231404958678
+		'type_10type_9type_9type_9type_9' : 0.4132231404958678
+		'type_9type_9type_3type_3type_3' : 1.2396694214876034
+		'type_9type_9type_9type_9type_4' : 0.4132231404958678
+		'type_9type_3type_9type_9type_9' : 0.4132231404958678
+		'type_3type_9type_9type_9type_9' : 0.4132231404958678
+		'type_1type_9type_9type_9type_9' : 0.4132231404958678
+		'type_9type_9type_9type_3type_3' : 0.8264462809917356
+		'type_10type_10type_4type_3type_3' : 0.4132231404958678
+		'type_4type_10type_10type_10type_10' : 0.4132231404958678
+		'type_9type_9type_9type_9type_10' : 0.4132231404958678
+		'type_4type_3type_3type_3type_3' : 0.4132231404958678
+		'type_4type_4type_4type_4type_3'
+ : 0.4132231404958678
+type_3 type_3 type_3 type_3 type_3  :
+		'type_1type_1type_1type_1type_1' : 2.066115702479339
+		'type_1type_1type_1type_1type_9' : 0.4132231404958678
+		'type_1type_1type_1type_9type_9' : 0.4132231404958678
+		'type_4type_4type_4type_4type_4' : 15.702479338842975
+		'type_9type_9type_9type_9type_3' : 0.4132231404958678
+		'type_9type_9type_9type_9type_9' : 23.553719008264462
+		'type_10type_10type_10type_10type_10' : 7.43801652892562
+		'type_3type_3type_3type_3type_3' : 28.09917355371901
+		'type_7type_7type_7type_7type_7' : 4.132231404958678
+		'type_7type_7type_7type_7type_3' : 0.4132231404958678
+		'type_10type_10type_10type_10type_4' : 0.4132231404958678
+		'type_10type_10type_10type_4type_4' : 0.4132231404958678
+		'type_10type_10type_4type_4type_4' : 0.4132231404958678
+		'type_10type_4type_4type_4type_4' : 0.4132231404958678
+		'type_3type_3type_3type_3type_10' : 0.4132231404958678
+		'type_3type_3type_3type_10type_10' : 0.8264462809917356
+		'type_9type_9type_3type_3type_3' : 0.4132231404958678
+		'type_9type_3type_3type_3type_3' : 0.4132231404958678
+		'type_3type_3type_10type_10type_10' : 0.4132231404958678
+		'type_1type_1type_1type_1type_10' : 0.4132231404958678
+		'type_1type_1type_1type_10type_10' : 0.4132231404958678
+		'type_3type_10type_10type_9type_3' : 0.4132231404958678
+		'type_10type_10type_9type_3type_3' : 0.4132231404958678
+		'type_10type_9type_3type_3type_3' : 0.4132231404958678
+		'type_9type_9type_9type_10type_10' : 0.4132231404958678
+		'type_7type_7type_7type_10type_10' : 0.4132231404958678
+		'type_4type_4type_4type_4type_7' : 0.4132231404958678
+		'type_4type_4type_4type_7type_7' : 0.4132231404958678
+		'type_4type_3type_3type_3type_3' : 0.8264462809917356
+		'type_3type_3type_3type_3type_9' : 0.4132231404958678
+		'type_9type_10type_10type_10type_10' : 0.4132231404958678
+		'type_9type_9type_9type_7type_7' : 0.4132231404958678
+		'type_3type_3type_4type_4type_3' : 0.4132231404958678
+		'type_10type_10type_10type_3type_3' : 1.2396694214876034
+		'type_10type_10type_3type_3type_3' : 0.4132231404958678
+		'type_10type_3type_3type_3type_3' : 0.4132231404958678
+		'type_4type_4type_3type_3type_3' : 0.4132231404958678
+		'type_3type_3type_9type_9type_9' : 0.4132231404958678
+		'type_10type_10type_10type_10type_3' : 0.4132231404958678
+		'type_3type_3type_3type_4type_9' : 0.4132231404958678
+		'type_3type_3type_9type_4type_4' : 0.4132231404958678
+		'type_7type_7type_7type_7type_9' : 0.4132231404958678
+		'type_10type_10type_10type_9type_9' : 0.4132231404958678
+		'type_7type_7type_9type_9type_9' : 0.4132231404958678
+		'type_3type_3type_3type_1type_1' : 0.4132231404958678
+		'type_10type_10type_9type_9type_9' : 0.4132231404958678
+		'type_10type_9type_9type_9type_9' : 0.4132231404958678
+		'type_7type_7type_7type_7type_4'
+ : 0.4132231404958678
+type_1 type_1 type_1 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 18.803418803418804
+		'type_9type_3type_3type_4type_4' : 0.4273504273504274
+		'type_3type_3type_4type_4type_4' : 0.8547008547008548
+		'type_10type_10type_10type_10type_10' : 16.23931623931624
+		'type_3type_3type_3type_3type_3' : 22.64957264957265
+		'type_10type_9type_9type_9type_9' : 0.4273504273504274
+		'type_4type_4type_4type_4type_4' : 14.529914529914532
+		'type_7type_7type_7type_7type_7' : 1.282051282051282
+		'type_7type_7type_7type_7type_6' : 0.4273504273504274
+		'type_10type_10type_10type_10type_9' : 0.4273504273504274
+		'type_3type_9type_9type_9type_9' : 0.8547008547008548
+		'type_7type_3type_10type_10type_10' : 0.4273504273504274
+		'type_3type_10type_10type_10type_10' : 0.4273504273504274
+		'type_3type_3type_3type_3type_9' : 0.4273504273504274
+		'type_10type_10type_10type_4type_4' : 0.8547008547008548
+		'type_10type_10type_4type_4type_4' : 0.4273504273504274
+		'type_9type_9type_9type_3type_3' : 0.8547008547008548
+		'type_9type_9type_3type_3type_3' : 0.8547008547008548
+		'type_1type_1type_7type_7type_7' : 0.4273504273504274
+		'type_9type_3type_3type_3type_3' : 1.282051282051282
+		'type_9type_9type_9type_9type_1' : 0.4273504273504274
+		'type_3type_7type_7type_7type_7' : 0.4273504273504274
+		'type_7type_7type_7type_7type_4' : 0.4273504273504274
+		'type_7type_7type_7type_4type_4' : 0.4273504273504274
+		'type_7type_7type_4type_4type_4' : 0.4273504273504274
+		'type_7type_4type_4type_4type_4' : 0.4273504273504274
+		'type_3type_3type_9type_9type_9' : 0.4273504273504274
+		'type_1type_1type_4type_5type_5' : 0.4273504273504274
+		'type_9type_9type_9type_4type_4' : 0.8547008547008548
+		'type_9type_9type_4type_4type_4' : 0.4273504273504274
+		'type_1type_1type_1type_1type_1' : 2.564102564102564
+		'type_10type_4type_4type_4type_4' : 0.4273504273504274
+		'type_9type_9type_3type_3type_9' : 0.4273504273504274
+		'type_3type_3type_3type_9type_9' : 0.4273504273504274
+		'type_9type_9type_9type_9type_4' : 0.4273504273504274
+		'type_7type_7type_5type_9type_9' : 0.4273504273504274
+		'type_7type_5type_9type_9type_9' : 0.4273504273504274
+		'type_5type_9type_9type_9type_9' : 0.4273504273504274
+		'type_9type_10type_10type_10type_10' : 0.4273504273504274
+		'type_3type_3type_3type_4type_4' : 0.8547008547008548
+		'type_3type_3type_4type_4type_9' : 0.4273504273504274
+		'type_5type_5type_5type_5type_5' : 2.9914529914529915
+		'type_9type_9type_10type_10type_10' : 0.4273504273504274
+		'type_3type_3type_3type_3type_4' : 0.8547008547008548
+		'type_10type_10type_10type_3type_9' : 0.4273504273504274
+		'type_9type_9type_9type_9type_9'
+ : 0.4273504273504274
+type_5 type_5 type_5 type_5 type_5  :
+		'type_10type_10type_10type_10type_10' : 13.215859030837004
+		'type_10type_10type_10type_10type_9' : 0.4405286343612335
+		'type_9type_9type_3type_3type_3' : 0.881057268722467
+		'type_9type_3type_3type_3type_3' : 1.3215859030837005
+		'type_3type_3type_3type_3type_3' : 24.229074889867842
+		'type_9type_9type_9type_9type_9' : 22.46696035242291
+		'type_10type_10type_10type_9type_9' : 0.881057268722467
+		'type_9type_9type_9type_9type_4' : 0.4405286343612335
+		'type_9type_9type_9type_4type_4' : 0.4405286343612335
+		'type_9type_9type_4type_4type_4' : 0.4405286343612335
+		'type_9type_4type_4type_4type_4' : 0.4405286343612335
+		'type_4type_4type_4type_4type_4' : 12.77533039647577
+		'type_4type_4type_4type_4type_9' : 0.881057268722467
+		'type_9type_10type_10type_10type_10' : 1.3215859030837005
+		'type_10type_10type_1type_1type_1' : 0.4405286343612335
+		'type_10type_1type_1type_1type_1' : 0.4405286343612335
+		'type_1type_1type_1type_1type_1' : 2.2026431718061676
+		'type_4type_4type_4type_4type_3' : 0.881057268722467
+		'type_7type_3type_3type_3type_3' : 0.4405286343612335
+		'type_3type_3type_3type_3type_10' : 0.4405286343612335
+		'type_3type_3type_3type_10type_10' : 0.4405286343612335
+		'type_3type_9type_9type_9type_9' : 0.881057268722467
+		'type_7type_7type_7type_7type_7' : 3.524229074889868
+		'type_4type_9type_9type_9type_9' : 0.4405286343612335
+		'type_4type_9type_3type_3type_3' : 0.4405286343612335
+		'type_9type_7type_7type_7type_7' : 0.4405286343612335
+		'type_7type_4type_4type_4type_4' : 0.4405286343612335
+		'type_4type_4type_4type_4type_10' : 0.4405286343612335
+		'type_4type_4type_4type_10type_10' : 0.4405286343612335
+		'type_5type_3type_3type_3type_3' : 0.4405286343612335
+		'type_3type_3type_3type_3type_4' : 0.881057268722467
+		'type_3type_3type_3type_4type_4' : 0.881057268722467
+		'type_3type_3type_4type_4type_3' : 0.4405286343612335
+		'type_3type_4type_4type_3type_3' : 0.4405286343612335
+		'type_1type_1type_9type_9type_9' : 0.4405286343612335
+		'type_1type_9type_9type_9type_9' : 0.4405286343612335
+		'type_5type_5type_5type_5type_3' : 0.4405286343612335
+		'type_3type_3type_4type_4type_4' : 0.4405286343612335
+		'type_3type_4type_4type_4type_4' : 0.4405286343612335
+		'type_4type_4type_1type_1type_1' : 0.4405286343612335
+		'type_4type_1type_1type_1type_1' : 0.4405286343612335
+		'type_9type_9type_9type_9type_3' : 0.4405286343612335
+		'type_7type_7type_7type_7type_9' : 0.4405286343612335
+		'type_9type_9type_9type_9type_9'
+ : 0.4405286343612335
+type_9 type_9 type_9 type_9 type_9  :
+		'type_9type_9type_9type_9type_9' : 22.58064516129032
+		'type_4type_4type_4type_4type_4' : 20.276497695852534
+		'type_4type_10type_10type_10type_10' : 0.9216589861751152
+		'type_3type_3type_3type_3type_3' : 22.119815668202765
+		'type_3type_3type_3type_3type_4' : 0.4608294930875576
+		'type_10type_10type_10type_10type_10' : 11.52073732718894
+		'type_4type_4type_7type_7type_7' : 0.4608294930875576
+		'type_4type_7type_7type_7type_4' : 0.4608294930875576
+		'type_4type_4type_10type_10type_10' : 0.4608294930875576
+		'type_3type_3type_3type_3type_10' : 0.9216589861751152
+		'type_10type_10type_10type_10type_7' : 0.4608294930875576
+		'type_3type_4type_4type_4type_4' : 0.4608294930875576
+		'type_4type_3type_3type_3type_3' : 0.4608294930875576
+		'type_1type_1type_1type_1type_7' : 0.4608294930875576
+		'type_10type_10type_10type_10type_9' : 0.4608294930875576
+		'type_9type_9type_9type_9type_10' : 1.3824884792626728
+		'type_4type_4type_5type_5type_5' : 0.4608294930875576
+		'type_4type_5type_5type_5type_5' : 0.4608294930875576
+		'type_9type_9type_9type_9type_3' : 0.9216589861751152
+		'type_3type_3type_1type_1type_1' : 0.4608294930875576
+		'type_3type_1type_1type_1type_1' : 0.4608294930875576
+		'type_7type_7type_7type_7type_7' : 0.9216589861751152
+		'type_3type_9type_9type_9type_9' : 0.9216589861751152
+		'type_3type_3type_3type_10type_10' : 0.4608294930875576
+		'type_3type_3type_9type_9type_9' : 0.9216589861751152
+		'type_9type_9type_10type_1type_1' : 0.4608294930875576
+		'type_1type_1type_1type_1type_1' : 1.3824884792626728
+		'type_5type_5type_5type_5type_5' : 1.8433179723502304
+		'type_9type_9type_9type_3type_9' : 0.4608294930875576
+		'type_9type_9type_3type_9type_9' : 0.4608294930875576
+		'type_10type_3type_3type_3type_9' : 0.4608294930875576
+		'type_5type_5type_5type_9type_9' : 0.4608294930875576
+		'type_3type_3type_3type_3type_9' : 0.4608294930875576
+		'type_9type_9type_9type_9type_5' : 0.4608294930875576
+		'type_4type_9type_9type_9type_9' : 0.9216589861751152
+		'type_3type_3type_4type_4type_4' : 0.4608294930875576
+		'type_5type_5type_5type_7type_7' : 0.4608294930875576
+		'type_3type_3type_10type_10type_10' : 0.4608294930875576
+		'type_4type_4type_4type_9type_9' : 0.4608294930875576
+		'type_4type_4type_9type_9type_9' : 0.4608294930875576
+		'type_10type_10type_10type_10type_10'
+ : 0.4608294930875576
+type_10 type_10 type_10 type_10 type_10  :
+		'type_4type_4type_4type_4type_4' : 19.230769230769234
+		'type_3type_3type_3type_3type_3' : 19.230769230769234
+		'type_3type_3type_3type_3type_4' : 3.8461538461538463
+		'type_4type_4type_9type_9type_9' : 3.8461538461538463
+		'type_3type_9type_9type_9type_9' : 3.8461538461538463
+		'type_3type_3type_4type_4type_3' : 3.8461538461538463
+		'type_3type_3type_3type_3type_10' : 3.8461538461538463
+		'type_3type_3type_3type_10type_10' : 3.8461538461538463
+		'type_3type_3type_10type_10type_10' : 3.8461538461538463
+		'type_3type_10type_10type_10type_10' : 3.8461538461538463
+		'type_4type_4type_4type_4type_10' : 3.8461538461538463
+		'type_4type_4type_4type_10type_10' : 3.8461538461538463
+		'type_4type_4type_3type_3type_3' : 3.8461538461538463
+		'type_9type_9type_9type_1type_1' : 3.8461538461538463
+		'type_9type_9type_1type_1type_1' : 3.8461538461538463
+		'type_9type_1type_1type_1type_1' : 3.8461538461538463
+		'type_9type_9type_9type_9type_9' : 3.8461538461538463
+		'type_5type_5type_5type_5type_5'
+ : 3.8461538461538463
+type_4 type_4 type_4 type_4 type_4  :
+		'type_9type_9type_9type_9type_9' : 53.57142857142857
+		'type_4type_4type_4type_4type_4' : 21.428571428571427
+		'type_3type_3type_3type_3type_3' : 3.571428571428571
+		'type_3type_3type_3type_3type_9' : 3.571428571428571
+		'type_3type_3type_3type_9type_9' : 3.571428571428571
+		'type_3type_3type_9type_9type_9' : 3.571428571428571
+		'type_4type_4type_4type_4type_7' : 3.571428571428571
+		'type_3type_4type_4type_4type_4' : 3.571428571428571
+		'type_4type_4type_4type_4type_4'
+ : 3.571428571428571
+type_2 type_2 type_2 type_2 type_2  :
+		'type_10type_10type_10type_10type_10' : 33.33333333333333
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_9type_3type_3type_9type_9' : 2.380952380952381
+		'type_3type_3type_9type_9type_9' : 2.380952380952381
+		'type_5type_5type_5type_5type_5' : 2.380952380952381
+		'type_1type_1type_1type_1type_10' : 2.380952380952381
+		'type_1type_1type_1type_10type_10' : 2.380952380952381
+		'type_1type_1type_1type_1type_1' : 2.380952380952381
+		'type_9type_9type_9type_9type_9' : 4.761904761904762
+		'type_9type_9type_9type_3type_3' : 2.380952380952381
+		'type_9type_9type_3type_3type_1' : 2.380952380952381
+		'type_3type_3type_3type_3type_9' : 2.380952380952381
+		'type_3type_3type_3type_3type_4' : 2.380952380952381
+		'type_3type_3type_3type_4type_4' : 2.380952380952381
+		'type_3type_3type_4type_4type_4' : 2.380952380952381
+		'type_7type_7type_7type_7type_7' : 9.523809523809524
+		'type_7type_7type_7type_7type_3' : 2.380952380952381
+		'type_7type_7type_7type_3type_1' : 2.380952380952381
+		'type_7type_7type_7type_7type_7'
+ : 2.380952380952381
+type_8 type_8 type_8 type_8 type_8  :
+		'type_9type_9type_9type_9type_4' : 5.555555555555555
+		'type_4type_4type_4type_4type_4' : 11.11111111111111
+		'type_4type_4type_4type_4type_3' : 2.7777777777777777
+		'type_3type_3type_3type_3type_3' : 27.77777777777778
+		'type_1type_1type_1type_1type_1' : 2.7777777777777777
+		'type_1type_1type_1type_1type_4' : 2.7777777777777777
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_7type_7type_7type_7type_7' : 2.7777777777777777
+		'type_9type_9type_3type_3type_3' : 2.7777777777777777
+		'type_9type_3type_3type_3type_3' : 2.7777777777777777
+		'type_9type_9type_9type_9type_3' : 2.7777777777777777
+		'type_10type_10type_10type_10type_9' : 2.7777777777777777
+		'type_10type_10type_10type_9type_9' : 2.7777777777777777
+		'type_10type_10type_9type_9type_9' : 2.7777777777777777
+		'type_10type_9type_9type_9type_9' : 2.7777777777777777
+		'type_4type_4type_4type_4type_10' : 2.7777777777777777
+		'type_5type_5type_4type_4type_4' : 2.7777777777777777
+		'type_5type_4type_4type_4type_4'
+ : 2.7777777777777777
+type_6 type_6 type_3 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 25.0
+		'type_3type_3type_3type_3type_3' : 18.75
+		'type_10type_10type_10type_10type_10' : 14.0625
+		'type_4type_4type_4type_4type_4' : 12.5
+		'type_9type_9type_9type_4type_4' : 3.125
+		'type_3type_3type_5type_3type_1' : 1.5625
+		'type_4type_4type_3type_3type_3' : 1.5625
+		'type_3type_3type_9type_1type_1' : 1.5625
+		'type_5type_5type_5type_5type_5' : 1.5625
+		'type_3type_3type_9type_9type_9' : 1.5625
+		'type_1type_1type_1type_1type_1' : 1.5625
+		'type_4type_4type_7type_10type_3' : 1.5625
+		'type_10type_10type_1type_1type_1' : 1.5625
+		'type_7type_7type_7type_7type_7' : 3.125
+		'type_3type_4type_4type_4type_10' : 1.5625
+		'type_3type_3type_3type_3type_7' : 1.5625
+		'type_3type_3type_3type_3type_1' : 1.5625
+		'type_10type_3type_3type_3type_3' : 1.5625
+		'type_10type_10type_10type_10type_9' : 1.5625
+		'type_10type_10type_10type_3type_3' : 1.5625
+		'type_4type_4type_4type_4type_4'
+ : 1.5625
+type_7 type_7 type_3 type_7 type_7  :
+		'type_3type_3type_3type_3type_3' : 26.666666666666668
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_10type_10type_10type_10type_10' : 6.666666666666667
+		'type_4type_3type_3type_3type_3' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4' : 23.333333333333332
+		'type_10type_10type_10type_10type_4' : 3.3333333333333335
+		'type_3type_4type_4type_4type_4' : 3.3333333333333335
+		'type_4type_9type_9type_9type_9' : 3.3333333333333335
+		'type_3type_3type_3type_3type_4' : 3.3333333333333335
+		'type_4type_4type_4type_9type_9' : 3.3333333333333335
+		'type_9type_3type_3type_3type_3'
+ : 3.3333333333333335
+type_6 type_6 type_7 type_6 type_6  :
+		'type_4type_4type_4type_3type_3' : 1.4705882352941175
+		'type_9type_9type_9type_9type_9' : 25.0
+		'type_7type_7type_9type_9type_9' : 1.4705882352941175
+		'type_4type_4type_4type_4type_4' : 10.294117647058822
+		'type_9type_9type_9type_9type_3' : 1.4705882352941175
+		'type_10type_10type_10type_10type_10' : 8.823529411764707
+		'type_7type_7type_7type_7type_7' : 4.411764705882353
+		'type_4type_4type_3type_3type_3' : 1.4705882352941175
+		'type_1type_1type_1type_1type_1' : 2.941176470588235
+		'type_1type_1type_1type_1type_3' : 1.4705882352941175
+		'type_4type_9type_9type_9type_9' : 1.4705882352941175
+		'type_3type_10type_10type_10type_10' : 2.941176470588235
+		'type_4type_4type_4type_10type_10' : 1.4705882352941175
+		'type_3type_3type_3type_3type_3' : 11.76470588235294
+		'type_9type_9type_9type_9type_4' : 2.941176470588235
+		'type_1type_1type_1type_1type_10' : 1.4705882352941175
+		'type_1type_10type_10type_10type_10' : 1.4705882352941175
+		'type_5type_5type_5type_4type_4' : 1.4705882352941175
+		'type_5type_5type_4type_4type_4' : 1.4705882352941175
+		'type_3type_3type_3type_10type_10' : 2.941176470588235
+		'type_5type_5type_5type_5type_5' : 2.941176470588235
+		'type_9type_9type_3type_3type_10' : 1.4705882352941175
+		'type_3type_3type_3type_3type_4' : 1.4705882352941175
+		'type_3type_4type_4type_4type_4' : 1.4705882352941175
+		'type_5type_5type_1type_3type_3' : 1.4705882352941175
+		'type_4type_4type_4type_4type_9' : 1.4705882352941175
+		'type_10type_10type_10type_10type_10'
+ : 1.4705882352941175
+type_6 type_6 type_2 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 16.27906976744186
+		'type_4type_4type_4type_9type_9' : 2.3255813953488373
+		'type_10type_10type_10type_10type_10' : 16.27906976744186
+		'type_4type_4type_4type_4type_4' : 11.627906976744185
+		'type_3type_3type_3type_3type_3' : 13.953488372093023
+		'type_9type_3type_3type_3type_3' : 2.3255813953488373
+		'type_1type_1type_1type_1type_1' : 9.30232558139535
+		'type_7type_7type_7type_7type_7' : 6.976744186046512
+		'type_7type_7type_7type_9type_3' : 2.3255813953488373
+		'type_3type_3type_3type_9type_9' : 2.3255813953488373
+		'type_3type_3type_3type_3type_1' : 2.3255813953488373
+		'type_3type_10type_10type_10type_10' : 2.3255813953488373
+		'type_3type_3type_9type_9type_9' : 2.3255813953488373
+		'type_3type_3type_3type_3type_4' : 2.3255813953488373
+		'type_4type_4type_1type_1type_1' : 2.3255813953488373
+		'type_3type_4type_4type_4type_4' : 2.3255813953488373
+		'type_3type_3type_3type_3type_3'
+ : 2.3255813953488373
+type_6 type_6 type_6 type_8 type_6  :
+		'type_9type_9type_9type_9type_3' : 4.3478260869565215
+		'type_5type_5type_5type_5type_5' : 4.3478260869565215
+		'type_5type_5type_5type_10type_10' : 4.3478260869565215
+		'type_4type_4type_4type_4type_4' : 13.043478260869565
+		'type_3type_3type_3type_3type_3' : 17.391304347826086
+		'type_10type_10type_10type_10type_10' : 21.73913043478261
+		'type_9type_9type_9type_9type_9' : 4.3478260869565215
+		'type_1type_1type_10type_10type_10' : 4.3478260869565215
+		'type_7type_7type_7type_7type_7' : 4.3478260869565215
+		'type_3type_3type_3type_3type_7' : 4.3478260869565215
+		'type_1type_1type_1type_1type_1' : 4.3478260869565215
+		'type_9type_9type_9type_9type_7' : 4.3478260869565215
+		'type_10type_10type_10type_3type_3' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3'
+ : 4.3478260869565215
+type_6 type_7 type_6 type_6 type_6  :
+		'type_4type_4type_3type_3type_3' : 1.7543859649122806
+		'type_3type_3type_3type_3type_3' : 15.789473684210526
+		'type_9type_9type_9type_9type_9' : 12.280701754385964
+		'type_4type_4type_4type_4type_4' : 12.280701754385964
+		'type_9type_9type_9type_3type_3' : 1.7543859649122806
+		'type_10type_10type_10type_10type_10' : 15.789473684210526
+		'type_7type_7type_7type_7type_7' : 7.017543859649122
+		'type_4type_3type_3type_3type_3' : 1.7543859649122806
+		'type_1type_1type_1type_1type_1' : 3.508771929824561
+		'type_1type_1type_1type_3type_3' : 1.7543859649122806
+		'type_1type_1type_1type_1type_10' : 1.7543859649122806
+		'type_4type_4type_10type_10type_10' : 1.7543859649122806
+		'type_10type_10type_3type_9type_9' : 1.7543859649122806
+		'type_9type_9type_9type_4type_4' : 1.7543859649122806
+		'type_9type_9type_9type_9type_10' : 1.7543859649122806
+		'type_5type_5type_4type_4type_4' : 1.7543859649122806
+		'type_5type_4type_4type_4type_4' : 1.7543859649122806
+		'type_3type_3type_10type_10type_10' : 3.508771929824561
+		'type_9type_3type_3type_10type_10' : 1.7543859649122806
+		'type_5type_5type_5type_5type_5' : 1.7543859649122806
+		'type_4type_4type_4type_9type_9' : 1.7543859649122806
+		'type_3type_3type_3type_3type_4' : 1.7543859649122806
+		'type_9type_9type_3type_3type_3' : 1.7543859649122806
+		'type_9type_9type_9type_9type_9'
+ : 1.7543859649122806
+type_6 type_6 type_6 type_1 type_6  :
+		'type_3type_3type_3type_3type_3' : 15.0
+		'type_1type_1type_3type_3type_3' : 1.6666666666666667
+		'type_3type_4type_4type_4type_4' : 3.3333333333333335
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_9type_9type_3type_3type_3' : 1.6666666666666667
+		'type_4type_4type_4type_4type_4' : 11.666666666666666
+		'type_5type_5type_5type_5type_5' : 3.3333333333333335
+		'type_10type_10type_10type_10type_10' : 16.666666666666664
+		'type_9type_3type_3type_3type_3' : 1.6666666666666667
+		'type_4type_4type_10type_10type_10' : 1.6666666666666667
+		'type_1type_1type_1type_1type_1' : 5.0
+		'type_3type_7type_7type_7type_7' : 1.6666666666666667
+		'type_4type_3type_3type_3type_3' : 1.6666666666666667
+		'type_1type_9type_9type_9type_9' : 1.6666666666666667
+		'type_9type_9type_5type_5type_5' : 1.6666666666666667
+		'type_4type_4type_4type_4type_9' : 1.6666666666666667
+		'type_9type_10type_9type_9type_9' : 1.6666666666666667
+		'type_5type_5type_9type_9type_9' : 1.6666666666666667
+		'type_10type_10type_4type_4type_4' : 1.6666666666666667
+		'type_3type_3type_3type_4type_4' : 1.6666666666666667
+		'type_3type_3type_9type_9type_9' : 1.6666666666666667
+		'type_3type_3type_3type_3type_3'
+ : 1.6666666666666667
+type_6 type_1 type_1 type_1 type_6  :
+		'type_4type_4type_4type_4type_4' : 20.833333333333336
+		'type_4type_9type_9type_9type_9' : 4.166666666666666
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_10type_10type_10type_10type_10' : 16.666666666666664
+		'type_3type_3type_3type_9type_9' : 4.166666666666666
+		'type_3type_3type_4type_4type_4' : 4.166666666666666
+		'type_10type_10type_10type_10type_9' : 8.333333333333332
+		'type_3type_3type_3type_3type_3' : 12.5
+		'type_1type_9type_9type_9type_9' : 4.166666666666666
+		'type_4type_4type_3type_3type_3' : 4.166666666666666
+		'type_3type_3type_3type_3type_3'
+ : 4.166666666666666
+type_6 type_6 type_6 type_3 type_6  :
+		'type_3type_9type_9type_9type_9' : 1.8181818181818181
+		'type_9type_9type_9type_9type_9' : 25.454545454545453
+		'type_4type_4type_4type_4type_4' : 14.545454545454545
+		'type_9type_9type_9type_9type_4' : 5.454545454545454
+		'type_3type_3type_3type_3type_3' : 14.545454545454545
+		'type_10type_3type_3type_3type_3' : 1.8181818181818181
+		'type_10type_10type_10type_10type_10' : 9.090909090909092
+		'type_7type_1type_1type_1type_1' : 1.8181818181818181
+		'type_4type_4type_9type_9type_9' : 1.8181818181818181
+		'type_4type_4type_4type_3type_3' : 1.8181818181818181
+		'type_5type_5type_5type_5type_5' : 1.8181818181818181
+		'type_3type_3type_3type_9type_9' : 1.8181818181818181
+		'type_10type_1type_1type_1type_1' : 1.8181818181818181
+		'type_4type_4type_4type_7type_10' : 1.8181818181818181
+		'type_10type_10type_10type_1type_1' : 1.8181818181818181
+		'type_7type_7type_7type_7type_7' : 5.454545454545454
+		'type_3type_4type_4type_4type_4' : 1.8181818181818181
+		'type_10type_10type_10type_10type_4' : 1.8181818181818181
+		'type_10type_10type_10type_10type_3' : 1.8181818181818181
+		'type_10type_10type_10type_10type_10'
+ : 1.8181818181818181
+type_7 type_6 type_6 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 16.822429906542055
+		'type_9type_9type_9type_9type_9' : 21.49532710280374
+		'type_1type_3type_3type_3type_3' : 0.9345794392523363
+		'type_4type_4type_4type_4type_4' : 12.149532710280374
+		'type_9type_9type_3type_3type_3' : 1.8691588785046727
+		'type_4type_4type_4type_9type_9' : 0.9345794392523363
+		'type_10type_10type_10type_10type_10' : 15.887850467289718
+		'type_9type_9type_9type_5type_5' : 0.9345794392523363
+		'type_1type_4type_4type_4type_4' : 0.9345794392523363
+		'type_3type_3type_3type_3type_9' : 0.9345794392523363
+		'type_1type_1type_3type_3type_3' : 0.9345794392523363
+		'type_10type_10type_3type_3type_3' : 1.8691588785046727
+		'type_10type_10type_10type_10type_3' : 0.9345794392523363
+		'type_1type_1type_1type_1type_1' : 2.803738317757009
+		'type_10type_3type_9type_9type_10' : 0.9345794392523363
+		'type_7type_7type_7type_7type_7' : 1.8691588785046727
+		'type_3type_1type_1type_1type_1' : 0.9345794392523363
+		'type_3type_3type_3type_4type_4' : 0.9345794392523363
+		'type_5type_4type_4type_4type_4' : 0.9345794392523363
+		'type_3type_10type_10type_10type_10' : 0.9345794392523363
+		'type_7type_9type_9type_9type_9' : 0.9345794392523363
+		'type_4type_5type_5type_5type_5' : 1.8691588785046727
+		'type_3type_3type_10type_10type_10' : 1.8691588785046727
+		'type_3type_3type_9type_9type_9' : 0.9345794392523363
+		'type_3type_10type_10type_10type_9' : 0.9345794392523363
+		'type_10type_10type_9type_9type_9' : 0.9345794392523363
+		'type_4type_4type_9type_9type_9' : 0.9345794392523363
+		'type_7type_7type_7type_10type_10' : 0.9345794392523363
+		'type_10type_10type_10type_3type_3' : 0.9345794392523363
+		'type_5type_5type_5type_5type_5' : 0.9345794392523363
+		'type_9type_3type_3type_3type_3' : 0.9345794392523363
+		'type_1type_1type_1type_1type_10' : 0.9345794392523363
+		'type_10type_10type_10type_10type_10'
+ : 0.9345794392523363
+type_7 type_7 type_7 type_3 type_7  :
+		'type_9type_9type_9type_9type_9' : 28.000000000000004
+		'type_3type_3type_3type_3type_3' : 28.000000000000004
+		'type_10type_10type_10type_10type_10' : 12.0
+		'type_4type_4type_4type_4type_4' : 12.0
+		'type_1type_1type_1type_1type_1' : 8.0
+		'type_4type_4type_4type_4type_9' : 4.0
+		'type_3type_3type_9type_9type_9' : 4.0
+		'type_9type_9type_9type_10type_3'
+ : 4.0
+type_6 type_6 type_6 type_3 type_3  :
+		'type_9type_9type_9type_9type_9' : 25.64102564102564
+		'type_3type_3type_3type_3type_3' : 12.82051282051282
+		'type_10type_10type_10type_10type_10' : 12.82051282051282
+		'type_10type_10type_10type_3type_3' : 2.564102564102564
+		'type_4type_4type_4type_4type_7' : 2.564102564102564
+		'type_10type_10type_10type_10type_4' : 2.564102564102564
+		'type_1type_1type_1type_1type_1' : 2.564102564102564
+		'type_10type_10type_10type_9type_9' : 2.564102564102564
+		'type_4type_4type_4type_4type_4' : 17.94871794871795
+		'type_3type_3type_3type_9type_9' : 2.564102564102564
+		'type_5type_5type_5type_5type_5' : 2.564102564102564
+		'type_9type_9type_9type_9type_3' : 2.564102564102564
+		'type_3type_7type_7type_7type_7' : 2.564102564102564
+		'type_3type_4type_4type_4type_4' : 2.564102564102564
+		'type_1type_1type_1type_1type_3' : 2.564102564102564
+		'type_10type_10type_10type_10type_10'
+ : 2.564102564102564
+type_3 type_3 type_3 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 30.952380952380953
+		'type_4type_4type_9type_9type_9' : 2.380952380952381
+		'type_4type_4type_4type_4type_4' : 11.904761904761903
+		'type_3type_3type_3type_3type_3' : 21.428571428571427
+		'type_1type_1type_1type_1type_1' : 2.380952380952381
+		'type_3type_3type_9type_9type_9' : 2.380952380952381
+		'type_4type_4type_4type_4type_9' : 2.380952380952381
+		'type_10type_10type_10type_10type_10' : 9.523809523809524
+		'type_7type_7type_7type_7type_7' : 2.380952380952381
+		'type_4type_7type_7type_7type_7' : 2.380952380952381
+		'type_3type_1type_1type_1type_1' : 2.380952380952381
+		'type_4type_4type_3type_3type_3' : 2.380952380952381
+		'type_4type_9type_9type_9type_9' : 2.380952380952381
+		'type_4type_4type_9type_3type_10' : 2.380952380952381
+		'type_3type_3type_3type_10type_4'
+ : 2.380952380952381
+type_6 type_6 type_1 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 9.75609756097561
+		'type_9type_9type_9type_9type_9' : 19.51219512195122
+		'type_4type_4type_4type_4type_4' : 17.073170731707318
+		'type_9type_9type_9type_4type_4' : 1.2195121951219512
+		'type_9type_3type_3type_3type_3' : 1.2195121951219512
+		'type_10type_9type_9type_9type_9' : 1.2195121951219512
+		'type_9type_9type_9type_9type_10' : 1.2195121951219512
+		'type_10type_10type_10type_10type_10' : 20.73170731707317
+		'type_7type_7type_7type_7type_7' : 6.097560975609756
+		'type_3type_7type_7type_7type_1' : 1.2195121951219512
+		'type_1type_1type_1type_1type_1' : 7.317073170731707
+		'type_3type_3type_3type_3type_9' : 1.2195121951219512
+		'type_10type_10type_3type_3type_3' : 1.2195121951219512
+		'type_10type_3type_3type_3type_3' : 1.2195121951219512
+		'type_9type_5type_5type_5type_5' : 1.2195121951219512
+		'type_4type_4type_4type_9type_9' : 1.2195121951219512
+		'type_5type_5type_5type_5type_5' : 2.4390243902439024
+		'type_5type_9type_9type_9type_9' : 1.2195121951219512
+		'type_9type_9type_9type_9type_4' : 1.2195121951219512
+		'type_3type_9type_9type_9type_9' : 1.2195121951219512
+		'type_4type_4type_4type_4type_4'
+ : 1.2195121951219512
+type_6 type_1 type_6 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 14.285714285714285
+		'type_9type_9type_9type_9type_9' : 22.22222222222222
+		'type_9type_9type_4type_4type_10' : 1.5873015873015872
+		'type_4type_4type_4type_4type_4' : 15.873015873015872
+		'type_10type_10type_10type_10type_10' : 22.22222222222222
+		'type_7type_7type_7type_7type_7' : 3.1746031746031744
+		'type_1type_1type_1type_1type_1' : 7.936507936507936
+		'type_3type_3type_3type_9type_9' : 1.5873015873015872
+		'type_10type_10type_10type_9type_9' : 1.5873015873015872
+		'type_7type_7type_1type_1type_1' : 1.5873015873015872
+		'type_10type_3type_3type_3type_3' : 1.5873015873015872
+		'type_4type_4type_4type_4type_1' : 1.5873015873015872
+		'type_5type_5type_5type_5type_9' : 1.5873015873015872
+		'type_4type_4type_9type_9type_9' : 1.5873015873015872
+		'type_9type_9type_9type_9type_9'
+ : 1.5873015873015872
+type_1 type_6 type_6 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_9type_9type_9type_9type_9' : 28.333333333333332
+		'type_4type_4type_4type_4type_4' : 13.333333333333334
+		'type_9type_9type_3type_3type_3' : 0.8333333333333334
+		'type_3type_3type_3type_9type_9' : 0.8333333333333334
+		'type_4type_4type_4type_4type_10' : 0.8333333333333334
+		'type_10type_10type_10type_10type_10' : 14.166666666666666
+		'type_4type_4type_9type_9type_9' : 0.8333333333333334
+		'type_1type_1type_1type_1type_1' : 5.0
+		'type_3type_9type_9type_9type_9' : 0.8333333333333334
+		'type_10type_10type_10type_10type_4' : 0.8333333333333334
+		'type_7type_7type_7type_10type_10' : 0.8333333333333334
+		'type_3type_3type_3type_3type_10' : 0.8333333333333334
+		'type_7type_7type_7type_7type_7' : 0.8333333333333334
+		'type_3type_3type_10type_10type_10' : 1.6666666666666667
+		'type_5type_5type_5type_5type_5' : 1.6666666666666667
+		'type_1type_1type_1type_1type_7' : 0.8333333333333334
+		'type_9type_9type_9type_4type_4' : 0.8333333333333334
+		'type_10type_10type_9type_9type_9' : 1.6666666666666667
+		'type_4type_4type_3type_3type_3' : 0.8333333333333334
+		'type_9type_9type_9type_10type_10' : 0.8333333333333334
+		'type_7type_1type_1type_1type_1' : 0.8333333333333334
+		'type_9type_9type_4type_4type_4' : 0.8333333333333334
+		'type_4type_4type_4type_3type_3' : 0.8333333333333334
+		'type_4type_10type_4type_4type_4' : 0.8333333333333334
+		'type_5type_5type_5type_9type_9' : 0.8333333333333334
+		'type_3type_3type_9type_9type_9' : 0.8333333333333334
+		'type_5type_5type_5type_5type_9' : 0.8333333333333334
+		'type_3type_3type_3type_3type_3'
+ : 0.8333333333333334
+type_6 type_6 type_6 type_6 type_5  :
+		'type_9type_9type_9type_9type_9' : 25.0
+		'type_10type_10type_10type_10type_10' : 14.473684210526317
+		'type_3type_3type_3type_3type_3' : 13.157894736842104
+		'type_4type_4type_4type_4type_4' : 11.842105263157894
+		'type_4type_4type_4type_9type_9' : 1.3157894736842104
+		'type_3type_9type_9type_9type_9' : 1.3157894736842104
+		'type_4type_9type_4type_4type_4' : 1.3157894736842104
+		'type_1type_3type_3type_3type_3' : 1.3157894736842104
+		'type_10type_10type_3type_3type_3' : 1.3157894736842104
+		'type_9type_9type_9type_10type_10' : 1.3157894736842104
+		'type_1type_1type_1type_1type_1' : 5.263157894736842
+		'type_7type_7type_7type_7type_7' : 1.3157894736842104
+		'type_10type_10type_10type_3type_3' : 2.631578947368421
+		'type_1type_1type_1type_7type_7' : 1.3157894736842104
+		'type_10type_9type_9type_9type_9' : 1.3157894736842104
+		'type_5type_5type_5type_5type_5' : 3.9473684210526314
+		'type_9type_10type_10type_10type_3' : 1.3157894736842104
+		'type_10type_10type_9type_9type_9' : 2.631578947368421
+		'type_5type_5type_9type_9type_9' : 1.3157894736842104
+		'type_9type_9type_9type_3type_3' : 1.3157894736842104
+		'type_3type_3type_3type_7type_7' : 1.3157894736842104
+		'type_4type_10type_10type_3type_3' : 1.3157894736842104
+		'type_1type_1type_4type_9type_9' : 1.3157894736842104
+		'type_4type_4type_4type_4type_4'
+ : 1.3157894736842104
+type_6 type_3 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 23.333333333333332
+		'type_3type_3type_3type_3type_10' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4' : 20.0
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_4type_4type_4type_4type_9' : 3.3333333333333335
+		'type_3type_9type_1type_1type_1' : 3.3333333333333335
+		'type_5type_5type_5type_5type_5' : 6.666666666666667
+		'type_1type_1type_1type_1type_1' : 3.3333333333333335
+		'type_10type_10type_10type_10type_10' : 10.0
+		'type_7type_7type_7type_7type_7' : 3.3333333333333335
+		'type_3type_3type_3type_7type_7' : 3.3333333333333335
+		'type_4type_4type_4type_4type_9'
+ : 3.3333333333333335
+type_3 type_6 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 23.943661971830984
+		'type_9type_9type_9type_1type_1' : 1.4084507042253522
+		'type_4type_4type_4type_4type_4' : 21.12676056338028
+		'type_4type_4type_4type_4type_3' : 1.4084507042253522
+		'type_3type_3type_3type_3type_3' : 14.084507042253522
+		'type_3type_3type_9type_9type_9' : 1.4084507042253522
+		'type_10type_10type_10type_10type_10' : 11.267605633802818
+		'type_10type_10type_4type_4type_4' : 1.4084507042253522
+		'type_10type_10type_10type_4type_4' : 1.4084507042253522
+		'type_3type_3type_3type_3type_7' : 2.8169014084507045
+		'type_1type_1type_1type_1type_1' : 1.4084507042253522
+		'type_9type_1type_1type_1type_1' : 1.4084507042253522
+		'type_5type_5type_5type_5type_5' : 5.633802816901409
+		'type_3type_3type_3type_3type_4' : 1.4084507042253522
+		'type_7type_7type_7type_9type_9' : 1.4084507042253522
+		'type_4type_9type_9type_9type_9' : 2.8169014084507045
+		'type_7type_7type_7type_7type_7' : 2.8169014084507045
+		'type_9type_9type_3type_3type_3' : 1.4084507042253522
+		'type_4type_4type_4type_9type_9'
+ : 1.4084507042253522
+type_6 type_6 type_5 type_5 type_5  :
+		'type_7type_7type_7type_7type_7' : 5.0
+		'type_10type_10type_10type_10type_10' : 15.0
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_4type_4type_4type_4type_4' : 21.666666666666668
+		'type_9type_3type_3type_3type_3' : 1.6666666666666667
+		'type_3type_3type_3type_3type_3' : 10.0
+		'type_9type_9type_5type_5type_5' : 1.6666666666666667
+		'type_3type_3type_3type_9type_9' : 3.3333333333333335
+		'type_1type_1type_1type_1type_1' : 3.3333333333333335
+		'type_9type_9type_3type_3type_3' : 3.3333333333333335
+		'type_3type_3type_3type_3type_4' : 1.6666666666666667
+		'type_7type_7type_3type_3type_3' : 1.6666666666666667
+		'type_4type_9type_9type_9type_9' : 1.6666666666666667
+		'type_9type_9type_9type_9type_7' : 1.6666666666666667
+		'type_5type_5type_5type_5type_5' : 3.3333333333333335
+		'type_10type_3type_3type_3type_3' : 1.6666666666666667
+		'type_10type_10type_10type_3type_3' : 1.6666666666666667
+		'type_3type_4type_4type_4type_4'
+ : 1.6666666666666667
+type_1 type_5 type_5 type_5 type_5  :
+		'type_3type_3type_9type_9type_9' : 2.5
+		'type_10type_10type_10type_10type_10' : 10.0
+		'type_3type_3type_3type_3type_3' : 17.5
+		'type_10type_10type_10type_1type_1' : 2.5
+		'type_9type_9type_9type_9type_9' : 27.500000000000004
+		'type_4type_4type_4type_4type_4' : 15.0
+		'type_7type_7type_3type_3type_3' : 2.5
+		'type_10type_3type_3type_3type_3' : 2.5
+		'type_4type_4type_9type_9type_9' : 2.5
+		'type_1type_1type_1type_1type_1' : 2.5
+		'type_4type_4type_4type_4type_10' : 2.5
+		'type_3type_3type_3type_3type_5' : 2.5
+		'type_4type_3type_7type_7type_7' : 2.5
+		'type_10type_10type_5type_5type_5' : 2.5
+		'type_7type_7type_4type_4type_4' : 2.5
+		'type_9type_9type_9type_9type_9'
+ : 2.5
+type_2 type_6 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 26.31578947368421
+		'type_9type_9type_9type_3type_3' : 2.631578947368421
+		'type_4type_4type_4type_4type_9' : 2.631578947368421
+		'type_10type_10type_10type_10type_10' : 10.526315789473683
+		'type_3type_3type_3type_3type_3' : 23.684210526315788
+		'type_10type_7type_7type_7type_7' : 2.631578947368421
+		'type_1type_1type_1type_1type_1' : 2.631578947368421
+		'type_4type_4type_4type_4type_4' : 10.526315789473683
+		'type_10type_10type_4type_10type_10' : 2.631578947368421
+		'type_4type_4type_4type_4type_3' : 2.631578947368421
+		'type_10type_3type_3type_3type_3' : 2.631578947368421
+		'type_7type_7type_7type_7type_7' : 2.631578947368421
+		'type_9type_9type_9type_9type_4' : 2.631578947368421
+		'type_9type_9type_5type_5type_5' : 2.631578947368421
+		'type_10type_10type_10type_10type_10'
+ : 2.631578947368421
+type_6 type_6 type_6 type_6 type_7  :
+		'type_9type_9type_9type_9type_9' : 25.0
+		'type_9type_9type_9type_3type_3' : 1.1363636363636365
+		'type_3type_3type_3type_3type_3' : 23.863636363636363
+		'type_9type_9type_1type_1type_1' : 1.1363636363636365
+		'type_10type_10type_10type_10type_10' : 14.772727272727273
+		'type_9type_3type_3type_3type_10' : 1.1363636363636365
+		'type_9type_9type_9type_9type_4' : 1.1363636363636365
+		'type_4type_4type_9type_9type_9' : 1.1363636363636365
+		'type_4type_4type_4type_4type_4' : 9.090909090909092
+		'type_1type_1type_1type_1type_1' : 5.681818181818182
+		'type_3type_3type_4type_4type_4' : 1.1363636363636365
+		'type_10type_4type_4type_4type_4' : 1.1363636363636365
+		'type_3type_3type_3type_10type_10' : 1.1363636363636365
+		'type_7type_7type_7type_7type_7' : 1.1363636363636365
+		'type_5type_5type_5type_5type_5' : 4.545454545454546
+		'type_7type_7type_9type_9type_9' : 1.1363636363636365
+		'type_10type_3type_3type_3type_3' : 1.1363636363636365
+		'type_3type_10type_10type_10type_10' : 1.1363636363636365
+		'type_9type_9type_3type_3type_3' : 1.1363636363636365
+		'type_7type_7type_7type_5type_5' : 1.1363636363636365
+		'type_4type_9type_9type_9type_9'
+ : 1.1363636363636365
+type_7 type_7 type_7 type_3 type_3  :
+		'type_1type_1type_1type_1type_1' : 2.083333333333333
+		'type_3type_3type_3type_3type_3' : 20.833333333333336
+		'type_9type_9type_9type_9type_9' : 20.833333333333336
+		'type_10type_10type_10type_10type_10' : 10.416666666666668
+		'type_3type_3type_3type_3type_10' : 2.083333333333333
+		'type_4type_4type_4type_4type_4' : 20.833333333333336
+		'type_6type_6type_6type_6type_6' : 2.083333333333333
+		'type_9type_4type_4type_4type_4' : 2.083333333333333
+		'type_7type_7type_7type_7type_7' : 2.083333333333333
+		'type_3type_3type_3type_9type_3' : 2.083333333333333
+		'type_1type_1type_1type_1type_9' : 2.083333333333333
+		'type_4type_4type_4type_4type_3' : 2.083333333333333
+		'type_5type_5type_5type_5type_5' : 2.083333333333333
+		'type_3type_3type_3type_4type_4' : 2.083333333333333
+		'type_9type_7type_7type_7type_7' : 2.083333333333333
+		'type_9type_9type_9type_10type_10' : 2.083333333333333
+		'type_9type_9type_9type_9type_9'
+ : 2.083333333333333
+type_6 type_6 type_6 type_6 type_1  :
+		'type_3type_3type_4type_4type_4' : 2.083333333333333
+		'type_9type_9type_9type_9type_9' : 26.041666666666668
+		'type_9type_9type_9type_3type_3' : 1.0416666666666665
+		'type_3type_3type_3type_3type_3' : 15.625
+		'type_10type_10type_10type_10type_10' : 17.708333333333336
+		'type_10type_10type_4type_4type_4' : 1.0416666666666665
+		'type_3type_9type_9type_9type_9' : 1.0416666666666665
+		'type_10type_3type_3type_3type_3' : 1.0416666666666665
+		'type_4type_4type_4type_10type_10' : 1.0416666666666665
+		'type_7type_7type_7type_9type_9' : 1.0416666666666665
+		'type_1type_1type_1type_1type_1' : 4.166666666666666
+		'type_5type_5type_5type_5type_5' : 2.083333333333333
+		'type_4type_4type_4type_4type_4' : 11.458333333333332
+		'type_3type_3type_3type_4type_4' : 1.0416666666666665
+		'type_4type_4type_9type_3type_3' : 1.0416666666666665
+		'type_7type_9type_9type_9type_9' : 1.0416666666666665
+		'type_5type_5type_5type_3type_3' : 1.0416666666666665
+		'type_3type_3type_7type_7type_7' : 1.0416666666666665
+		'type_4type_4type_3type_3type_3' : 2.083333333333333
+		'type_1type_1type_9type_9type_9' : 1.0416666666666665
+		'type_3type_10type_10type_10type_10' : 1.0416666666666665
+		'type_5type_5type_5type_9type_9' : 1.0416666666666665
+		'type_10type_10type_10type_4type_4' : 1.0416666666666665
+		'type_3type_3type_3type_3type_4' : 1.0416666666666665
+		'type_3type_3type_3type_9type_9' : 1.0416666666666665
+		'type_3type_3type_3type_3type_3'
+ : 1.0416666666666665
+type_3 type_3 type_3 type_9 type_9  :
+		'type_9type_9type_3type_3type_3' : 2.3255813953488373
+		'type_10type_10type_3type_3type_3' : 2.3255813953488373
+		'type_3type_3type_3type_3type_3' : 20.930232558139537
+		'type_10type_10type_10type_10type_10' : 11.627906976744185
+		'type_4type_4type_4type_4type_4' : 9.30232558139535
+		'type_3type_3type_7type_7type_9' : 2.3255813953488373
+		'type_4type_5type_3type_3type_3' : 2.3255813953488373
+		'type_10type_3type_3type_3type_3' : 4.651162790697675
+		'type_9type_9type_9type_9type_9' : 20.930232558139537
+		'type_3type_3type_1type_1type_1' : 2.3255813953488373
+		'type_4type_4type_4type_3type_3' : 2.3255813953488373
+		'type_3type_3type_3type_3type_7' : 2.3255813953488373
+		'type_3type_9type_9type_9type_9' : 2.3255813953488373
+		'type_7type_7type_7type_7type_7' : 2.3255813953488373
+		'type_1type_1type_1type_1type_1' : 2.3255813953488373
+		'type_10type_10type_10type_10type_3' : 2.3255813953488373
+		'type_7type_7type_3type_3type_3' : 2.3255813953488373
+		'type_3type_1type_1type_1type_1' : 2.3255813953488373
+		'type_9type_9type_9type_9type_9'
+ : 2.3255813953488373
+type_5 type_5 type_7 type_7 type_7  :
+		'type_4type_4type_4type_9type_1' : 2.4390243902439024
+		'type_9type_9type_9type_9type_9' : 12.195121951219512
+		'type_3type_3type_3type_3type_3' : 21.951219512195124
+		'type_3type_3type_3type_10type_10' : 2.4390243902439024
+		'type_4type_4type_4type_4type_4' : 21.951219512195124
+		'type_10type_10type_10type_10type_10' : 19.51219512195122
+		'type_9type_9type_1type_1type_4' : 2.4390243902439024
+		'type_1type_1type_1type_1type_1' : 7.317073170731707
+		'type_10type_4type_4type_4type_4' : 2.4390243902439024
+		'type_4type_9type_9type_9type_9' : 2.4390243902439024
+		'type_3type_3type_3type_3type_4' : 2.4390243902439024
+		'type_4type_3type_3type_3type_3'
+ : 2.4390243902439024
+type_7 type_7 type_7 type_5 type_5  :
+		'type_9type_9type_9type_9type_3' : 1.8518518518518516
+		'type_3type_3type_3type_3type_3' : 25.925925925925924
+		'type_9type_9type_9type_9type_4' : 1.8518518518518516
+		'type_4type_3type_3type_3type_3' : 1.8518518518518516
+		'type_4type_4type_4type_4type_4' : 9.25925925925926
+		'type_3type_10type_10type_10type_10' : 5.555555555555555
+		'type_3type_3type_3type_3type_4' : 1.8518518518518516
+		'type_3type_3type_3type_3type_9' : 1.8518518518518516
+		'type_4type_4type_3type_3type_3' : 1.8518518518518516
+		'type_10type_10type_10type_10type_10' : 9.25925925925926
+		'type_1type_1type_1type_1type_1' : 3.7037037037037033
+		'type_1type_1type_1type_4type_9' : 1.8518518518518516
+		'type_7type_7type_7type_7type_7' : 3.7037037037037033
+		'type_9type_9type_9type_9type_5' : 1.8518518518518516
+		'type_4type_4type_4type_4type_9' : 1.8518518518518516
+		'type_5type_5type_5type_5type_5' : 1.8518518518518516
+		'type_9type_9type_9type_9type_9' : 14.814814814814813
+		'type_5type_5type_5type_5type_3' : 1.8518518518518516
+		'type_3type_3type_9type_9type_9' : 1.8518518518518516
+		'type_3type_4type_4type_4type_4' : 1.8518518518518516
+		'type_10type_10type_9type_4type_4' : 1.8518518518518516
+		'type_1type_1type_1type_10type_3'
+ : 1.8518518518518516
+type_5 type_5 type_3 type_3 type_3  :
+		'type_9type_9type_9type_9type_9' : 18.181818181818183
+		'type_3type_3type_3type_3type_3' : 16.363636363636363
+		'type_4type_4type_4type_4type_4' : 14.545454545454545
+		'type_10type_10type_10type_10type_10' : 14.545454545454545
+		'type_9type_9type_3type_3type_3' : 5.454545454545454
+		'type_7type_7type_4type_4type_4' : 1.8181818181818181
+		'type_10type_4type_9type_9type_9' : 1.8181818181818181
+		'type_3type_4type_4type_5type_3' : 1.8181818181818181
+		'type_5type_5type_5type_5type_5' : 3.6363636363636362
+		'type_10type_10type_10type_3type_3' : 1.8181818181818181
+		'type_10type_9type_4type_4type_4' : 1.8181818181818181
+		'type_1type_1type_1type_1type_1' : 1.8181818181818181
+		'type_1type_1type_1type_9type_9' : 1.8181818181818181
+		'type_5type_5type_5type_5type_3' : 1.8181818181818181
+		'type_4type_10type_10type_10type_10' : 1.8181818181818181
+		'type_7type_7type_7type_7type_7' : 3.6363636363636362
+		'type_4type_3type_3type_3type_3' : 1.8181818181818181
+		'type_3type_3type_3type_3type_9' : 1.8181818181818181
+		'type_1type_1type_1type_1type_4' : 1.8181818181818181
+		'type_3type_3type_4type_4type_4'
+ : 1.8181818181818181
+type_5 type_5 type_9 type_9 type_9  :
+		'type_3type_3type_3type_3type_3' : 20.37037037037037
+		'type_4type_4type_4type_4type_4' : 18.51851851851852
+		'type_9type_4type_4type_4type_4' : 1.8518518518518516
+		'type_7type_7type_7type_4type_4' : 1.8518518518518516
+		'type_4type_4type_3type_3type_3' : 1.8518518518518516
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_10type_9type_9type_9type_9' : 1.8518518518518516
+		'type_4type_4type_4type_3type_3' : 1.8518518518518516
+		'type_10type_10type_10type_10type_10' : 11.11111111111111
+		'type_10type_10type_10type_1type_1' : 1.8518518518518516
+		'type_9type_9type_9type_9type_3' : 3.7037037037037033
+		'type_9type_9type_9type_10type_10' : 1.8518518518518516
+		'type_3type_3type_3type_3type_9' : 1.8518518518518516
+		'type_9type_9type_3type_3type_3' : 1.8518518518518516
+		'type_3type_1type_1type_3type_3' : 1.8518518518518516
+		'type_1type_1type_9type_9type_9' : 1.8518518518518516
+		'type_7type_7type_7type_7type_7' : 1.8518518518518516
+		'type_10type_10type_10type_9type_9' : 1.8518518518518516
+		'type_4type_4type_10type_10type_10' : 1.8518518518518516
+		'type_7type_3type_3type_3type_10' : 1.8518518518518516
+		'type_9type_9type_9type_9type_9'
+ : 1.8518518518518516
+type_1 type_7 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 38.70967741935484
+		'type_9type_9type_9type_9type_4' : 3.225806451612903
+		'type_3type_3type_3type_3type_3' : 9.67741935483871
+		'type_5type_5type_5type_5type_5' : 3.225806451612903
+		'type_4type_4type_4type_4type_4' : 12.903225806451612
+		'type_1type_1type_4type_4type_4' : 3.225806451612903
+		'type_9type_3type_3type_3type_3' : 3.225806451612903
+		'type_3type_3type_3type_3type_4' : 3.225806451612903
+		'type_4type_4type_5type_5type_5' : 3.225806451612903
+		'type_3type_3type_3type_9type_9' : 3.225806451612903
+		'type_1type_1type_1type_1type_1' : 6.451612903225806
+		'type_4type_4type_3type_3type_3' : 3.225806451612903
+		'type_10type_10type_10type_10type_10' : 3.225806451612903
+		'type_9type_9type_9type_9type_9'
+ : 3.225806451612903
+type_3 type_3 type_1 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 23.684210526315788
+		'type_10type_10type_10type_10type_10' : 13.157894736842104
+		'type_4type_4type_4type_4type_4' : 15.789473684210526
+		'type_3type_3type_3type_3type_3' : 15.789473684210526
+		'type_7type_7type_7type_3type_10' : 2.631578947368421
+		'type_4type_3type_3type_3type_3' : 2.631578947368421
+		'type_5type_5type_5type_5type_1' : 2.631578947368421
+		'type_5type_3type_3type_3type_9' : 2.631578947368421
+		'type_3type_3type_3type_3type_4' : 2.631578947368421
+		'type_3type_9type_9type_9type_3' : 2.631578947368421
+		'type_3type_3type_3type_3type_5' : 2.631578947368421
+		'type_1type_1type_1type_1type_1' : 2.631578947368421
+		'type_4type_4type_9type_9type_9' : 2.631578947368421
+		'type_7type_7type_7type_7type_7' : 2.631578947368421
+		'type_4type_5type_5type_5type_5' : 2.631578947368421
+		'type_9type_9type_9type_9type_9'
+ : 2.631578947368421
+type_3 type_1 type_1 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 25.925925925925924
+		'type_4type_4type_4type_4type_4' : 22.22222222222222
+		'type_9type_9type_9type_9type_10' : 3.7037037037037033
+		'type_7type_7type_3type_10type_10' : 3.7037037037037033
+		'type_10type_10type_10type_10type_4' : 3.7037037037037033
+		'type_3type_3type_3type_3type_3' : 11.11111111111111
+		'type_5type_5type_5type_1type_1' : 3.7037037037037033
+		'type_3type_3type_3type_9type_9' : 3.7037037037037033
+		'type_9type_9type_9type_3type_3' : 3.7037037037037033
+		'type_4type_9type_9type_9type_9' : 3.7037037037037033
+		'type_10type_10type_10type_10type_10' : 3.7037037037037033
+		'type_7type_7type_7type_7type_7' : 3.7037037037037033
+		'type_5type_5type_5type_5type_5' : 3.7037037037037033
+		'type_9type_9type_9type_9type_9'
+ : 3.7037037037037033
+type_5 type_6 type_6 type_6 type_6  :
+		'type_10type_10type_10type_10type_10' : 12.676056338028168
+		'type_3type_3type_3type_4type_4' : 1.4084507042253522
+		'type_4type_4type_4type_4type_4' : 15.492957746478872
+		'type_4type_4type_4type_9type_4' : 1.4084507042253522
+		'type_4type_4type_4type_4type_10' : 2.8169014084507045
+		'type_3type_3type_3type_3type_3' : 15.492957746478872
+		'type_9type_9type_9type_9type_9' : 21.12676056338028
+		'type_3type_3type_3type_3type_4' : 1.4084507042253522
+		'type_3type_3type_3type_3type_10' : 1.4084507042253522
+		'type_10type_10type_10type_10type_3' : 1.4084507042253522
+		'type_10type_10type_9type_9type_9' : 1.4084507042253522
+		'type_7type_7type_7type_5type_5' : 1.4084507042253522
+		'type_4type_4type_4type_9type_3' : 1.4084507042253522
+		'type_4type_4type_9type_9type_9' : 1.4084507042253522
+		'type_5type_5type_5type_5type_5' : 5.633802816901409
+		'type_1type_1type_1type_1type_3' : 1.4084507042253522
+		'type_3type_3type_3type_7type_7' : 1.4084507042253522
+		'type_3type_3type_9type_9type_9' : 1.4084507042253522
+		'type_10type_10type_4type_10type_10' : 1.4084507042253522
+		'type_1type_1type_1type_1type_1' : 2.8169014084507045
+		'type_10type_10type_10type_9type_9' : 1.4084507042253522
+		'type_3type_4type_4type_4type_4' : 1.4084507042253522
+		'type_10type_3type_3type_3type_9' : 1.4084507042253522
+		'type_9type_9type_9type_9type_9'
+ : 1.4084507042253522
+type_6 type_6 type_6 type_6 type_3  :
+		'type_3type_3type_9type_9type_9' : 1.2345679012345678
+		'type_9type_9type_9type_9type_9' : 32.098765432098766
+		'type_3type_3type_3type_3type_9' : 2.4691358024691357
+		'type_3type_3type_3type_3type_3' : 16.049382716049383
+		'type_10type_10type_3type_3type_3' : 1.2345679012345678
+		'type_10type_10type_10type_10type_3' : 1.2345679012345678
+		'type_10type_10type_10type_10type_10' : 8.641975308641975
+		'type_5type_5type_5type_5type_5' : 2.4691358024691357
+		'type_5type_1type_1type_1type_1' : 1.2345679012345678
+		'type_4type_10type_10type_10type_10' : 2.4691358024691357
+		'type_9type_9type_9type_9type_10' : 1.2345679012345678
+		'type_4type_4type_4type_4type_4' : 12.345679012345679
+		'type_7type_7type_10type_10type_10' : 1.2345679012345678
+		'type_7type_7type_1type_1type_1' : 1.2345679012345678
+		'type_4type_9type_9type_9type_9' : 1.2345679012345678
+		'type_10type_10type_10type_10type_9' : 1.2345679012345678
+		'type_4type_4type_4type_4type_7' : 1.2345679012345678
+		'type_10type_10type_10type_10type_4' : 1.2345679012345678
+		'type_7type_7type_7type_7type_7' : 3.7037037037037033
+		'type_1type_1type_1type_1type_1' : 1.2345679012345678
+		'type_7type_4type_4type_4type_4' : 1.2345679012345678
+		'type_9type_9type_9type_1type_1' : 1.2345679012345678
+		'type_7type_7type_7type_7type_3' : 1.2345679012345678
+		'type_10type_10type_10type_10type_10'
+ : 1.2345679012345678
+type_3 type_9 type_3 type_3 type_3  :
+		'type_9type_9type_9type_9type_9' : 24.324324324324326
+		'type_10type_10type_10type_10type_10' : 16.216216216216218
+		'type_9type_3type_3type_3type_3' : 5.405405405405405
+		'type_4type_4type_4type_4type_4' : 10.81081081081081
+		'type_3type_4type_4type_4type_4' : 2.7027027027027026
+		'type_3type_3type_3type_3type_10' : 2.7027027027027026
+		'type_10type_4type_4type_4type_4' : 2.7027027027027026
+		'type_1type_1type_1type_1type_4' : 2.7027027027027026
+		'type_3type_3type_3type_3type_4' : 2.7027027027027026
+		'type_9type_4type_4type_4type_4' : 2.7027027027027026
+		'type_1type_1type_4type_4type_4' : 2.7027027027027026
+		'type_4type_4type_4type_9type_9' : 2.7027027027027026
+		'type_3type_3type_3type_3type_3' : 10.81081081081081
+		'type_10type_3type_3type_3type_3' : 2.7027027027027026
+		'type_3type_3type_3type_3type_9' : 2.7027027027027026
+		'type_3type_3type_9type_9type_9' : 2.7027027027027026
+		'type_10type_10type_10type_10type_10'
+ : 2.7027027027027026
+type_7 type_6 type_6 type_6 type_1  :
+		'type_3type_3type_3type_3type_3' : 9.523809523809524
+		'type_7type_7type_7type_7type_7' : 9.523809523809524
+		'type_4type_4type_4type_4type_4' : 28.57142857142857
+		'type_9type_9type_9type_9type_9' : 9.523809523809524
+		'type_10type_10type_10type_3type_3' : 4.761904761904762
+		'type_1type_1type_1type_1type_1' : 9.523809523809524
+		'type_10type_10type_10type_10type_10' : 9.523809523809524
+		'type_10type_10type_10type_9type_9' : 4.761904761904762
+		'type_3type_9type_9type_5type_5' : 4.761904761904762
+		'type_9type_9type_4type_4type_4' : 4.761904761904762
+		'type_10type_10type_10type_10type_10'
+ : 4.761904761904762
+type_6 type_6 type_6 type_5 type_5  :
+		'type_3type_9type_9type_9type_9' : 1.1111111111111112
+		'type_10type_10type_10type_10type_10' : 13.333333333333334
+		'type_3type_3type_3type_3type_3' : 8.88888888888889
+		'type_9type_9type_9type_9type_9' : 22.22222222222222
+		'type_4type_4type_4type_4type_4' : 18.88888888888889
+		'type_3type_3type_3type_9type_9' : 1.1111111111111112
+		'type_9type_4type_4type_4type_4' : 2.2222222222222223
+		'type_4type_4type_4type_10type_10' : 2.2222222222222223
+		'type_10type_3type_3type_3type_9' : 1.1111111111111112
+		'type_9type_9type_10type_10type_10' : 1.1111111111111112
+		'type_1type_1type_1type_1type_1' : 5.555555555555555
+		'type_10type_10type_10type_7type_7' : 1.1111111111111112
+		'type_10type_10type_3type_3type_3' : 2.2222222222222223
+		'type_10type_10type_10type_10type_9' : 1.1111111111111112
+		'type_3type_3type_3type_3type_4' : 1.1111111111111112
+		'type_1type_1type_7type_7type_7' : 1.1111111111111112
+		'type_5type_5type_5type_5type_4' : 1.1111111111111112
+		'type_3type_3type_3type_3type_9' : 1.1111111111111112
+		'type_4type_4type_3type_3type_3' : 1.1111111111111112
+		'type_3type_3type_3type_3type_1' : 1.1111111111111112
+		'type_10type_9type_9type_3type_3' : 1.1111111111111112
+		'type_5type_9type_9type_9type_9' : 1.1111111111111112
+		'type_10type_9type_9type_9type_9' : 1.1111111111111112
+		'type_5type_5type_5type_5type_5' : 2.2222222222222223
+		'type_3type_3type_7type_7type_7' : 1.1111111111111112
+		'type_4type_4type_4type_4type_9' : 1.1111111111111112
+		'type_7type_7type_7type_7type_7' : 1.1111111111111112
+		'type_1type_1type_1type_1type_10' : 1.1111111111111112
+		'type_3type_3type_4type_4type_4'
+ : 1.1111111111111112
+type_5 type_5 type_5 type_5 type_1  :
+		'type_9type_9type_10type_10type_10' : 2.4390243902439024
+		'type_3type_3type_3type_3type_3' : 29.268292682926827
+		'type_10type_10type_10type_10type_10' : 9.75609756097561
+		'type_9type_9type_9type_9type_9' : 19.51219512195122
+		'type_4type_4type_4type_4type_4' : 9.75609756097561
+		'type_10type_3type_3type_3type_1' : 2.4390243902439024
+		'type_3type_10type_3type_3type_3' : 2.4390243902439024
+		'type_4type_10type_10type_10type_10' : 2.4390243902439024
+		'type_1type_1type_1type_1type_1' : 7.317073170731707
+		'type_4type_3type_3type_3type_3' : 2.4390243902439024
+		'type_7type_7type_7type_7type_7' : 4.878048780487805
+		'type_3type_7type_7type_7type_10' : 2.4390243902439024
+		'type_9type_9type_9type_9type_10' : 2.4390243902439024
+		'type_4type_4type_4type_4type_4'
+ : 2.4390243902439024
+type_9 type_9 type_9 type_3 type_3  :
+		'type_3type_3type_3type_3type_3' : 21.21212121212121
+		'type_7type_4type_4type_4type_4' : 3.0303030303030303
+		'type_9type_9type_9type_9type_9' : 21.21212121212121
+		'type_4type_4type_4type_4type_4' : 24.242424242424242
+		'type_7type_7type_7type_7type_7' : 6.0606060606060606
+		'type_9type_9type_10type_4type_4' : 3.0303030303030303
+		'type_3type_3type_3type_3type_10' : 3.0303030303030303
+		'type_9type_9type_9type_3type_9' : 3.0303030303030303
+		'type_10type_10type_10type_10type_10' : 6.0606060606060606
+		'type_1type_1type_1type_3type_3' : 3.0303030303030303
+		'type_5type_5type_7type_7type_7' : 3.0303030303030303
+		'type_4type_4type_4type_4type_4'
+ : 3.0303030303030303
+type_9 type_9 type_3 type_3 type_3  :
+		'type_9type_9type_9type_9type_9' : 18.181818181818183
+		'type_3type_3type_3type_3type_3' : 18.181818181818183
+		'type_4type_4type_4type_3type_3' : 3.0303030303030303
+		'type_4type_4type_4type_4type_4' : 21.21212121212121
+		'type_7type_7type_7type_7type_7' : 6.0606060606060606
+		'type_4type_9type_9type_9type_9' : 3.0303030303030303
+		'type_3type_3type_3type_3type_9' : 3.0303030303030303
+		'type_9type_10type_4type_4type_4' : 3.0303030303030303
+		'type_3type_3type_3type_10type_10' : 3.0303030303030303
+		'type_9type_9type_3type_9type_9' : 3.0303030303030303
+		'type_10type_10type_10type_10type_10' : 6.0606060606060606
+		'type_3type_3type_4type_4type_4' : 3.0303030303030303
+		'type_1type_1type_3type_3type_9' : 3.0303030303030303
+		'type_5type_7type_7type_7type_7' : 3.0303030303030303
+		'type_9type_9type_9type_9type_9'
+ : 3.0303030303030303
+type_9 type_9 type_9 type_1 type_1  :
+		'type_10type_9type_9type_9type_9' : 2.0
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_4type_4type_4type_4type_4' : 10.0
+		'type_3type_3type_3type_3type_3' : 18.0
+		'type_10type_10type_10type_10type_10' : 10.0
+		'type_4type_4type_4type_9type_9' : 2.0
+		'type_10type_10type_10type_10type_1' : 2.0
+		'type_10type_10type_1type_1type_1' : 2.0
+		'type_9type_9type_7type_7type_7' : 2.0
+		'type_5type_5type_5type_5type_5' : 4.0
+		'type_9type_9type_9type_9type_4' : 2.0
+		'type_9type_9type_10type_10type_10' : 4.0
+		'type_9type_9type_9type_9type_3' : 2.0
+		'type_9type_9type_9type_10type_10' : 2.0
+		'type_4type_1type_1type_1type_1' : 2.0
+		'type_10type_10type_10type_10type_4' : 2.0
+		'type_9type_9type_9type_9type_10' : 2.0
+		'type_3type_3type_9type_9type_9' : 2.0
+		'type_5type_5type_5type_3type_9' : 2.0
+		'type_9type_9type_5type_5type_5' : 2.0
+		'type_3type_3type_3type_3type_10' : 2.0
+		'type_1type_1type_1type_1type_1' : 2.0
+		'type_9type_9type_9type_9type_9'
+ : 2.0
+type_9 type_9 type_1 type_1 type_1  :
+		'type_3type_3type_3type_3type_3' : 14.705882352941178
+		'type_4type_4type_4type_4type_4' : 5.88235294117647
+		'type_9type_9type_9type_9type_9' : 23.52941176470588
+		'type_10type_10type_10type_10type_10' : 17.647058823529413
+		'type_10type_10type_10type_1type_10' : 2.941176470588235
+		'type_10type_1type_1type_1type_7' : 2.941176470588235
+		'type_9type_9type_9type_4type_4' : 2.941176470588235
+		'type_9type_10type_10type_10type_10' : 2.941176470588235
+		'type_9type_9type_9type_3type_3' : 2.941176470588235
+		'type_1type_1type_1type_1type_1' : 5.88235294117647
+		'type_10type_10type_10type_4type_4' : 2.941176470588235
+		'type_9type_9type_9type_10type_10' : 2.941176470588235
+		'type_3type_3type_3type_3type_10' : 2.941176470588235
+		'type_9type_5type_5type_5type_5' : 2.941176470588235
+		'type_3type_3type_3type_10type_10' : 2.941176470588235
+		'type_9type_9type_9type_9type_9'
+ : 2.941176470588235
+type_9 type_1 type_1 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 18.571428571428573
+		'type_3type_3type_3type_3type_3' : 17.142857142857142
+		'type_10type_10type_10type_10type_10' : 20.0
+		'type_9type_9type_9type_9type_3' : 1.4285714285714286
+		'type_4type_4type_4type_4type_4' : 7.142857142857142
+		'type_3type_9type_9type_10type_10' : 1.4285714285714286
+		'type_10type_10type_1type_10type_10' : 1.4285714285714286
+		'type_10type_9type_9type_9type_9' : 1.4285714285714286
+		'type_10type_10type_10type_9type_4' : 1.4285714285714286
+		'type_1type_1type_1type_1type_1' : 2.857142857142857
+		'type_1type_1type_1type_7type_7' : 1.4285714285714286
+		'type_3type_10type_10type_10type_10' : 1.4285714285714286
+		'type_3type_3type_7type_7type_7' : 1.4285714285714286
+		'type_9type_9type_4type_4type_4' : 1.4285714285714286
+		'type_5type_5type_5type_5type_5' : 5.714285714285714
+		'type_9type_9type_3type_3type_3' : 1.4285714285714286
+		'type_7type_7type_5type_5type_5' : 1.4285714285714286
+		'type_10type_10type_4type_4type_4' : 1.4285714285714286
+		'type_9type_9type_9type_3type_3' : 1.4285714285714286
+		'type_3type_3type_3type_3type_9' : 1.4285714285714286
+		'type_7type_7type_7type_5type_9' : 1.4285714285714286
+		'type_9type_9type_10type_10type_10' : 1.4285714285714286
+		'type_3type_3type_3type_4type_4' : 1.4285714285714286
+		'type_10type_10type_10type_10type_4' : 1.4285714285714286
+		'type_3type_3type_10type_10type_10' : 1.4285714285714286
+		'type_9type_9type_9type_9type_9'
+ : 1.4285714285714286
+type_5 type_5 type_5 type_6 type_6  :
+		'type_10type_10type_10type_10type_9' : 2.2222222222222223
+		'type_4type_4type_4type_4type_4' : 24.444444444444443
+		'type_9type_9type_9type_9type_9' : 17.77777777777778
+		'type_10type_10type_10type_10type_10' : 13.333333333333334
+		'type_3type_3type_3type_10type_10' : 2.2222222222222223
+		'type_3type_3type_3type_9type_9' : 2.2222222222222223
+		'type_9type_3type_3type_3type_3' : 2.2222222222222223
+		'type_7type_7type_7type_7type_7' : 4.444444444444445
+		'type_1type_1type_1type_1type_1' : 4.444444444444445
+		'type_3type_3type_3type_3type_3' : 15.555555555555555
+		'type_9type_4type_4type_4type_4' : 2.2222222222222223
+		'type_5type_5type_3type_3type_3' : 2.2222222222222223
+		'type_3type_3type_4type_4type_4' : 2.2222222222222223
+		'type_10type_9type_9type_9type_7' : 2.2222222222222223
+		'type_4type_4type_4type_4type_4'
+ : 2.2222222222222223
+type_7 type_7 type_7 type_6 type_6  :
+		'type_4type_9type_1type_3type_3' : 1.4925373134328357
+		'type_3type_3type_3type_3type_3' : 16.417910447761194
+		'type_10type_10type_10type_10type_10' : 19.402985074626866
+		'type_4type_4type_4type_4type_4' : 19.402985074626866
+		'type_9type_9type_9type_9type_9' : 11.940298507462686
+		'type_3type_9type_9type_9type_9' : 1.4925373134328357
+		'type_4type_4type_4type_4type_5' : 1.4925373134328357
+		'type_10type_10type_9type_9type_9' : 2.9850746268656714
+		'type_10type_10type_10type_4type_4' : 1.4925373134328357
+		'type_1type_1type_1type_1type_1' : 4.477611940298507
+		'type_10type_10type_4type_4type_4' : 2.9850746268656714
+		'type_3type_3type_3type_1type_1' : 1.4925373134328357
+		'type_3type_3type_9type_9type_9' : 1.4925373134328357
+		'type_5type_5type_5type_5type_5' : 1.4925373134328357
+		'type_7type_7type_7type_9type_9' : 1.4925373134328357
+		'type_1type_1type_4type_4type_4' : 1.4925373134328357
+		'type_3type_3type_3type_3type_9' : 1.4925373134328357
+		'type_3type_3type_3type_9type_9' : 1.4925373134328357
+		'type_4type_4type_4type_1type_1' : 1.4925373134328357
+		'type_9type_9type_10type_10type_10' : 1.4925373134328357
+		'type_7type_1type_7type_7type_7' : 1.4925373134328357
+		'type_10type_10type_10type_4type_4'
+ : 1.4925373134328357
+type_6 type_6 type_6 type_5 type_6  :
+		'type_4type_4type_4type_4type_4' : 15.789473684210526
+		'type_9type_9type_9type_9type_9' : 21.052631578947366
+		'type_10type_10type_10type_10type_10' : 28.947368421052634
+		'type_3type_3type_3type_3type_3' : 13.157894736842104
+		'type_4type_9type_9type_9type_9' : 2.631578947368421
+		'type_9type_9type_9type_9type_7' : 2.631578947368421
+		'type_7type_7type_7type_7type_7' : 2.631578947368421
+		'type_10type_10type_10type_3type_3' : 2.631578947368421
+		'type_10type_9type_9type_9type_10' : 2.631578947368421
+		'type_1type_1type_1type_1type_1' : 2.631578947368421
+		'type_10type_10type_3type_3type_3' : 2.631578947368421
+		'type_7type_7type_7type_7type_3'
+ : 2.631578947368421
+type_6 type_6 type_5 type_6 type_6  :
+		'type_3type_3type_3type_9type_9' : 2.272727272727273
+		'type_9type_9type_9type_9type_9' : 18.181818181818183
+		'type_4type_4type_4type_4type_4' : 15.909090909090908
+		'type_10type_10type_10type_10type_3' : 4.545454545454546
+		'type_9type_9type_9type_7type_7' : 2.272727272727273
+		'type_3type_3type_3type_3type_3' : 15.909090909090908
+		'type_5type_5type_5type_5type_5' : 2.272727272727273
+		'type_7type_7type_7type_7type_7' : 6.8181818181818175
+		'type_10type_10type_10type_10type_10' : 13.636363636363635
+		'type_9type_3type_3type_3type_3' : 2.272727272727273
+		'type_10type_10type_3type_3type_3' : 2.272727272727273
+		'type_9type_9type_9type_10type_10' : 2.272727272727273
+		'type_3type_3type_3type_3type_9' : 2.272727272727273
+		'type_1type_1type_1type_1type_1' : 2.272727272727273
+		'type_4type_4type_3type_3type_3' : 2.272727272727273
+		'type_4type_4type_10type_10type_10' : 2.272727272727273
+		'type_5type_5type_5type_5type_5'
+ : 2.272727272727273
+type_3 type_3 type_3 type_3 type_1  :
+		'type_1type_1type_9type_9type_9' : 2.631578947368421
+		'type_9type_9type_9type_9type_9' : 34.21052631578947
+		'type_10type_10type_10type_10type_10' : 7.894736842105263
+		'type_3type_3type_3type_3type_3' : 18.421052631578945
+		'type_4type_4type_4type_4type_4' : 10.526315789473683
+		'type_7type_7type_7type_7type_7' : 5.263157894736842
+		'type_9type_9type_3type_3type_3' : 2.631578947368421
+		'type_1type_1type_10type_10type_10' : 2.631578947368421
+		'type_7type_7type_10type_10type_3' : 2.631578947368421
+		'type_3type_3type_3type_9type_9' : 2.631578947368421
+		'type_5type_5type_5type_7type_7' : 2.631578947368421
+		'type_10type_10type_3type_3type_3' : 2.631578947368421
+		'type_7type_7type_3type_3type_3' : 2.631578947368421
+		'type_10type_10type_10type_10type_10'
+ : 2.631578947368421
+type_1 type_1 type_1 type_1 type_3  :
+		'type_5type_4type_4type_4type_4' : 1.8867924528301887
+		'type_10type_10type_10type_10type_10' : 13.20754716981132
+		'type_3type_3type_3type_3type_3' : 13.20754716981132
+		'type_9type_9type_9type_3type_3' : 1.8867924528301887
+		'type_4type_4type_4type_4type_4' : 15.09433962264151
+		'type_9type_9type_9type_9type_9' : 26.41509433962264
+		'type_7type_7type_7type_6type_6' : 1.8867924528301887
+		'type_10type_10type_10type_9type_9' : 1.8867924528301887
+		'type_1type_1type_1type_1type_1' : 3.7735849056603774
+		'type_9type_3type_3type_3type_3' : 1.8867924528301887
+		'type_5type_5type_5type_5type_5' : 1.8867924528301887
+		'type_7type_7type_7type_7type_7' : 3.7735849056603774
+		'type_9type_9type_7type_7type_7' : 1.8867924528301887
+		'type_9type_9type_3type_3type_3' : 1.8867924528301887
+		'type_3type_3type_3type_7type_7' : 1.8867924528301887
+		'type_9type_3type_3type_9type_9' : 1.8867924528301887
+		'type_9type_10type_10type_10type_10' : 1.8867924528301887
+		'type_9type_9type_9type_9type_4' : 1.8867924528301887
+		'type_3type_3type_3type_3type_3'
+ : 1.8867924528301887
+type_1 type_1 type_1 type_3 type_3  :
+		'type_4type_4type_4type_4type_4' : 29.629629629629626
+		'type_10type_10type_10type_10type_10' : 14.814814814814813
+		'type_3type_3type_3type_3type_3' : 7.4074074074074066
+		'type_9type_9type_3type_3type_3' : 3.7037037037037033
+		'type_9type_9type_9type_9type_9' : 14.814814814814813
+		'type_7type_7type_7type_7type_7' : 7.4074074074074066
+		'type_3type_3type_4type_4type_4' : 3.7037037037037033
+		'type_9type_3type_3type_3type_3' : 3.7037037037037033
+		'type_3type_3type_9type_9type_5' : 3.7037037037037033
+		'type_9type_4type_4type_3type_3' : 3.7037037037037033
+		'type_1type_1type_1type_1type_1' : 3.7037037037037033
+		'type_4type_4type_3type_3type_3'
+ : 3.7037037037037033
+type_1 type_1 type_1 type_1 type_9  :
+		'type_9type_9type_9type_9type_9' : 26.923076923076923
+		'type_10type_10type_10type_10type_10' : 11.538461538461538
+		'type_1type_1type_1type_1type_1' : 1.9230769230769231
+		'type_9type_9type_10type_10type_10' : 1.9230769230769231
+		'type_10type_1type_10type_10type_10' : 1.9230769230769231
+		'type_4type_4type_4type_4type_4' : 19.230769230769234
+		'type_10type_4type_4type_4type_4' : 1.9230769230769231
+		'type_9type_9type_9type_1type_1' : 1.9230769230769231
+		'type_1type_4type_5type_5type_5' : 1.9230769230769231
+		'type_5type_5type_5type_5type_5' : 3.8461538461538463
+		'type_10type_10type_4type_4type_4' : 1.9230769230769231
+		'type_3type_3type_3type_3type_3' : 7.6923076923076925
+		'type_1type_1type_1type_10type_10' : 1.9230769230769231
+		'type_10type_10type_10type_10type_4' : 1.9230769230769231
+		'type_9type_9type_9type_10type_10' : 1.9230769230769231
+		'type_9type_9type_4type_4type_4' : 1.9230769230769231
+		'type_3type_3type_4type_4type_4' : 1.9230769230769231
+		'type_10type_10type_10type_4type_4' : 1.9230769230769231
+		'type_4type_3type_3type_3type_3' : 1.9230769230769231
+		'type_10type_10type_3type_9type_9' : 1.9230769230769231
+		'type_10type_10type_10type_10type_10'
+ : 1.9230769230769231
+type_7 type_7 type_7 type_3 type_9  :
+		'type_3type_3type_3type_3type_3' : 13.333333333333334
+		'type_10type_10type_10type_10type_10' : 16.666666666666664
+		'type_9type_9type_9type_9type_9' : 23.333333333333332
+		'type_4type_4type_4type_4type_4' : 13.333333333333334
+		'type_9type_9type_9type_9type_4' : 3.3333333333333335
+		'type_7type_7type_7type_10type_10' : 3.3333333333333335
+		'type_10type_10type_9type_9type_3' : 3.3333333333333335
+		'type_1type_1type_1type_1type_1' : 3.3333333333333335
+		'type_3type_3type_9type_9type_9' : 3.3333333333333335
+		'type_9type_7type_7type_7type_7' : 3.3333333333333335
+		'type_10type_10type_10type_5type_5' : 3.3333333333333335
+		'type_7type_7type_7type_7type_7' : 3.3333333333333335
+		'type_10type_10type_9type_9type_9' : 3.3333333333333335
+		'type_10type_10type_3type_3type_3'
+ : 3.3333333333333335
+type_9 type_9 type_9 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 32.142857142857146
+		'type_4type_4type_4type_4type_4' : 17.857142857142858
+		'type_10type_10type_10type_10type_10' : 14.285714285714285
+		'type_3type_3type_3type_3type_3' : 7.142857142857142
+		'type_1type_1type_1type_1type_1' : 3.571428571428571
+		'type_3type_3type_5type_5type_5' : 3.571428571428571
+		'type_3type_10type_10type_10type_10' : 3.571428571428571
+		'type_9type_10type_10type_10type_10' : 3.571428571428571
+		'type_1type_1type_9type_9type_9' : 3.571428571428571
+		'type_9type_9type_10type_10type_10' : 3.571428571428571
+		'type_4type_4type_4type_4type_10' : 3.571428571428571
+		'type_9type_9type_9type_9type_9'
+ : 3.571428571428571
+type_5 type_5 type_5 type_9 type_9  :
+		'type_3type_3type_3type_3type_3' : 26.666666666666668
+		'type_9type_9type_10type_10type_10' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4' : 13.333333333333334
+		'type_7type_7type_7type_7type_4' : 3.3333333333333335
+		'type_4type_4type_4type_4type_3' : 3.3333333333333335
+		'type_10type_10type_10type_10type_10' : 20.0
+		'type_10type_10type_10type_10type_1' : 3.3333333333333335
+		'type_9type_9type_9type_9type_9' : 10.0
+		'type_1type_1type_1type_1type_1' : 3.3333333333333335
+		'type_4type_4type_4type_4type_10' : 3.3333333333333335
+		'type_1type_1type_1type_9type_9' : 3.3333333333333335
+		'type_5type_5type_5type_5type_5' : 3.3333333333333335
+		'type_9type_9type_9type_9type_9'
+ : 3.3333333333333335
+type_1 type_1 type_1 type_1 type_6  :
+		'type_9type_9type_9type_9type_9' : 25.71428571428571
+		'type_3type_4type_4type_4type_4' : 2.857142857142857
+		'type_4type_4type_4type_4type_4' : 17.142857142857142
+		'type_9type_9type_9type_10type_10' : 2.857142857142857
+		'type_3type_3type_3type_3type_3' : 17.142857142857142
+		'type_10type_10type_10type_10type_10' : 17.142857142857142
+		'type_4type_4type_9type_9type_9' : 2.857142857142857
+		'type_4type_4type_4type_3type_3' : 2.857142857142857
+		'type_5type_5type_1type_1type_1' : 2.857142857142857
+		'type_7type_7type_7type_7type_7' : 2.857142857142857
+		'type_9type_9type_9type_9type_4' : 2.857142857142857
+		'type_4type_4type_4type_4type_9'
+ : 2.857142857142857
+type_1 type_1 type_1 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 24.137931034482758
+		'type_4type_4type_4type_4type_4' : 17.24137931034483
+		'type_9type_9type_10type_10type_10' : 1.7241379310344827
+		'type_3type_3type_3type_3type_3' : 10.344827586206897
+		'type_4type_4type_4type_4type_9' : 1.7241379310344827
+		'type_10type_10type_10type_10type_10' : 8.620689655172415
+		'type_3type_3type_9type_9type_9' : 1.7241379310344827
+		'type_4type_9type_9type_9type_9' : 1.7241379310344827
+		'type_3type_4type_4type_4type_4' : 1.7241379310344827
+		'type_4type_4type_3type_3type_3' : 1.7241379310344827
+		'type_5type_1type_1type_1type_1' : 1.7241379310344827
+		'type_10type_10type_10type_9type_9' : 3.4482758620689653
+		'type_9type_4type_4type_4type_4' : 1.7241379310344827
+		'type_3type_7type_7type_7type_7' : 1.7241379310344827
+		'type_3type_3type_10type_10type_10' : 1.7241379310344827
+		'type_3type_3type_3type_3type_10' : 1.7241379310344827
+		'type_3type_10type_10type_10type_10' : 1.7241379310344827
+		'type_7type_7type_7type_7type_7' : 1.7241379310344827
+		'type_3type_3type_4type_4type_4' : 1.7241379310344827
+		'type_9type_9type_9type_4type_4' : 1.7241379310344827
+		'type_9type_9type_9type_9type_4' : 1.7241379310344827
+		'type_4type_3type_3type_3type_3' : 1.7241379310344827
+		'type_3type_3type_3type_3type_9' : 1.7241379310344827
+		'type_3type_3type_3type_9type_9' : 1.7241379310344827
+		'type_9type_10type_10type_10type_10' : 1.7241379310344827
+		'type_9type_9type_9type_9type_4'
+ : 1.7241379310344827
+type_7 type_7 type_7 type_7 type_3  :
+		'type_1type_1type_1type_1type_1' : 3.125
+		'type_9type_9type_9type_9type_9' : 21.875
+		'type_4type_4type_4type_4type_4' : 18.75
+		'type_1type_3type_3type_3type_3' : 1.5625
+		'type_10type_10type_10type_10type_10' : 14.0625
+		'type_3type_3type_3type_3type_3' : 23.4375
+		'type_10type_4type_4type_4type_4' : 1.5625
+		'type_10type_10type_10type_9type_9' : 3.125
+		'type_4type_9type_9type_9type_9' : 1.5625
+		'type_1type_1type_1type_9type_9' : 1.5625
+		'type_4type_10type_10type_10type_10' : 1.5625
+		'type_3type_9type_9type_9type_9' : 1.5625
+		'type_3type_3type_3type_3type_9' : 1.5625
+		'type_7type_7type_7type_7type_7' : 1.5625
+		'type_9type_9type_9type_9type_10' : 1.5625
+		'type_4type_4type_4type_3type_3'
+ : 1.5625
+type_9 type_9 type_9 type_3 type_9  :
+		'type_3type_3type_3type_3type_3' : 25.0
+		'type_9type_9type_9type_9type_9' : 12.5
+		'type_4type_4type_4type_4type_4' : 25.0
+		'type_9type_9type_10type_4type_4' : 3.125
+		'type_3type_3type_3type_3type_5' : 3.125
+		'type_3type_4type_4type_4type_4' : 3.125
+		'type_1type_1type_1type_1type_1' : 3.125
+		'type_10type_10type_10type_10type_3' : 3.125
+		'type_3type_3type_3type_3type_10' : 3.125
+		'type_7type_7type_7type_7type_7' : 3.125
+		'type_3type_10type_10type_10type_9' : 3.125
+		'type_5type_5type_5type_5type_5' : 3.125
+		'type_9type_9type_3type_9type_9' : 3.125
+		'type_4type_4type_4type_10type_10' : 3.125
+		'type_9type_9type_9type_9type_3'
+ : 3.125
+type_6 type_6 type_6 type_6 type_2  :
+		'type_9type_9type_9type_9type_9' : 28.57142857142857
+		'type_4type_4type_4type_4type_4' : 20.0
+		'type_10type_10type_10type_10type_9' : 5.714285714285714
+		'type_10type_10type_10type_10type_10' : 5.714285714285714
+		'type_3type_3type_10type_10type_10' : 2.857142857142857
+		'type_1type_1type_1type_1type_1' : 5.714285714285714
+		'type_7type_7type_5type_5type_5' : 2.857142857142857
+		'type_3type_3type_3type_3type_3' : 14.285714285714285
+		'type_1type_1type_3type_3type_3' : 2.857142857142857
+		'type_5type_5type_5type_5type_5' : 2.857142857142857
+		'type_3type_3type_3type_3type_9' : 2.857142857142857
+		'type_4type_4type_4type_4type_1' : 2.857142857142857
+		'type_3type_3type_3type_3type_3'
+ : 2.857142857142857
+type_6 type_6 type_5 type_5 type_1  :
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_4type_4type_4type_4type_4' : 12.5
+		'type_10type_10type_10type_10type_9' : 4.166666666666666
+		'type_9type_9type_9type_9type_9' : 37.5
+		'type_10type_10type_10type_10type_10' : 4.166666666666666
+		'type_4type_4type_10type_10type_10' : 4.166666666666666
+		'type_3type_3type_3type_9type_9' : 4.166666666666666
+		'type_4type_4type_9type_9type_9' : 4.166666666666666
+		'type_9type_10type_10type_10type_10' : 4.166666666666666
+		'type_1type_1type_1type_1type_1' : 4.166666666666666
+		'type_9type_9type_9type_9type_9'
+ : 4.166666666666666
+type_5 type_5 type_1 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 8.571428571428571
+		'type_4type_4type_4type_4type_4' : 8.571428571428571
+		'type_7type_7type_9type_9type_9' : 2.857142857142857
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_1type_1type_1type_1type_1' : 11.428571428571429
+		'type_3type_3type_10type_10type_10' : 5.714285714285714
+		'type_3type_3type_4type_4type_4' : 2.857142857142857
+		'type_10type_10type_10type_10type_10' : 14.285714285714285
+		'type_7type_7type_7type_7type_7' : 2.857142857142857
+		'type_3type_3type_3type_3type_9' : 2.857142857142857
+		'type_7type_7type_1type_1type_1' : 2.857142857142857
+		'type_9type_10type_10type_10type_9' : 2.857142857142857
+		'type_9type_9type_9type_9type_3' : 2.857142857142857
+		'type_9type_9type_1type_1type_1' : 2.857142857142857
+		'type_9type_9type_9type_10type_10' : 2.857142857142857
+		'type_3type_3type_3type_3type_10' : 2.857142857142857
+		'type_4type_4type_4type_4type_4'
+ : 2.857142857142857
+type_6 type_6 type_6 type_9 type_9  :
+		'type_3type_3type_3type_3type_3' : 23.52941176470588
+		'type_4type_4type_4type_4type_4' : 26.47058823529412
+		'type_9type_9type_9type_9type_9' : 14.705882352941178
+		'type_10type_10type_10type_10type_10' : 5.88235294117647
+		'type_9type_9type_9type_9type_7' : 2.941176470588235
+		'type_10type_10type_10type_3type_3' : 2.941176470588235
+		'type_3type_9type_9type_9type_9' : 2.941176470588235
+		'type_9type_9type_9type_4type_4' : 2.941176470588235
+		'type_7type_7type_7type_7type_7' : 5.88235294117647
+		'type_10type_10type_10type_1type_1' : 2.941176470588235
+		'type_5type_5type_5type_5type_5' : 2.941176470588235
+		'type_3type_3type_3type_3type_4' : 2.941176470588235
+		'type_9type_9type_9type_9type_9'
+ : 2.941176470588235
+type_9 type_9 type_9 type_3 type_7  :
+		'type_10type_10type_10type_10type_10' : 12.0
+		'type_3type_3type_10type_10type_10' : 4.0
+		'type_9type_9type_9type_9type_9' : 16.0
+		'type_7type_9type_9type_9type_9' : 4.0
+		'type_4type_4type_4type_4type_4' : 4.0
+		'type_3type_3type_3type_3type_3' : 24.0
+		'type_9type_3type_3type_3type_3' : 4.0
+		'type_4type_4type_4type_4type_9' : 4.0
+		'type_10type_10type_10type_3type_3' : 4.0
+		'type_5type_5type_5type_5type_5' : 4.0
+		'type_3type_3type_3type_4type_3' : 4.0
+		'type_3type_3type_9type_3type_3' : 4.0
+		'type_7type_7type_7type_7type_7' : 8.0
+		'type_4type_4type_4type_9type_9'
+ : 4.0
+type_6 type_6 type_7 type_7 type_7  :
+		'type_1type_1type_1type_1type_1' : 5.660377358490567
+		'type_9type_9type_9type_9type_3' : 1.8867924528301887
+		'type_10type_10type_10type_10type_10' : 15.09433962264151
+		'type_1type_1type_1type_3type_3' : 1.8867924528301887
+		'type_4type_4type_4type_4type_4' : 15.09433962264151
+		'type_4type_4type_4type_3type_3' : 3.7735849056603774
+		'type_9type_9type_9type_9type_9' : 20.754716981132077
+		'type_10type_10type_3type_3type_3' : 1.8867924528301887
+		'type_3type_3type_3type_3type_3' : 20.754716981132077
+		'type_10type_10type_4type_4type_4' : 1.8867924528301887
+		'type_9type_9type_3type_3type_3' : 1.8867924528301887
+		'type_3type_3type_3type_10type_10' : 1.8867924528301887
+		'type_5type_5type_5type_5type_5' : 1.8867924528301887
+		'type_9type_9type_9type_3type_3' : 1.8867924528301887
+		'type_3type_3type_9type_9type_9' : 1.8867924528301887
+		'type_4type_4type_4type_4type_4'
+ : 1.8867924528301887
+type_6 type_7 type_7 type_7 type_7  :
+		'type_1type_1type_1type_1type_1' : 2.272727272727273
+		'type_9type_9type_9type_3type_3' : 2.272727272727273
+		'type_10type_10type_10type_10type_10' : 13.636363636363635
+		'type_1type_1type_3type_3type_3' : 2.272727272727273
+		'type_4type_4type_4type_4type_4' : 25.0
+		'type_9type_9type_9type_9type_9' : 20.454545454545457
+		'type_10type_3type_3type_3type_3' : 2.272727272727273
+		'type_3type_3type_3type_3type_10' : 2.272727272727273
+		'type_4type_9type_9type_7type_7' : 2.272727272727273
+		'type_3type_3type_3type_3type_3' : 13.636363636363635
+		'type_1type_1type_9type_9type_9' : 2.272727272727273
+		'type_9type_9type_9type_9type_3' : 2.272727272727273
+		'type_9type_3type_3type_3type_3' : 2.272727272727273
+		'type_9type_9type_3type_3type_3' : 2.272727272727273
+		'type_3type_9type_9type_9type_9' : 2.272727272727273
+		'type_3type_3type_3type_3type_3'
+ : 2.272727272727273
+type_1 type_1 type_3 type_7 type_7  :
+		'type_3type_3type_3type_3type_3' : 26.666666666666668
+		'type_10type_10type_10type_10type_10' : 10.0
+		'type_7type_6type_6type_6type_6' : 3.3333333333333335
+		'type_10type_9type_9type_9type_9' : 3.3333333333333335
+		'type_9type_9type_9type_9type_9' : 13.333333333333334
+		'type_10type_10type_10type_10type_3' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4' : 13.333333333333334
+		'type_3type_3type_3type_10type_10' : 3.3333333333333335
+		'type_3type_3type_3type_4type_4' : 3.3333333333333335
+		'type_4type_4type_4type_1type_9' : 3.3333333333333335
+		'type_7type_7type_7type_7type_7' : 3.3333333333333335
+		'type_1type_1type_1type_1type_1' : 3.3333333333333335
+		'type_4type_4type_4type_1type_1' : 3.3333333333333335
+		'type_3type_3type_3type_3type_1' : 3.3333333333333335
+		'type_4type_4type_4type_4type_3'
+ : 3.3333333333333335
+type_6 type_6 type_6 type_7 type_6  :
+		'type_9type_9type_9type_9type_9' : 27.083333333333332
+		'type_10type_9type_9type_9type_9' : 2.083333333333333
+		'type_10type_10type_10type_10type_10' : 12.5
+		'type_4type_9type_9type_9type_9' : 2.083333333333333
+		'type_4type_4type_4type_4type_4' : 10.416666666666668
+		'type_7type_7type_7type_7type_7' : 6.25
+		'type_1type_1type_1type_1type_1' : 4.166666666666666
+		'type_3type_3type_10type_10type_10' : 2.083333333333333
+		'type_9type_9type_10type_10type_9' : 2.083333333333333
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_9type_9type_10type_10type_10' : 2.083333333333333
+		'type_5type_5type_5type_5type_4' : 2.083333333333333
+		'type_3type_3type_3type_3type_10' : 2.083333333333333
+		'type_4type_4type_4type_1type_1' : 2.083333333333333
+		'type_5type_5type_5type_5type_5' : 4.166666666666666
+		'type_9type_9type_9type_9type_9'
+ : 2.083333333333333
+type_7 type_3 type_3 type_3 type_3  :
+		'type_1type_1type_1type_1type_1' : 2.7777777777777777
+		'type_10type_10type_10type_10type_10' : 8.333333333333332
+		'type_7type_7type_7type_7type_7' : 11.11111111111111
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_4type_4type_4type_4type_4' : 13.88888888888889
+		'type_9type_9type_9type_3type_3' : 2.7777777777777777
+		'type_3type_3type_3type_3type_3' : 13.88888888888889
+		'type_3type_3type_10type_10type_9' : 2.7777777777777777
+		'type_3type_9type_3type_3type_3' : 2.7777777777777777
+		'type_3type_9type_9type_9type_9' : 2.7777777777777777
+		'type_9type_9type_10type_10type_10' : 2.7777777777777777
+		'type_5type_5type_5type_5type_7' : 2.7777777777777777
+		'type_3type_3type_3type_3type_10' : 2.7777777777777777
+		'type_9type_10type_10type_10type_10' : 2.7777777777777777
+		'type_7type_7type_7type_3type_3' : 2.7777777777777777
+		'type_3type_3type_3type_3type_1' : 2.7777777777777777
+		'type_10type_10type_10type_9type_9' : 2.7777777777777777
+		'type_3type_7type_7type_7type_7'
+ : 2.7777777777777777
+type_9 type_9 type_9 type_9 type_3  :
+		'type_4type_4type_4type_4type_4' : 17.647058823529413
+		'type_10type_10type_10type_10type_10' : 11.76470588235294
+		'type_3type_3type_3type_4type_4' : 1.9607843137254901
+		'type_9type_9type_9type_9type_9' : 13.725490196078432
+		'type_3type_3type_3type_3type_3' : 29.411764705882355
+		'type_10type_10type_10type_7type_7' : 1.9607843137254901
+		'type_3type_3type_4type_4type_4' : 1.9607843137254901
+		'type_9type_9type_9type_10type_4' : 1.9607843137254901
+		'type_1type_1type_1type_1type_1' : 1.9607843137254901
+		'type_3type_3type_3type_9type_3' : 1.9607843137254901
+		'type_7type_7type_7type_7type_7' : 5.88235294117647
+		'type_9type_9type_9type_9type_3' : 1.9607843137254901
+		'type_3type_3type_10type_10type_10' : 1.9607843137254901
+		'type_5type_5type_7type_7type_7' : 1.9607843137254901
+		'type_9type_9type_9type_3type_9' : 1.9607843137254901
+		'type_4type_4type_4type_4type_9'
+ : 1.9607843137254901
+type_3 type_7 type_7 type_7 type_1  :
+		'type_4type_4type_4type_4type_4' : 37.5
+		'type_10type_10type_10type_10type_10' : 8.333333333333332
+		'type_9type_9type_9type_9type_9' : 20.833333333333336
+		'type_9type_9type_4type_4type_4' : 4.166666666666666
+		'type_9type_3type_3type_3type_3' : 4.166666666666666
+		'type_3type_3type_3type_9type_9' : 4.166666666666666
+		'type_3type_4type_4type_4type_3' : 4.166666666666666
+		'type_4type_1type_9type_9type_9' : 4.166666666666666
+		'type_3type_3type_3type_3type_3' : 8.333333333333332
+		'type_3type_3type_3type_9type_9'
+ : 4.166666666666666
+type_3 type_3 type_9 type_9 type_9  :
+		'type_9type_3type_3type_3type_3' : 3.225806451612903
+		'type_10type_3type_3type_3type_3' : 3.225806451612903
+		'type_3type_3type_3type_3type_3' : 38.70967741935484
+		'type_4type_4type_4type_4type_4' : 9.67741935483871
+		'type_3type_7type_7type_9type_9' : 3.225806451612903
+		'type_10type_10type_10type_10type_10' : 6.451612903225806
+		'type_9type_9type_9type_9type_9' : 16.129032258064516
+		'type_3type_1type_1type_1type_1' : 3.225806451612903
+		'type_1type_1type_1type_1type_1' : 6.451612903225806
+		'type_10type_10type_10type_3type_3' : 3.225806451612903
+		'type_9type_9type_9type_9type_3' : 3.225806451612903
+		'type_9type_9type_9type_9type_9'
+ : 3.225806451612903
+type_1 type_7 type_7 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 27.536231884057973
+		'type_10type_10type_10type_10type_10' : 11.594202898550725
+		'type_3type_3type_3type_3type_3' : 13.043478260869565
+		'type_4type_10type_10type_10type_10' : 1.4492753623188406
+		'type_4type_4type_4type_4type_4' : 24.637681159420293
+		'type_3type_3type_3type_3type_1' : 1.4492753623188406
+		'type_9type_9type_3type_3type_3' : 1.4492753623188406
+		'type_9type_9type_9type_4type_4' : 1.4492753623188406
+		'type_10type_10type_3type_3type_3' : 1.4492753623188406
+		'type_4type_4type_10type_10type_10' : 1.4492753623188406
+		'type_7type_7type_7type_7type_7' : 1.4492753623188406
+		'type_1type_1type_1type_1type_1' : 2.898550724637681
+		'type_9type_9type_9type_9type_3' : 1.4492753623188406
+		'type_10type_10type_10type_4type_3' : 1.4492753623188406
+		'type_5type_5type_5type_5type_5' : 2.898550724637681
+		'type_10type_10type_10type_9type_9' : 1.4492753623188406
+		'type_7type_7type_7type_1type_7' : 1.4492753623188406
+		'type_9type_9type_9type_9type_9'
+ : 1.4492753623188406
+type_7 type_7 type_7 type_7 type_9  :
+		'type_10type_10type_10type_10type_10' : 13.20754716981132
+		'type_3type_3type_3type_3type_3' : 24.528301886792452
+		'type_9type_9type_9type_9type_9' : 30.18867924528302
+		'type_3type_3type_3type_9type_3' : 1.8867924528301887
+		'type_4type_4type_4type_4type_4' : 9.433962264150944
+		'type_10type_10type_9type_9type_9' : 1.8867924528301887
+		'type_9type_9type_9type_9type_10' : 1.8867924528301887
+		'type_3type_3type_3type_10type_4' : 1.8867924528301887
+		'type_3type_3type_3type_3type_10' : 3.7735849056603774
+		'type_4type_4type_4type_7type_7' : 1.8867924528301887
+		'type_10type_4type_3type_3type_3' : 1.8867924528301887
+		'type_5type_5type_5type_5type_5' : 1.8867924528301887
+		'type_4type_4type_4type_10type_10' : 1.8867924528301887
+		'type_9type_4type_4type_4type_4' : 1.8867924528301887
+		'type_3type_3type_3type_3type_3'
+ : 1.8867924528301887
+type_3 type_7 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 9.090909090909092
+		'type_3type_3type_3type_3type_3' : 21.21212121212121
+		'type_10type_10type_10type_10type_10' : 18.181818181818183
+		'type_9type_9type_9type_3type_3' : 3.0303030303030303
+		'type_3type_3type_9type_9type_9' : 3.0303030303030303
+		'type_4type_4type_4type_4type_4' : 9.090909090909092
+		'type_10type_10type_10type_10type_3' : 6.0606060606060606
+		'type_1type_1type_1type_1type_1' : 3.0303030303030303
+		'type_4type_4type_5type_5type_5' : 3.0303030303030303
+		'type_3type_3type_3type_3type_9' : 3.0303030303030303
+		'type_3type_3type_3type_10type_10' : 3.0303030303030303
+		'type_9type_3type_3type_3type_3' : 3.0303030303030303
+		'type_5type_5type_5type_5type_5' : 6.0606060606060606
+		'type_9type_9type_9type_4type_4' : 3.0303030303030303
+		'type_7type_7type_7type_7type_10' : 3.0303030303030303
+		'type_1type_1type_1type_1type_1'
+ : 3.0303030303030303
+type_6 type_5 type_6 type_6 type_6  :
+		'type_4type_4type_4type_4type_4' : 15.555555555555555
+		'type_10type_10type_9type_9type_9' : 2.2222222222222223
+		'type_3type_3type_3type_3type_4' : 2.2222222222222223
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_9type_9type_9type_3type_3' : 2.2222222222222223
+		'type_4type_10type_10type_10type_10' : 2.2222222222222223
+		'type_9type_9type_7type_7type_7' : 2.2222222222222223
+		'type_3type_3type_3type_3type_3' : 15.555555555555555
+		'type_10type_10type_10type_10type_10' : 15.555555555555555
+		'type_10type_10type_10type_9type_9' : 2.2222222222222223
+		'type_7type_7type_7type_7type_5' : 2.2222222222222223
+		'type_5type_5type_5type_5type_5' : 2.2222222222222223
+		'type_10type_4type_4type_4type_4' : 2.2222222222222223
+		'type_3type_3type_3type_9type_9' : 2.2222222222222223
+		'type_1type_1type_1type_1type_1' : 2.2222222222222223
+		'type_7type_7type_9type_9type_9' : 2.2222222222222223
+		'type_7type_7type_7type_7type_9' : 2.2222222222222223
+		'type_3type_3type_3type_3type_9' : 2.2222222222222223
+		'type_10type_10type_10type_10type_10'
+ : 2.2222222222222223
+type_6 type_6 type_6 type_9 type_1  :
+		'type_4type_4type_4type_3type_3' : 4.761904761904762
+		'type_9type_9type_9type_9type_9' : 19.047619047619047
+		'type_9type_9type_10type_10type_10' : 4.761904761904762
+		'type_3type_3type_3type_3type_3' : 19.047619047619047
+		'type_1type_1type_1type_1type_1' : 9.523809523809524
+		'type_4type_4type_4type_4type_4' : 9.523809523809524
+		'type_5type_5type_5type_5type_5' : 4.761904761904762
+		'type_10type_3type_3type_3type_3' : 4.761904761904762
+		'type_10type_10type_3type_3type_3' : 4.761904761904762
+		'type_3type_7type_7type_7type_7' : 4.761904761904762
+		'type_1type_4type_4type_4type_4' : 4.761904761904762
+		'type_9type_9type_9type_9type_4' : 4.761904761904762
+		'type_3type_3type_3type_3type_3'
+ : 4.761904761904762
+type_6 type_6 type_9 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 23.809523809523807
+		'type_1type_1type_1type_1type_1' : 4.761904761904762
+		'type_3type_3type_3type_3type_3' : 19.047619047619047
+		'type_4type_4type_4type_4type_4' : 19.047619047619047
+		'type_3type_3type_3type_10type_10' : 4.761904761904762
+		'type_10type_3type_3type_3type_3' : 4.761904761904762
+		'type_7type_7type_7type_7type_9' : 4.761904761904762
+		'type_5type_5type_5type_5type_5' : 4.761904761904762
+		'type_9type_9type_9type_4type_4' : 4.761904761904762
+		'type_10type_10type_10type_10type_10' : 4.761904761904762
+		'type_7type_7type_7type_7type_7'
+ : 4.761904761904762
+type_7 type_7 type_9 type_1 type_1  :
+		'type_10type_10type_10type_10type_10' : 3.8461538461538463
+		'type_4type_4type_9type_9type_9' : 3.8461538461538463
+		'type_1type_1type_1type_1type_1' : 3.8461538461538463
+		'type_9type_9type_9type_9type_9' : 19.230769230769234
+		'type_3type_3type_3type_3type_3' : 15.384615384615385
+		'type_10type_10type_10type_9type_9' : 3.8461538461538463
+		'type_3type_4type_4type_4type_4' : 3.8461538461538463
+		'type_9type_9type_10type_10type_10' : 3.8461538461538463
+		'type_4type_3type_3type_3type_3' : 3.8461538461538463
+		'type_9type_9type_9type_9type_4' : 3.8461538461538463
+		'type_10type_10type_10type_10type_3' : 3.8461538461538463
+		'type_3type_3type_10type_10type_10' : 3.8461538461538463
+		'type_7type_7type_7type_1type_1' : 3.8461538461538463
+		'type_4type_4type_4type_4type_4' : 11.538461538461538
+		'type_9type_9type_3type_3type_3' : 3.8461538461538463
+		'type_4type_10type_10type_10type_10' : 3.8461538461538463
+		'type_4type_4type_4type_4type_4'
+ : 3.8461538461538463
+type_8 type_6 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_4type_4type_4type_4type_4' : 13.333333333333334
+		'type_10type_10type_10type_3type_3' : 3.3333333333333335
+		'type_3type_3type_3type_4type_4' : 3.3333333333333335
+		'type_3type_3type_3type_3type_3' : 23.333333333333332
+		'type_1type_1type_1type_1type_1' : 6.666666666666667
+		'type_10type_10type_10type_10type_10' : 10.0
+		'type_10type_10type_10type_9type_9' : 3.3333333333333335
+		'type_5type_10type_10type_10type_10' : 3.3333333333333335
+		'type_4type_4type_4type_3type_3' : 3.3333333333333335
+		'type_7type_7type_4type_4type_4' : 3.3333333333333335
+		'type_10type_9type_9type_9type_9' : 3.3333333333333335
+		'type_1type_1type_1type_4type_9'
+ : 3.3333333333333335
+type_3 type_9 type_9 type_9 type_9  :
+		'type_9type_9type_9type_9type_9' : 22.807017543859647
+		'type_4type_4type_4type_4type_4' : 19.298245614035086
+		'type_3type_3type_3type_3type_3' : 29.82456140350877
+		'type_9type_3type_3type_3type_3' : 3.508771929824561
+		'type_10type_10type_10type_10type_10' : 1.7543859649122806
+		'type_1type_1type_1type_1type_1' : 5.263157894736842
+		'type_9type_7type_7type_7type_7' : 1.7543859649122806
+		'type_3type_3type_3type_10type_10' : 1.7543859649122806
+		'type_9type_9type_9type_10type_1' : 1.7543859649122806
+		'type_1type_1type_1type_1type_9' : 1.7543859649122806
+		'type_3type_10type_10type_10type_10' : 1.7543859649122806
+		'type_3type_3type_3type_9type_9' : 1.7543859649122806
+		'type_10type_10type_3type_3type_3' : 1.7543859649122806
+		'type_3type_9type_9type_9type_9' : 1.7543859649122806
+		'type_5type_5type_5type_5type_7' : 1.7543859649122806
+		'type_10type_10type_10type_10type_10'
+ : 1.7543859649122806
+type_1 type_1 type_9 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 17.391304347826086
+		'type_10type_10type_10type_10type_10' : 8.695652173913043
+		'type_3type_1type_1type_1type_1' : 4.3478260869565215
+		'type_9type_9type_9type_9type_3' : 4.3478260869565215
+		'type_1type_1type_1type_1type_1' : 13.043478260869565
+		'type_4type_4type_4type_4type_4' : 17.391304347826086
+		'type_7type_7type_7type_7type_9' : 4.3478260869565215
+		'type_9type_9type_9type_10type_10' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3' : 8.695652173913043
+		'type_5type_5type_5type_5type_5' : 4.3478260869565215
+		'type_10type_10type_4type_4type_4' : 4.3478260869565215
+		'type_10type_10type_10type_4type_4' : 4.3478260869565215
+		'type_10type_10type_10type_10type_10'
+ : 4.3478260869565215
+type_3 type_3 type_3 type_5 type_5  :
+		'type_3type_3type_3type_3type_3' : 21.951219512195124
+		'type_10type_10type_10type_10type_10' : 7.317073170731707
+		'type_9type_9type_9type_9type_9' : 26.82926829268293
+		'type_4type_4type_4type_4type_4' : 21.951219512195124
+		'type_3type_3type_9type_3type_3' : 2.4390243902439024
+		'type_10type_10type_10type_10type_4' : 2.4390243902439024
+		'type_3type_10type_10type_10type_9' : 2.4390243902439024
+		'type_1type_1type_1type_1type_1' : 2.4390243902439024
+		'type_1type_9type_9type_10type_9' : 2.4390243902439024
+		'type_7type_7type_7type_7type_4' : 2.4390243902439024
+		'type_7type_7type_7type_7type_7' : 2.4390243902439024
+		'type_9type_9type_9type_9type_10' : 2.4390243902439024
+		'type_9type_9type_9type_9type_9'
+ : 2.4390243902439024
+type_3 type_3 type_5 type_5 type_5  :
+		'type_10type_10type_10type_10type_10' : 15.384615384615385
+		'type_9type_9type_9type_9type_9' : 19.230769230769234
+		'type_4type_4type_4type_4type_4' : 11.538461538461538
+		'type_10type_10type_10type_9type_9' : 3.8461538461538463
+		'type_4type_4type_10type_10type_10' : 3.8461538461538463
+		'type_3type_3type_3type_3type_3' : 26.923076923076923
+		'type_7type_7type_7type_4type_4' : 3.8461538461538463
+		'type_9type_9type_9type_9type_3' : 3.8461538461538463
+		'type_3type_3type_1type_1type_9' : 3.8461538461538463
+		'type_9type_9type_9type_10type_10' : 3.8461538461538463
+		'type_9type_9type_9type_9type_9'
+ : 3.8461538461538463
+type_3 type_5 type_5 type_5 type_5  :
+		'type_9type_9type_9type_9type_9' : 24.242424242424242
+		'type_4type_4type_4type_4type_4' : 18.181818181818183
+		'type_10type_10type_10type_10type_9' : 3.0303030303030303
+		'type_3type_3type_4type_4type_4' : 3.0303030303030303
+		'type_3type_3type_3type_3type_3' : 18.181818181818183
+		'type_4type_4type_3type_3type_3' : 3.0303030303030303
+		'type_9type_9type_3type_3type_3' : 3.0303030303030303
+		'type_7type_7type_4type_4type_4' : 3.0303030303030303
+		'type_3type_3type_9type_9type_9' : 3.0303030303030303
+		'type_9type_9type_9type_3type_3' : 3.0303030303030303
+		'type_10type_10type_10type_10type_10' : 6.0606060606060606
+		'type_3type_1type_1type_9type_9' : 3.0303030303030303
+		'type_9type_9type_10type_10type_10' : 3.0303030303030303
+		'type_9type_7type_7type_7type_7' : 3.0303030303030303
+		'type_3type_3type_3type_3type_3'
+ : 3.0303030303030303
+type_5 type_5 type_5 type_5 type_3  :
+		'type_10type_10type_10type_10type_10' : 23.91304347826087
+		'type_9type_9type_9type_9type_9' : 19.565217391304348
+		'type_4type_4type_4type_4type_4' : 13.043478260869565
+		'type_10type_10type_9type_9type_9' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3' : 15.217391304347828
+		'type_1type_1type_1type_1type_1' : 2.1739130434782608
+		'type_3type_3type_3type_10type_10' : 2.1739130434782608
+		'type_4type_4type_10type_10type_10' : 2.1739130434782608
+		'type_4type_4type_4type_10type_10' : 2.1739130434782608
+		'type_9type_9type_9type_9type_3' : 2.1739130434782608
+		'type_9type_9type_4type_1type_1' : 2.1739130434782608
+		'type_4type_4type_4type_3type_3' : 2.1739130434782608
+		'type_9type_3type_3type_3type_3' : 2.1739130434782608
+		'type_3type_3type_3type_3type_4' : 2.1739130434782608
+		'type_7type_7type_7type_7type_7' : 2.1739130434782608
+		'type_9type_9type_9type_9type_9'
+ : 2.1739130434782608
+type_6 type_6 type_6 type_6 type_9  :
+		'type_3type_3type_3type_3type_3' : 29.09090909090909
+		'type_4type_4type_4type_4type_4' : 21.818181818181817
+		'type_3type_3type_4type_4type_4' : 1.8181818181818181
+		'type_4type_4type_10type_10type_10' : 1.8181818181818181
+		'type_4type_4type_4type_4type_3' : 1.8181818181818181
+		'type_9type_9type_9type_9type_9' : 16.363636363636363
+		'type_10type_10type_10type_10type_10' : 10.909090909090908
+		'type_1type_1type_1type_1type_1' : 5.454545454545454
+		'type_5type_5type_5type_5type_5' : 5.454545454545454
+		'type_9type_9type_4type_4type_4' : 1.8181818181818181
+		'type_10type_10type_10type_3type_3' : 1.8181818181818181
+		'type_1type_1type_1type_10type_10'
+ : 1.8181818181818181
+type_1 type_1 type_7 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 14.583333333333334
+		'type_3type_3type_3type_3type_3' : 20.833333333333336
+		'type_10type_10type_10type_10type_10' : 12.5
+		'type_4type_4type_10type_10type_10' : 2.083333333333333
+		'type_4type_4type_4type_3type_3' : 2.083333333333333
+		'type_4type_4type_4type_4type_4' : 14.583333333333334
+		'type_1type_1type_1type_1type_1' : 4.166666666666666
+		'type_3type_9type_9type_9type_9' : 2.083333333333333
+		'type_9type_4type_4type_4type_4' : 2.083333333333333
+		'type_7type_7type_7type_7type_7' : 2.083333333333333
+		'type_3type_3type_3type_3type_9' : 2.083333333333333
+		'type_10type_10type_10type_3type_3' : 2.083333333333333
+		'type_3type_5type_5type_5type_5' : 2.083333333333333
+		'type_5type_5type_5type_5type_5' : 4.166666666666666
+		'type_4type_9type_9type_9type_9' : 2.083333333333333
+		'type_3type_10type_10type_10type_10' : 2.083333333333333
+		'type_9type_9type_9type_7type_7' : 2.083333333333333
+		'type_9type_9type_9type_10type_10' : 2.083333333333333
+		'type_3type_4type_4type_4type_4' : 2.083333333333333
+		'type_9type_9type_9type_9type_9'
+ : 2.083333333333333
+type_5 type_5 type_5 type_3 type_3  :
+		'type_9type_1type_1type_7type_7' : 2.7777777777777777
+		'type_4type_4type_4type_4type_4' : 13.88888888888889
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_10type_10type_10type_10type_10' : 16.666666666666664
+		'type_3type_3type_3type_3type_3' : 25.0
+		'type_1type_4type_4type_4type_4' : 2.7777777777777777
+		'type_10type_10type_9type_4type_4' : 2.7777777777777777
+		'type_4type_4type_10type_10type_10' : 2.7777777777777777
+		'type_9type_9type_9type_3type_3' : 2.7777777777777777
+		'type_7type_7type_7type_7type_7' : 2.7777777777777777
+		'type_4type_4type_3type_3type_3' : 2.7777777777777777
+		'type_1type_1type_1type_1type_1' : 2.7777777777777777
+		'type_3type_3type_3type_4type_4' : 2.7777777777777777
+		'type_9type_9type_9type_9type_9'
+ : 2.7777777777777777
+type_6 type_2 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 24.242424242424242
+		'type_9type_9type_9type_9type_3' : 3.0303030303030303
+		'type_10type_10type_10type_10type_10' : 15.151515151515152
+		'type_4type_4type_4type_4type_4' : 15.151515151515152
+		'type_3type_3type_3type_3type_3' : 15.151515151515152
+		'type_9type_3type_3type_3type_3' : 3.0303030303030303
+		'type_1type_1type_1type_1type_1' : 6.0606060606060606
+		'type_10type_10type_10type_4type_10' : 3.0303030303030303
+		'type_3type_3type_9type_9type_9' : 3.0303030303030303
+		'type_9type_7type_7type_3type_3' : 3.0303030303030303
+		'type_7type_7type_7type_7type_7' : 3.0303030303030303
+		'type_5type_5type_5type_5type_5' : 3.0303030303030303
+		'type_3type_3type_3type_3type_4'
+ : 3.0303030303030303
+type_5 type_5 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 20.408163265306122
+		'type_10type_10type_10type_9type_9' : 2.0408163265306123
+		'type_4type_4type_4type_4type_4' : 22.448979591836736
+		'type_10type_10type_10type_10type_10' : 10.204081632653061
+		'type_3type_3type_10type_10type_10' : 2.0408163265306123
+		'type_3type_3type_9type_9type_9' : 4.081632653061225
+		'type_3type_3type_3type_3type_3' : 8.16326530612245
+		'type_1type_1type_1type_1type_1' : 6.122448979591836
+		'type_3type_4type_4type_4type_9' : 2.0408163265306123
+		'type_7type_7type_7type_7type_7' : 4.081632653061225
+		'type_5type_5type_5type_5type_5' : 2.0408163265306123
+		'type_10type_10type_10type_3type_3' : 2.0408163265306123
+		'type_3type_3type_3type_3type_7' : 2.0408163265306123
+		'type_10type_10type_10type_4type_10' : 2.0408163265306123
+		'type_4type_4type_4type_3type_3' : 2.0408163265306123
+		'type_10type_10type_10type_10type_9' : 2.0408163265306123
+		'type_5type_3type_3type_3type_3' : 2.0408163265306123
+		'type_3type_4type_4type_4type_4' : 2.0408163265306123
+		'type_9type_9type_9type_9type_9'
+ : 2.0408163265306123
+type_5 type_7 type_7 type_7 type_7  :
+		'type_3type_3type_3type_3type_3' : 27.77777777777778
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_4type_4type_4type_4type_4' : 16.666666666666664
+		'type_10type_10type_10type_10type_9' : 2.7777777777777777
+		'type_10type_10type_10type_10type_4' : 2.7777777777777777
+		'type_10type_10type_10type_10type_10' : 13.88888888888889
+		'type_7type_4type_4type_4type_4' : 2.7777777777777777
+		'type_9type_9type_9type_9type_4' : 2.7777777777777777
+		'type_1type_1type_1type_1type_9' : 2.7777777777777777
+		'type_1type_1type_1type_1type_1' : 2.7777777777777777
+		'type_4type_4type_4type_4type_7' : 2.7777777777777777
+		'type_3type_3type_3type_4type_4' : 2.7777777777777777
+		'type_9type_10type_10type_10type_10'
+ : 2.7777777777777777
+type_9 type_9 type_9 type_9 type_7  :
+		'type_3type_3type_3type_3type_3' : 13.953488372093023
+		'type_9type_9type_9type_9type_9' : 18.6046511627907
+		'type_10type_10type_10type_10type_10' : 16.27906976744186
+		'type_1type_1type_1type_1type_1' : 6.976744186046512
+		'type_4type_4type_4type_4type_4' : 16.27906976744186
+		'type_1type_1type_1type_7type_7' : 2.3255813953488373
+		'type_9type_9type_9type_3type_3' : 2.3255813953488373
+		'type_3type_3type_3type_5type_5' : 2.3255813953488373
+		'type_3type_3type_10type_10type_10' : 2.3255813953488373
+		'type_9type_9type_10type_10type_10' : 2.3255813953488373
+		'type_1type_1type_1type_9type_9' : 2.3255813953488373
+		'type_3type_9type_9type_9type_9' : 2.3255813953488373
+		'type_10type_9type_9type_9type_9' : 2.3255813953488373
+		'type_9type_9type_9type_10type_10' : 2.3255813953488373
+		'type_10type_5type_5type_5type_5' : 2.3255813953488373
+		'type_3type_3type_3type_9type_9' : 2.3255813953488373
+		'type_9type_9type_9type_9type_9'
+ : 2.3255813953488373
+type_6 type_6 type_6 type_6 type_8  :
+		'type_4type_4type_4type_4type_4' : 21.875
+		'type_9type_9type_9type_9type_9' : 28.125
+		'type_10type_10type_10type_10type_10' : 12.5
+		'type_4type_4type_4type_4type_3' : 6.25
+		'type_3type_3type_3type_7type_7' : 3.125
+		'type_3type_3type_3type_3type_3' : 12.5
+		'type_9type_9type_9type_9type_3' : 3.125
+		'type_3type_3type_3type_3type_10' : 3.125
+		'type_9type_4type_4type_4type_4' : 3.125
+		'type_10type_10type_10type_10type_3' : 3.125
+		'type_10type_10type_10type_10type_10'
+ : 3.125
+type_7 type_7 type_7 type_7 type_1  :
+		'type_7type_7type_7type_7type_7' : 4.081632653061225
+		'type_9type_9type_3type_3type_3' : 2.0408163265306123
+		'type_10type_10type_10type_10type_10' : 8.16326530612245
+		'type_10type_10type_10type_3type_3' : 2.0408163265306123
+		'type_9type_9type_9type_9type_9' : 34.69387755102041
+		'type_4type_4type_4type_4type_4' : 20.408163265306122
+		'type_9type_10type_10type_10type_10' : 2.0408163265306123
+		'type_3type_3type_3type_1type_1' : 2.0408163265306123
+		'type_4type_4type_4type_10type_10' : 2.0408163265306123
+		'type_3type_7type_7type_7type_7' : 2.0408163265306123
+		'type_9type_9type_4type_4type_4' : 2.0408163265306123
+		'type_3type_3type_3type_3type_3' : 8.16326530612245
+		'type_9type_7type_7type_7type_7' : 2.0408163265306123
+		'type_3type_4type_4type_4type_4' : 2.0408163265306123
+		'type_1type_1type_1type_1type_1' : 2.0408163265306123
+		'type_5type_5type_5type_5type_5' : 2.0408163265306123
+		'type_3type_3type_10type_4type_4'
+ : 2.0408163265306123
+type_7 type_7 type_7 type_1 type_1  :
+		'type_9type_9type_3type_3type_9' : 1.8518518518518516
+		'type_10type_10type_10type_10type_10' : 7.4074074074074066
+		'type_3type_3type_3type_3type_3' : 14.814814814814813
+		'type_9type_9type_9type_9type_9' : 29.629629629629626
+		'type_3type_3type_3type_7type_7' : 1.8518518518518516
+		'type_4type_4type_4type_4type_4' : 24.074074074074073
+		'type_3type_3type_1type_1type_1' : 1.8518518518518516
+		'type_4type_4type_10type_10type_10' : 1.8518518518518516
+		'type_4type_4type_4type_9type_9' : 1.8518518518518516
+		'type_5type_5type_5type_5type_5' : 1.8518518518518516
+		'type_7type_7type_7type_7type_7' : 1.8518518518518516
+		'type_9type_9type_9type_9type_3' : 3.7037037037037033
+		'type_1type_1type_1type_1type_1' : 1.8518518518518516
+		'type_3type_3type_3type_3type_10' : 1.8518518518518516
+		'type_10type_10type_10type_3type_3' : 1.8518518518518516
+		'type_4type_4type_4type_4type_4'
+ : 1.8518518518518516
+type_9 type_9 type_7 type_7 type_7  :
+		'type_4type_4type_4type_4type_4' : 20.0
+		'type_3type_3type_3type_3type_3' : 16.0
+		'type_9type_9type_9type_9type_9' : 24.0
+		'type_10type_10type_10type_10type_10' : 18.0
+		'type_9type_9type_9type_4type_4' : 2.0
+		'type_1type_1type_1type_1type_1' : 4.0
+		'type_3type_3type_3type_3type_7' : 2.0
+		'type_3type_3type_3type_10type_10' : 2.0
+		'type_10type_4type_4type_4type_4' : 2.0
+		'type_3type_5type_5type_5type_5' : 2.0
+		'type_9type_9type_9type_3type_3' : 2.0
+		'type_4type_4type_4type_10type_10' : 2.0
+		'type_3type_1type_1type_1type_1' : 2.0
+		'type_9type_9type_9type_9type_9'
+ : 2.0
+type_9 type_7 type_7 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 26.08695652173913
+		'type_4type_4type_4type_4type_4' : 13.043478260869565
+		'type_3type_3type_3type_3type_3' : 17.391304347826086
+		'type_10type_10type_10type_10type_10' : 17.391304347826086
+		'type_4type_4type_4type_4type_3' : 4.3478260869565215
+		'type_3type_3type_3type_7type_7' : 4.3478260869565215
+		'type_5type_5type_5type_5type_5' : 4.3478260869565215
+		'type_9type_9type_3type_3type_3' : 4.3478260869565215
+		'type_4type_4type_10type_10type_10' : 4.3478260869565215
+		'type_10type_10type_10type_10type_10'
+ : 4.3478260869565215
+type_1 type_1 type_3 type_3 type_3  :
+		'type_10type_10type_10type_10type_10' : 6.521739130434782
+		'type_4type_4type_4type_4type_4' : 10.869565217391305
+		'type_3type_3type_3type_3type_3' : 15.217391304347828
+		'type_9type_9type_9type_9type_9' : 30.434782608695656
+		'type_9type_3type_3type_3type_3' : 4.3478260869565215
+		'type_9type_9type_9type_9type_4' : 2.1739130434782608
+		'type_3type_3type_3type_3type_9' : 2.1739130434782608
+		'type_9type_9type_9type_3type_3' : 2.1739130434782608
+		'type_4type_4type_9type_9type_3' : 2.1739130434782608
+		'type_7type_7type_7type_7type_7' : 4.3478260869565215
+		'type_4type_4type_4type_3type_3' : 2.1739130434782608
+		'type_10type_10type_4type_4type_4' : 2.1739130434782608
+		'type_10type_10type_9type_9type_9' : 2.1739130434782608
+		'type_3type_9type_9type_5type_5' : 2.1739130434782608
+		'type_4type_4type_3type_3type_3' : 2.1739130434782608
+		'type_1type_1type_1type_1type_1' : 2.1739130434782608
+		'type_3type_3type_10type_10type_10' : 2.1739130434782608
+		'type_4type_3type_3type_3type_3' : 2.1739130434782608
+		'type_10type_10type_10type_10type_10'
+ : 2.1739130434782608
+type_1 type_3 type_3 type_3 type_3  :
+		'type_10type_10type_10type_10type_10' : 12.0
+		'type_4type_4type_4type_4type_4' : 8.0
+		'type_9type_9type_9type_9type_9' : 32.0
+		'type_3type_3type_3type_3type_3' : 24.0
+		'type_9type_9type_9type_3type_3' : 4.0
+		'type_3type_3type_3type_9type_9' : 4.0
+		'type_4type_4type_3type_3type_3' : 4.0
+		'type_4type_3type_3type_3type_3' : 4.0
+		'type_10type_10type_10type_10type_9' : 4.0
+		'type_3type_3type_3type_3type_3'
+ : 4.0
+type_6 type_6 type_6 type_7 type_7  :
+		'type_9type_9type_3type_3type_3' : 1.8867924528301887
+		'type_3type_3type_3type_3type_3' : 18.867924528301888
+		'type_9type_1type_1type_1type_1' : 1.8867924528301887
+		'type_10type_10type_10type_10type_10' : 16.9811320754717
+		'type_9type_9type_9type_4type_4' : 1.8867924528301887
+		'type_4type_4type_4type_4type_4' : 9.433962264150944
+		'type_10type_10type_10type_3type_3' : 1.8867924528301887
+		'type_3type_4type_4type_4type_4' : 1.8867924528301887
+		'type_9type_9type_9type_9type_9' : 24.528301886792452
+		'type_3type_3type_3type_9type_9' : 1.8867924528301887
+		'type_3type_10type_10type_10type_10' : 1.8867924528301887
+		'type_1type_1type_1type_1type_1' : 3.7735849056603774
+		'type_10type_10type_10type_10type_9' : 1.8867924528301887
+		'type_4type_4type_4type_4type_3' : 1.8867924528301887
+		'type_5type_5type_5type_5type_5' : 3.7735849056603774
+		'type_9type_9type_9type_9type_3' : 1.8867924528301887
+		'type_7type_7type_7type_7type_7' : 1.8867924528301887
+		'type_3type_3type_3type_3type_3'
+ : 1.8867924528301887
+type_1 type_1 type_1 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 15.217391304347828
+		'type_3type_3type_3type_3type_3' : 17.391304347826086
+		'type_10type_10type_10type_10type_10' : 8.695652173913043
+		'type_3type_4type_4type_4type_3' : 2.1739130434782608
+		'type_4type_4type_4type_10type_10' : 2.1739130434782608
+		'type_4type_4type_4type_4type_4' : 10.869565217391305
+		'type_1type_1type_1type_1type_1' : 4.3478260869565215
+		'type_3type_3type_9type_9type_9' : 2.1739130434782608
+		'type_10type_9type_4type_4type_4' : 2.1739130434782608
+		'type_7type_7type_7type_7type_7' : 2.1739130434782608
+		'type_7type_4type_4type_4type_4' : 2.1739130434782608
+		'type_10type_10type_10type_10type_3' : 2.1739130434782608
+		'type_5type_5type_5type_5type_5' : 8.695652173913043
+		'type_3type_3type_5type_5type_5' : 2.1739130434782608
+		'type_4type_4type_10type_10type_10' : 2.1739130434782608
+		'type_3type_9type_9type_9type_9' : 2.1739130434782608
+		'type_4type_4type_9type_9type_9' : 2.1739130434782608
+		'type_3type_3type_10type_10type_10' : 2.1739130434782608
+		'type_9type_9type_9type_9type_7' : 2.1739130434782608
+		'type_10type_10type_3type_3type_3' : 2.1739130434782608
+		'type_3type_3type_4type_4type_4' : 2.1739130434782608
+		'type_9type_9type_9type_9type_9'
+ : 2.1739130434782608
+type_6 type_6 type_3 type_7 type_6  :
+		'type_9type_9type_9type_9type_9' : 20.833333333333336
+		'type_10type_10type_10type_10type_10' : 33.33333333333333
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_4type_4type_4type_4type_4' : 12.5
+		'type_1type_1type_1type_1type_1' : 8.333333333333332
+		'type_4type_4type_4type_4type_3' : 4.166666666666666
+		'type_3type_3type_3type_3type_3'
+ : 4.166666666666666
+type_7 type_3 type_7 type_7 type_7  :
+		'type_3type_3type_3type_3type_3' : 17.142857142857142
+		'type_9type_9type_9type_9type_9' : 31.428571428571427
+		'type_10type_10type_10type_10type_10' : 11.428571428571429
+		'type_4type_4type_4type_4type_4' : 22.857142857142858
+		'type_3type_3type_3type_9type_9' : 2.857142857142857
+		'type_10type_10type_10type_4type_4' : 2.857142857142857
+		'type_4type_4type_9type_9type_9' : 2.857142857142857
+		'type_5type_5type_5type_5type_5' : 2.857142857142857
+		'type_9type_9type_9type_3type_9' : 2.857142857142857
+		'type_9type_9type_9type_9type_9'
+ : 2.857142857142857
+type_1 type_1 type_1 type_1 type_5  :
+		'type_3type_3type_3type_3type_3' : 33.33333333333333
+		'type_10type_10type_10type_10type_10' : 16.666666666666664
+		'type_4type_4type_1type_1type_1' : 3.3333333333333335
+		'type_9type_9type_9type_9type_5' : 3.3333333333333335
+		'type_7type_7type_7type_7type_3' : 3.3333333333333335
+		'type_9type_9type_9type_9type_9' : 6.666666666666667
+		'type_1type_1type_1type_1type_1' : 6.666666666666667
+		'type_4type_10type_10type_10type_10' : 3.3333333333333335
+		'type_10type_10type_3type_3type_3' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4' : 10.0
+		'type_5type_5type_5type_5type_5' : 3.3333333333333335
+		'type_7type_7type_7type_7type_7' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4'
+ : 3.3333333333333335
+type_7 type_7 type_7 type_9 type_9  :
+		'type_10type_10type_10type_10type_10' : 14.814814814814813
+		'type_3type_3type_3type_3type_3' : 14.814814814814813
+		'type_9type_9type_9type_9type_9' : 29.629629629629626
+		'type_9type_9type_9type_3type_3' : 3.7037037037037033
+		'type_10type_9type_9type_9type_9' : 3.7037037037037033
+		'type_7type_7type_7type_7type_7' : 3.7037037037037033
+		'type_4type_4type_7type_7type_7' : 3.7037037037037033
+		'type_10type_10type_10type_10type_3' : 3.7037037037037033
+		'type_9type_9type_9type_9type_3' : 3.7037037037037033
+		'type_5type_5type_5type_5type_5' : 3.7037037037037033
+		'type_4type_3type_3type_3type_3' : 3.7037037037037033
+		'type_9type_10type_10type_10type_10' : 3.7037037037037033
+		'type_4type_4type_4type_4type_4' : 3.7037037037037033
+		'type_3type_3type_3type_10type_10'
+ : 3.7037037037037033
+type_1 type_1 type_6 type_6 type_6  :
+		'type_4type_4type_4type_4type_4' : 15.555555555555555
+		'type_3type_3type_3type_3type_9' : 2.2222222222222223
+		'type_9type_9type_9type_9type_9' : 24.444444444444443
+		'type_10type_9type_9type_9type_9' : 2.2222222222222223
+		'type_9type_10type_10type_10type_10' : 2.2222222222222223
+		'type_3type_3type_3type_3type_3' : 15.555555555555555
+		'type_4type_4type_4type_9type_9' : 4.444444444444445
+		'type_9type_7type_7type_7type_7' : 2.2222222222222223
+		'type_3type_3type_9type_9type_9' : 2.2222222222222223
+		'type_10type_7type_7type_7type_10' : 2.2222222222222223
+		'type_10type_10type_10type_10type_10' : 2.2222222222222223
+		'type_9type_9type_3type_3type_3' : 2.2222222222222223
+		'type_1type_1type_1type_1type_1' : 4.444444444444445
+		'type_9type_9type_9type_9type_4' : 2.2222222222222223
+		'type_7type_5type_5type_5type_5' : 2.2222222222222223
+		'type_9type_9type_4type_4type_4' : 2.2222222222222223
+		'type_9type_9type_9type_4type_4' : 2.2222222222222223
+		'type_3type_3type_3type_9type_9' : 2.2222222222222223
+		'type_3type_10type_10type_10type_10' : 2.2222222222222223
+		'type_3type_3type_9type_9type_1' : 2.2222222222222223
+		'type_9type_9type_9type_4type_4'
+ : 2.2222222222222223
+type_3 type_9 type_3 type_7 type_7  :
+		'type_10type_10type_10type_10type_10' : 8.695652173913043
+		'type_9type_9type_9type_9type_9' : 43.47826086956522
+		'type_3type_3type_3type_3type_4' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3' : 26.08695652173913
+		'type_3type_3type_9type_9type_9' : 4.3478260869565215
+		'type_9type_3type_3type_3type_3' : 4.3478260869565215
+		'type_4type_4type_4type_4type_4' : 4.3478260869565215
+		'type_4type_4type_4type_4type_4'
+ : 4.3478260869565215
+type_6 type_9 type_9 type_9 type_9  :
+		'type_3type_3type_3type_3type_3' : 16.0
+		'type_10type_10type_10type_10type_10' : 16.0
+		'type_4type_4type_4type_4type_4' : 20.0
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_10type_3type_3type_3type_3' : 4.0
+		'type_4type_4type_4type_5type_5' : 4.0
+		'type_7type_7type_7type_7type_7' : 8.0
+		'type_1type_1type_1type_1type_1' : 4.0
+		'type_3type_3type_3type_3type_4' : 4.0
+		'type_9type_9type_9type_9type_9'
+ : 4.0
+type_3 type_7 type_7 type_7 type_7  :
+		'type_7type_7type_7type_7type_7' : 6.451612903225806
+		'type_3type_3type_3type_3type_3' : 22.58064516129032
+		'type_10type_10type_10type_10type_10' : 14.516129032258066
+		'type_9type_9type_9type_9type_9' : 27.419354838709676
+		'type_10type_10type_4type_4type_4' : 1.6129032258064515
+		'type_9type_9type_10type_10type_10' : 1.6129032258064515
+		'type_4type_4type_4type_4type_4' : 4.838709677419355
+		'type_1type_1type_1type_1type_1' : 1.6129032258064515
+		'type_4type_9type_9type_9type_9' : 1.6129032258064515
+		'type_5type_5type_5type_5type_5' : 1.6129032258064515
+		'type_4type_4type_9type_9type_9' : 3.225806451612903
+		'type_3type_3type_1type_1type_1' : 1.6129032258064515
+		'type_3type_3type_9type_9type_9' : 1.6129032258064515
+		'type_3type_3type_3type_3type_9' : 1.6129032258064515
+		'type_9type_9type_3type_9type_9' : 1.6129032258064515
+		'type_3type_3type_3type_3type_10' : 1.6129032258064515
+		'type_9type_3type_10type_10type_10' : 1.6129032258064515
+		'type_4type_4type_3type_3type_3' : 1.6129032258064515
+		'type_4type_4type_4type_4type_4'
+ : 1.6129032258064515
+type_7 type_7 type_1 type_1 type_1  :
+		'type_9type_9type_9type_3type_3' : 5.128205128205128
+		'type_10type_10type_10type_10type_10' : 10.256410256410255
+		'type_3type_3type_3type_3type_3' : 28.205128205128204
+		'type_9type_9type_9type_9type_9' : 12.82051282051282
+		'type_3type_1type_1type_1type_1' : 2.564102564102564
+		'type_7type_7type_7type_7type_7' : 5.128205128205128
+		'type_4type_4type_4type_4type_4' : 23.076923076923077
+		'type_3type_3type_9type_3type_3' : 2.564102564102564
+		'type_4type_4type_9type_9type_9' : 2.564102564102564
+		'type_1type_1type_1type_1type_1' : 2.564102564102564
+		'type_10type_10type_3type_3type_4' : 2.564102564102564
+		'type_4type_4type_4type_4type_4'
+ : 2.564102564102564
+type_3 type_3 type_3 type_3 type_9  :
+		'type_4type_4type_4type_4type_4' : 12.195121951219512
+		'type_9type_9type_9type_3type_3' : 2.4390243902439024
+		'type_10type_10type_10type_10type_10' : 12.195121951219512
+		'type_9type_9type_9type_9type_4' : 2.4390243902439024
+		'type_4type_3type_3type_7type_7' : 2.4390243902439024
+		'type_9type_9type_9type_9type_9' : 21.951219512195124
+		'type_9type_9type_9type_9type_3' : 2.4390243902439024
+		'type_7type_7type_7type_7type_7' : 2.4390243902439024
+		'type_3type_3type_3type_3type_3' : 17.073170731707318
+		'type_3type_10type_10type_10type_10' : 2.4390243902439024
+		'type_9type_9type_7type_7type_3' : 2.4390243902439024
+		'type_1type_1type_1type_1type_1' : 4.878048780487805
+		'type_3type_3type_3type_3type_9' : 2.4390243902439024
+		'type_4type_4type_4type_4type_5' : 2.4390243902439024
+		'type_10type_10type_3type_3type_3' : 2.4390243902439024
+		'type_7type_9type_9type_9type_9' : 2.4390243902439024
+		'type_3type_3type_1type_1type_1' : 2.4390243902439024
+		'type_9type_9type_9type_9type_9'
+ : 2.4390243902439024
+type_3 type_6 type_6 type_1 type_6  :
+		'type_4type_4type_4type_4type_4' : 13.636363636363635
+		'type_9type_9type_9type_9type_4' : 4.545454545454546
+		'type_10type_10type_10type_10type_10' : 18.181818181818183
+		'type_3type_3type_3type_3type_3' : 27.27272727272727
+		'type_9type_9type_9type_9type_9' : 4.545454545454546
+		'type_9type_5type_5type_5type_5' : 4.545454545454546
+		'type_10type_4type_4type_4type_4' : 4.545454545454546
+		'type_1type_1type_1type_1type_1' : 9.090909090909092
+		'type_4type_4type_10type_10type_10' : 4.545454545454546
+		'type_7type_7type_7type_7type_7' : 4.545454545454546
+		'type_4type_4type_4type_4type_4'
+ : 4.545454545454546
+type_7 type_6 type_6 type_6 type_7  :
+		'type_10type_10type_10type_10type_10' : 18.181818181818183
+		'type_5type_5type_5type_5type_5' : 9.090909090909092
+		'type_9type_9type_9type_9type_9' : 27.27272727272727
+		'type_4type_4type_4type_4type_4' : 9.090909090909092
+		'type_3type_3type_3type_3type_9' : 4.545454545454546
+		'type_3type_3type_3type_3type_3' : 9.090909090909092
+		'type_7type_7type_7type_7type_7' : 4.545454545454546
+		'type_9type_9type_9type_10type_10' : 4.545454545454546
+		'type_10type_10type_10type_1type_1' : 4.545454545454546
+		'type_4type_4type_4type_4type_1' : 4.545454545454546
+		'type_3type_3type_3type_3type_3'
+ : 4.545454545454546
+type_1 type_1 type_1 type_9 type_1  :
+		'type_10type_10type_10type_10type_10' : 14.285714285714285
+		'type_9type_9type_9type_9type_9' : 9.523809523809524
+		'type_1type_10type_10type_10type_10' : 4.761904761904762
+		'type_3type_3type_3type_3type_9' : 4.761904761904762
+		'type_9type_9type_9type_9type_10' : 4.761904761904762
+		'type_4type_4type_4type_4type_4' : 33.33333333333333
+		'type_5type_5type_5type_5type_5' : 4.761904761904762
+		'type_1type_1type_1type_1type_3' : 4.761904761904762
+		'type_3type_3type_3type_3type_3' : 4.761904761904762
+		'type_10type_10type_4type_4type_4' : 4.761904761904762
+		'type_7type_7type_7type_7type_7' : 4.761904761904762
+		'type_10type_10type_10type_10type_10'
+ : 4.761904761904762
+type_5 type_5 type_5 type_5 type_9  :
+		'type_3type_9type_9type_9type_9' : 5.263157894736842
+		'type_10type_10type_10type_10type_10' : 18.421052631578945
+		'type_4type_4type_4type_4type_4' : 18.421052631578945
+		'type_4type_4type_4type_9type_9' : 2.631578947368421
+		'type_1type_1type_1type_1type_1' : 5.263157894736842
+		'type_9type_9type_9type_9type_9' : 18.421052631578945
+		'type_3type_3type_3type_3type_4' : 2.631578947368421
+		'type_3type_3type_3type_3type_3' : 7.894736842105263
+		'type_4type_4type_4type_3type_3' : 2.631578947368421
+		'type_5type_5type_5type_5type_4' : 2.631578947368421
+		'type_9type_9type_10type_10type_10' : 2.631578947368421
+		'type_9type_1type_1type_1type_1' : 2.631578947368421
+		'type_4type_4type_3type_3type_9' : 2.631578947368421
+		'type_3type_3type_3type_5type_5' : 2.631578947368421
+		'type_7type_7type_7type_9type_3' : 2.631578947368421
+		'type_9type_9type_9type_9type_9'
+ : 2.631578947368421
+type_7 type_7 type_6 type_6 type_6  :
+		'type_3type_3type_3type_9type_9' : 3.389830508474576
+		'type_3type_3type_3type_3type_3' : 15.254237288135593
+		'type_9type_1type_3type_3type_3' : 1.694915254237288
+		'type_9type_9type_9type_9type_9' : 15.254237288135593
+		'type_10type_10type_10type_10type_10' : 18.64406779661017
+		'type_9type_4type_4type_4type_9' : 1.694915254237288
+		'type_4type_4type_4type_4type_4' : 11.864406779661017
+		'type_4type_4type_4type_5type_5' : 1.694915254237288
+		'type_9type_9type_9type_9type_5' : 1.694915254237288
+		'type_9type_3type_3type_3type_3' : 1.694915254237288
+		'type_10type_9type_9type_9type_9' : 3.389830508474576
+		'type_7type_7type_7type_7type_7' : 1.694915254237288
+		'type_1type_1type_1type_1type_1' : 5.084745762711865
+		'type_10type_4type_4type_4type_4' : 3.389830508474576
+		'type_3type_3type_1type_1type_1' : 1.694915254237288
+		'type_7type_7type_9type_9type_9' : 1.694915254237288
+		'type_10type_10type_10type_10type_1' : 1.694915254237288
+		'type_10type_10type_10type_10type_9' : 1.694915254237288
+		'type_3type_3type_9type_9type_5' : 1.694915254237288
+		'type_9type_10type_10type_10type_10' : 1.694915254237288
+		'type_1type_7type_7type_7type_7' : 1.694915254237288
+		'type_10type_10type_10type_10type_10'
+ : 1.694915254237288
+type_6 type_6 type_6 type_1 type_1  :
+		'type_3type_4type_4type_4type_4' : 1.7241379310344827
+		'type_5type_5type_5type_5type_4' : 1.7241379310344827
+		'type_3type_3type_3type_3type_4' : 3.4482758620689653
+		'type_4type_4type_4type_4type_4' : 13.793103448275861
+		'type_3type_3type_3type_3type_3' : 6.896551724137931
+		'type_9type_9type_9type_9type_9' : 24.137931034482758
+		'type_10type_10type_10type_10type_10' : 15.517241379310345
+		'type_4type_4type_4type_3type_3' : 1.7241379310344827
+		'type_1type_1type_1type_1type_1' : 5.172413793103448
+		'type_5type_5type_5type_5type_5' : 3.4482758620689653
+		'type_3type_3type_4type_4type_4' : 3.4482758620689653
+		'type_10type_10type_3type_3type_3' : 1.7241379310344827
+		'type_4type_4type_4type_4type_9' : 1.7241379310344827
+		'type_10type_10type_9type_9type_9' : 1.7241379310344827
+		'type_4type_3type_3type_3type_3' : 3.4482758620689653
+		'type_9type_9type_3type_3type_3' : 1.7241379310344827
+		'type_7type_7type_7type_7type_7' : 1.7241379310344827
+		'type_9type_4type_4type_4type_4' : 1.7241379310344827
+		'type_3type_3type_9type_9type_9' : 1.7241379310344827
+		'type_1type_1type_3type_3type_3' : 1.7241379310344827
+		'type_3type_3type_3type_3type_3'
+ : 1.7241379310344827
+type_6 type_6 type_9 type_9 type_9  :
+		'type_3type_3type_3type_3type_3' : 30.303030303030305
+		'type_9type_9type_9type_9type_9' : 21.21212121212121
+		'type_4type_4type_4type_4type_4' : 12.121212121212121
+		'type_9type_9type_10type_10type_10' : 3.0303030303030303
+		'type_10type_10type_3type_3type_3' : 3.0303030303030303
+		'type_9type_9type_4type_4type_4' : 3.0303030303030303
+		'type_7type_7type_7type_7type_7' : 6.0606060606060606
+		'type_4type_4type_4type_4type_5' : 3.0303030303030303
+		'type_3type_1type_1type_1type_1' : 3.0303030303030303
+		'type_10type_10type_10type_10type_10' : 3.0303030303030303
+		'type_9type_10type_10type_10type_10' : 3.0303030303030303
+		'type_3type_3type_3type_10type_10' : 3.0303030303030303
+		'type_1type_1type_1type_1type_1' : 3.0303030303030303
+		'type_9type_9type_9type_9type_9'
+ : 3.0303030303030303
+type_9 type_1 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 23.52941176470588
+		'type_10type_10type_10type_10type_10' : 8.823529411764707
+		'type_3type_3type_3type_3type_3' : 17.647058823529413
+		'type_4type_4type_4type_4type_4' : 17.647058823529413
+		'type_9type_9type_10type_10type_10' : 2.941176470588235
+		'type_9type_9type_3type_3type_3' : 2.941176470588235
+		'type_3type_3type_3type_10type_10' : 2.941176470588235
+		'type_4type_4type_3type_3type_4' : 2.941176470588235
+		'type_4type_4type_4type_3type_3' : 2.941176470588235
+		'type_1type_4type_4type_4type_4' : 2.941176470588235
+		'type_9type_9type_9type_4type_4' : 2.941176470588235
+		'type_3type_3type_3type_4type_4' : 2.941176470588235
+		'type_7type_7type_7type_7type_7' : 2.941176470588235
+		'type_5type_5type_5type_5type_5' : 2.941176470588235
+		'type_3type_3type_3type_3type_3'
+ : 2.941176470588235
+type_6 type_6 type_3 type_3 type_3  :
+		'type_4type_4type_4type_4type_9' : 2.127659574468085
+		'type_9type_9type_9type_9type_9' : 27.659574468085108
+		'type_4type_4type_4type_4type_4' : 19.148936170212767
+		'type_10type_10type_10type_10type_10' : 2.127659574468085
+		'type_3type_3type_3type_3type_3' : 17.02127659574468
+		'type_10type_10type_3type_3type_3' : 2.127659574468085
+		'type_9type_9type_4type_4type_4' : 2.127659574468085
+		'type_9type_9type_9type_9type_3' : 4.25531914893617
+		'type_1type_1type_1type_1type_1' : 10.638297872340425
+		'type_3type_3type_9type_9type_9' : 2.127659574468085
+		'type_5type_5type_5type_5type_5' : 2.127659574468085
+		'type_10type_10type_10type_10type_4' : 2.127659574468085
+		'type_7type_7type_7type_7type_7' : 2.127659574468085
+		'type_4type_4type_4type_4type_7' : 2.127659574468085
+		'type_5type_5type_5type_5type_5'
+ : 2.127659574468085
+type_3 type_3 type_3 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 34.61538461538461
+		'type_3type_3type_3type_3type_3' : 11.538461538461538
+		'type_7type_7type_7type_7type_3' : 3.8461538461538463
+		'type_10type_10type_10type_10type_10' : 7.6923076923076925
+		'type_9type_3type_3type_3type_3' : 3.8461538461538463
+		'type_5type_5type_3type_3type_3' : 3.8461538461538463
+		'type_7type_10type_10type_3type_3' : 3.8461538461538463
+		'type_3type_3type_9type_9type_9' : 3.8461538461538463
+		'type_5type_5type_7type_7type_9' : 3.8461538461538463
+		'type_1type_1type_1type_1type_1' : 3.8461538461538463
+		'type_5type_5type_5type_5type_5' : 3.8461538461538463
+		'type_10type_3type_3type_3type_3' : 3.8461538461538463
+		'type_4type_4type_4type_4type_4' : 7.6923076923076925
+		'type_10type_10type_10type_10type_10'
+ : 3.8461538461538463
+type_9 type_3 type_3 type_3 type_3  :
+		'type_9type_9type_9type_9type_9' : 26.785714285714285
+		'type_3type_3type_3type_9type_9' : 1.7857142857142856
+		'type_4type_4type_4type_4type_4' : 16.071428571428573
+		'type_9type_3type_3type_3type_9' : 1.7857142857142856
+		'type_3type_3type_3type_3type_3' : 17.857142857142858
+		'type_4type_4type_3type_3type_7' : 1.7857142857142856
+		'type_10type_10type_10type_10type_10' : 8.928571428571429
+		'type_3type_3type_3type_10type_10' : 1.7857142857142856
+		'type_9type_9type_9type_9type_10' : 1.7857142857142856
+		'type_7type_7type_7type_7type_10' : 1.7857142857142856
+		'type_10type_4type_4type_4type_4' : 1.7857142857142856
+		'type_7type_7type_7type_7type_7' : 3.571428571428571
+		'type_3type_3type_3type_4type_4' : 1.7857142857142856
+		'type_10type_10type_10type_10type_3' : 1.7857142857142856
+		'type_1type_4type_4type_4type_4' : 1.7857142857142856
+		'type_3type_3type_3type_3type_4' : 1.7857142857142856
+		'type_1type_3type_3type_9type_9' : 1.7857142857142856
+		'type_1type_1type_1type_1type_1' : 1.7857142857142856
+		'type_3type_9type_9type_9type_9' : 1.7857142857142856
+		'type_10type_10type_10type_10type_10'
+ : 1.7857142857142856
+type_7 type_7 type_5 type_5 type_5  :
+		'type_9type_9type_9type_10type_10' : 3.8461538461538463
+		'type_3type_3type_3type_3type_3' : 19.230769230769234
+		'type_4type_4type_4type_4type_4' : 7.6923076923076925
+		'type_3type_3type_3type_9type_9' : 3.8461538461538463
+		'type_4type_3type_3type_3type_3' : 3.8461538461538463
+		'type_10type_10type_10type_10type_9' : 3.8461538461538463
+		'type_1type_1type_1type_1type_1' : 3.8461538461538463
+		'type_4type_4type_4type_9type_3' : 3.8461538461538463
+		'type_9type_9type_9type_9type_10' : 3.8461538461538463
+		'type_5type_5type_5type_5type_5' : 3.8461538461538463
+		'type_5type_5type_5type_3type_3' : 3.8461538461538463
+		'type_7type_7type_7type_7type_7' : 7.6923076923076925
+		'type_9type_9type_9type_9type_9' : 15.384615384615385
+		'type_3type_3type_9type_9type_9' : 3.8461538461538463
+		'type_10type_10type_10type_10type_10' : 3.8461538461538463
+		'type_10type_4type_4type_4type_4' : 3.8461538461538463
+		'type_4type_4type_4type_4type_4'
+ : 3.8461538461538463
+type_9 type_3 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_1' : 2.941176470588235
+		'type_9type_9type_9type_9type_9' : 23.52941176470588
+		'type_3type_3type_3type_3type_3' : 17.647058823529413
+		'type_3type_3type_3type_9type_9' : 2.941176470588235
+		'type_3type_3type_3type_10type_10' : 2.941176470588235
+		'type_1type_1type_1type_1type_1' : 2.941176470588235
+		'type_10type_10type_10type_10type_10' : 26.47058823529412
+		'type_4type_4type_4type_4type_4' : 11.76470588235294
+		'type_4type_4type_9type_9type_9' : 2.941176470588235
+		'type_5type_5type_5type_5type_5' : 2.941176470588235
+		'type_9type_9type_9type_9type_9'
+ : 2.941176470588235
+type_5 type_5 type_1 type_1 type_1  :
+		'type_3type_3type_3type_3type_3' : 24.390243902439025
+		'type_9type_9type_9type_9type_9' : 21.951219512195124
+		'type_4type_4type_4type_4type_4' : 17.073170731707318
+		'type_10type_10type_10type_10type_10' : 14.634146341463413
+		'type_9type_3type_3type_3type_3' : 2.4390243902439024
+		'type_4type_4type_9type_9type_9' : 2.4390243902439024
+		'type_7type_7type_7type_7type_7' : 2.4390243902439024
+		'type_5type_5type_5type_5type_5' : 4.878048780487805
+		'type_1type_1type_1type_1type_1' : 2.4390243902439024
+		'type_3type_4type_4type_4type_4' : 2.4390243902439024
+		'type_9type_9type_5type_5type_5' : 2.4390243902439024
+		'type_4type_4type_4type_4type_4'
+ : 2.4390243902439024
+type_7 type_7 type_3 type_3 type_3  :
+		'type_1type_1type_1type_1type_1' : 5.555555555555555
+		'type_9type_3type_3type_3type_3' : 1.8518518518518516
+		'type_10type_10type_10type_10type_10' : 12.962962962962962
+		'type_3type_3type_3type_3type_10' : 1.8518518518518516
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_4type_7type_7type_7type_7' : 1.8518518518518516
+		'type_4type_4type_4type_4type_4' : 12.962962962962962
+		'type_6type_6type_6type_6type_6' : 1.8518518518518516
+		'type_9type_9type_9type_9type_3' : 1.8518518518518516
+		'type_7type_7type_7type_7type_7' : 5.555555555555555
+		'type_3type_3type_3type_3type_3' : 14.814814814814813
+		'type_3type_3type_3type_10type_10' : 1.8518518518518516
+		'type_3type_3type_9type_3type_3' : 1.8518518518518516
+		'type_1type_1type_1type_9type_9' : 1.8518518518518516
+		'type_5type_5type_5type_5type_5' : 3.7037037037037033
+		'type_10type_3type_3type_3type_3' : 1.8518518518518516
+		'type_3type_3type_4type_4type_4' : 1.8518518518518516
+		'type_4type_4type_4type_4type_9' : 1.8518518518518516
+		'type_9type_9type_10type_10type_10' : 1.8518518518518516
+		'type_7type_7type_7type_7type_3' : 1.8518518518518516
+		'type_9type_10type_10type_10type_9' : 1.8518518518518516
+		'type_3type_3type_7type_7type_7'
+ : 1.8518518518518516
+type_7 type_1 type_1 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 25.925925925925924
+		'type_9type_9type_3type_3type_4' : 1.8518518518518516
+		'type_3type_3type_3type_3type_3' : 24.074074074074073
+		'type_3type_3type_9type_9type_9' : 1.8518518518518516
+		'type_4type_4type_4type_4type_4' : 18.51851851851852
+		'type_10type_10type_10type_10type_10' : 7.4074074074074066
+		'type_1type_1type_1type_1type_1' : 3.7037037037037033
+		'type_4type_4type_4type_9type_9' : 1.8518518518518516
+		'type_3type_9type_3type_3type_4' : 1.8518518518518516
+		'type_9type_9type_9type_9type_3' : 1.8518518518518516
+		'type_3type_3type_3type_3type_7' : 1.8518518518518516
+		'type_4type_10type_10type_10type_10' : 1.8518518518518516
+		'type_9type_9type_3type_3type_3' : 1.8518518518518516
+		'type_9type_9type_9type_10type_10' : 1.8518518518518516
+		'type_5type_5type_5type_5type_5' : 1.8518518518518516
+		'type_4type_4type_4type_4type_4'
+ : 1.8518518518518516
+type_5 type_5 type_3 type_7 type_7  :
+		'type_1type_1type_7type_7type_7' : 3.225806451612903
+		'type_10type_10type_10type_10type_10' : 12.903225806451612
+		'type_9type_9type_9type_4type_4' : 3.225806451612903
+		'type_9type_9type_9type_10type_10' : 3.225806451612903
+		'type_4type_4type_4type_4type_4' : 22.58064516129032
+		'type_9type_9type_9type_9type_9' : 22.58064516129032
+		'type_10type_3type_3type_3type_3' : 3.225806451612903
+		'type_1type_1type_1type_1type_1' : 3.225806451612903
+		'type_10type_10type_10type_10type_3' : 6.451612903225806
+		'type_3type_3type_3type_3type_3' : 9.67741935483871
+		'type_7type_7type_7type_7type_7' : 3.225806451612903
+		'type_3type_3type_3type_3type_9' : 3.225806451612903
+		'type_10type_10type_10type_10type_10'
+ : 3.225806451612903
+type_1 type_1 type_1 type_9 type_9  :
+		'type_9type_9type_9type_10type_10' : 2.857142857142857
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_3type_3type_3type_3type_3' : 25.71428571428571
+		'type_9type_10type_10type_10type_10' : 2.857142857142857
+		'type_4type_4type_4type_4type_4' : 11.428571428571429
+		'type_5type_5type_5type_5type_5' : 5.714285714285714
+		'type_4type_5type_5type_5type_5' : 2.857142857142857
+		'type_10type_4type_4type_4type_4' : 2.857142857142857
+		'type_10type_10type_10type_10type_10' : 11.428571428571429
+		'type_1type_1type_10type_10type_10' : 2.857142857142857
+		'type_9type_9type_10type_10type_10' : 2.857142857142857
+		'type_3type_3type_3type_9type_9' : 2.857142857142857
+		'type_4type_4type_4type_4type_9' : 2.857142857142857
+		'type_9type_9type_9type_9type_9'
+ : 2.857142857142857
+type_1 type_1 type_9 type_9 type_9  :
+		'type_3type_3type_3type_3type_3' : 25.0
+		'type_9type_9type_9type_9type_9' : 13.88888888888889
+		'type_10type_10type_10type_10type_10' : 13.88888888888889
+		'type_4type_4type_4type_4type_10' : 2.7777777777777777
+		'type_4type_4type_4type_4type_4' : 16.666666666666664
+		'type_3type_10type_10type_10type_10' : 2.7777777777777777
+		'type_5type_5type_5type_5type_5' : 8.333333333333332
+		'type_1type_10type_10type_10type_10' : 2.7777777777777777
+		'type_9type_9type_3type_3type_3' : 2.7777777777777777
+		'type_9type_9type_9type_9type_10' : 2.7777777777777777
+		'type_10type_10type_9type_9type_9' : 2.7777777777777777
+		'type_4type_4type_4type_9type_9' : 2.7777777777777777
+		'type_3type_3type_3type_3type_3'
+ : 2.7777777777777777
+type_1 type_9 type_9 type_9 type_9  :
+		'type_10type_10type_10type_10type_10' : 20.454545454545457
+		'type_3type_3type_3type_3type_3' : 27.27272727272727
+		'type_9type_9type_9type_9type_9' : 15.909090909090908
+		'type_4type_4type_4type_10type_10' : 2.272727272727273
+		'type_3type_3type_3type_4type_4' : 2.272727272727273
+		'type_4type_4type_4type_4type_4' : 15.909090909090908
+		'type_9type_3type_3type_3type_3' : 2.272727272727273
+		'type_9type_9type_9type_10type_10' : 2.272727272727273
+		'type_10type_9type_9type_9type_9' : 2.272727272727273
+		'type_5type_5type_5type_5type_5' : 4.545454545454546
+		'type_4type_4type_9type_9type_9' : 2.272727272727273
+		'type_4type_4type_4type_4type_4'
+ : 2.272727272727273
+type_3 type_3 type_3 type_9 type_1  :
+		'type_10type_10type_10type_10type_10' : 25.0
+		'type_3type_3type_3type_3type_3' : 12.5
+		'type_9type_9type_9type_9type_9' : 25.0
+		'type_6type_6type_6type_6type_3' : 4.166666666666666
+		'type_1type_1type_1type_1type_1' : 4.166666666666666
+		'type_4type_4type_4type_4type_4' : 12.5
+		'type_9type_7type_7type_3type_3' : 4.166666666666666
+		'type_4type_4type_4type_4type_3' : 4.166666666666666
+		'type_4type_4type_4type_5type_5' : 4.166666666666666
+		'type_9type_9type_9type_9type_9'
+ : 4.166666666666666
+type_6 type_6 type_1 type_5 type_5  :
+		'type_3type_3type_3type_3type_3' : 46.666666666666664
+		'type_4type_4type_10type_3type_3' : 3.3333333333333335
+		'type_1type_1type_1type_1type_1' : 3.3333333333333335
+		'type_7type_7type_7type_7type_3' : 3.3333333333333335
+		'type_5type_5type_5type_5type_5' : 10.0
+		'type_4type_4type_4type_4type_9' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4' : 6.666666666666667
+		'type_5type_3type_3type_3type_3' : 3.3333333333333335
+		'type_3type_1type_1type_1type_1' : 3.3333333333333335
+		'type_10type_10type_10type_10type_10' : 3.3333333333333335
+		'type_9type_9type_9type_9type_9' : 10.0
+		'type_9type_9type_9type_9type_9'
+ : 3.3333333333333335
+type_3 type_3 type_7 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 26.923076923076923
+		'type_10type_10type_10type_10type_10' : 11.538461538461538
+		'type_3type_3type_3type_3type_3' : 15.384615384615385
+		'type_1type_1type_1type_1type_1' : 3.8461538461538463
+		'type_3type_9type_9type_9type_9' : 3.8461538461538463
+		'type_4type_4type_4type_9type_9' : 7.6923076923076925
+		'type_3type_3type_3type_9type_9' : 3.8461538461538463
+		'type_7type_7type_7type_7type_7' : 7.6923076923076925
+		'type_10type_10type_10type_10type_9' : 3.8461538461538463
+		'type_4type_3type_3type_3type_3' : 3.8461538461538463
+		'type_4type_9type_3type_10type_10' : 3.8461538461538463
+		'type_3type_3type_10type_4type_4' : 3.8461538461538463
+		'type_4type_10type_10type_10type_10'
+ : 3.8461538461538463
+type_6 type_5 type_5 type_5 type_5  :
+		'type_10type_10type_10type_10type_10' : 20.0
+		'type_10type_9type_9type_9type_9' : 2.2222222222222223
+		'type_9type_9type_9type_9type_9' : 17.77777777777778
+		'type_4type_4type_4type_4type_4' : 11.11111111111111
+		'type_10type_10type_3type_3type_3' : 2.2222222222222223
+		'type_9type_5type_5type_5type_5' : 2.2222222222222223
+		'type_10type_3type_3type_3type_3' : 2.2222222222222223
+		'type_3type_3type_3type_3type_3' : 11.11111111111111
+		'type_3type_3type_9type_9type_9' : 2.2222222222222223
+		'type_9type_9type_10type_10type_10' : 2.2222222222222223
+		'type_7type_7type_7type_7type_7' : 4.444444444444445
+		'type_9type_3type_3type_3type_3' : 2.2222222222222223
+		'type_5type_5type_5type_5type_5' : 4.444444444444445
+		'type_3type_3type_3type_4type_4' : 2.2222222222222223
+		'type_7type_3type_3type_3type_3' : 2.2222222222222223
+		'type_4type_4type_4type_7type_4' : 2.2222222222222223
+		'type_4type_10type_10type_10type_10' : 2.2222222222222223
+		'type_4type_4type_4type_4type_3' : 2.2222222222222223
+		'type_4type_4type_4type_1type_1' : 2.2222222222222223
+		'type_9type_9type_9type_9type_9'
+ : 2.2222222222222223
+type_9 type_9 type_9 type_5 type_5  :
+		'type_9type_9type_9type_9type_9' : 24.137931034482758
+		'type_3type_3type_3type_3type_3' : 17.24137931034483
+		'type_4type_4type_4type_4type_4' : 13.793103448275861
+		'type_3type_3type_3type_3type_9' : 3.4482758620689653
+		'type_10type_10type_10type_10type_10' : 24.137931034482758
+		'type_7type_7type_7type_7type_7' : 6.896551724137931
+		'type_5type_5type_5type_5type_5' : 3.4482758620689653
+		'type_4type_7type_7type_7type_7' : 3.4482758620689653
+		'type_9type_9type_9type_9type_9'
+ : 3.4482758620689653
+type_6 type_6 type_6 type_1 type_7  :
+		'type_4type_4type_4type_4type_4' : 20.588235294117645
+		'type_10type_4type_4type_4type_4' : 2.941176470588235
+		'type_9type_9type_9type_9type_9' : 29.411764705882355
+		'type_10type_10type_10type_10type_10' : 14.705882352941178
+		'type_7type_7type_7type_7type_7' : 2.941176470588235
+		'type_7type_7type_9type_9type_9' : 2.941176470588235
+		'type_4type_9type_3type_3type_3' : 2.941176470588235
+		'type_3type_3type_3type_3type_3' : 5.88235294117647
+		'type_10type_10type_10type_10type_4' : 2.941176470588235
+		'type_5type_5type_5type_5type_5' : 8.823529411764707
+		'type_10type_10type_10type_4type_4' : 2.941176470588235
+		'type_10type_10type_10type_10type_10'
+ : 2.941176470588235
+type_1 type_1 type_1 type_1 type_7  :
+		'type_9type_9type_9type_9type_9' : 20.408163265306122
+		'type_3type_3type_3type_3type_3' : 28.57142857142857
+		'type_10type_10type_10type_10type_10' : 8.16326530612245
+		'type_3type_9type_9type_9type_9' : 2.0408163265306123
+		'type_4type_4type_4type_4type_4' : 14.285714285714285
+		'type_4type_4type_4type_4type_10' : 2.0408163265306123
+		'type_3type_3type_3type_9type_9' : 2.0408163265306123
+		'type_10type_10type_9type_4type_4' : 2.0408163265306123
+		'type_1type_7type_7type_7type_7' : 2.0408163265306123
+		'type_9type_4type_4type_4type_4' : 4.081632653061225
+		'type_5type_5type_5type_5type_5' : 6.122448979591836
+		'type_3type_3type_9type_9type_9' : 2.0408163265306123
+		'type_1type_1type_1type_1type_1' : 2.0408163265306123
+		'type_3type_4type_4type_9type_9' : 2.0408163265306123
+		'type_10type_10type_10type_10type_10'
+ : 2.0408163265306123
+type_5 type_5 type_5 type_5 type_7  :
+		'type_10type_10type_10type_9type_9' : 2.941176470588235
+		'type_9type_9type_9type_9type_9' : 41.17647058823529
+		'type_10type_10type_10type_10type_10' : 11.76470588235294
+		'type_3type_3type_3type_3type_3' : 11.76470588235294
+		'type_9type_9type_9type_9type_1' : 5.88235294117647
+		'type_4type_4type_4type_9type_9' : 2.941176470588235
+		'type_3type_3type_10type_10type_10' : 2.941176470588235
+		'type_3type_3type_4type_4type_4' : 2.941176470588235
+		'type_4type_4type_7type_4type_4' : 2.941176470588235
+		'type_4type_4type_4type_4type_4' : 8.823529411764707
+		'type_4type_4type_4type_3type_3' : 2.941176470588235
+		'type_4type_4type_4type_4type_4'
+ : 2.941176470588235
+type_8 type_1 type_6 type_6 type_6  :
+		'type_9type_9type_9type_3type_3' : 4.761904761904762
+		'type_4type_4type_4type_4type_4' : 19.047619047619047
+		'type_3type_3type_3type_3type_3' : 14.285714285714285
+		'type_9type_9type_9type_9type_9' : 14.285714285714285
+		'type_1type_1type_1type_1type_1' : 9.523809523809524
+		'type_4type_9type_9type_9type_9' : 4.761904761904762
+		'type_7type_7type_7type_7type_7' : 4.761904761904762
+		'type_5type_5type_5type_5type_5' : 4.761904761904762
+		'type_10type_10type_10type_10type_10' : 9.523809523809524
+		'type_4type_4type_4type_4type_3' : 4.761904761904762
+		'type_3type_4type_4type_4type_4' : 4.761904761904762
+		'type_9type_9type_9type_9type_9'
+ : 4.761904761904762
+type_3 type_3 type_3 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 26.666666666666668
+		'type_3type_3type_3type_3type_3' : 20.0
+		'type_4type_4type_4type_4type_4' : 16.666666666666664
+		'type_9type_3type_3type_3type_3' : 3.3333333333333335
+		'type_9type_4type_4type_4type_4' : 3.3333333333333335
+		'type_9type_9type_3type_3type_3' : 3.3333333333333335
+		'type_7type_7type_7type_7type_7' : 3.3333333333333335
+		'type_3type_3type_4type_4type_4' : 3.3333333333333335
+		'type_10type_10type_4type_4type_4' : 3.3333333333333335
+		'type_7type_7type_7type_5type_5' : 3.3333333333333335
+		'type_10type_10type_10type_1type_10' : 3.3333333333333335
+		'type_5type_5type_5type_5type_5' : 3.3333333333333335
+		'type_10type_10type_10type_10type_10' : 3.3333333333333335
+		'type_4type_4type_4type_4type_4'
+ : 3.3333333333333335
+type_6 type_6 type_1 type_1 type_1  :
+		'type_5type_5type_5type_4type_4' : 1.6129032258064515
+		'type_4type_4type_4type_4type_4' : 22.58064516129032
+		'type_10type_10type_10type_10type_10' : 17.741935483870968
+		'type_3type_3type_3type_4type_4' : 3.225806451612903
+		'type_9type_9type_9type_9type_9' : 22.58064516129032
+		'type_3type_3type_3type_3type_9' : 1.6129032258064515
+		'type_3type_3type_3type_3type_3' : 9.67741935483871
+		'type_4type_4type_4type_4type_1' : 1.6129032258064515
+		'type_1type_1type_1type_1type_1' : 3.225806451612903
+		'type_5type_5type_5type_5type_5' : 4.838709677419355
+		'type_3type_4type_4type_4type_4' : 3.225806451612903
+		'type_10type_9type_9type_9type_9' : 3.225806451612903
+		'type_9type_3type_3type_3type_3' : 1.6129032258064515
+		'type_7type_7type_7type_7type_7' : 1.6129032258064515
+		'type_9type_9type_9type_9type_9'
+ : 1.6129032258064515
+type_6 type_6 type_6 type_2 type_6  :
+		'type_9type_9type_9type_4type_4' : 3.4482758620689653
+		'type_4type_4type_4type_4type_9' : 3.4482758620689653
+		'type_4type_4type_4type_4type_4' : 13.793103448275861
+		'type_9type_9type_9type_9type_9' : 17.24137931034483
+		'type_3type_3type_3type_3type_3' : 17.24137931034483
+		'type_10type_4type_4type_4type_4' : 3.4482758620689653
+		'type_3type_10type_10type_10type_10' : 3.4482758620689653
+		'type_1type_1type_1type_1type_1' : 3.4482758620689653
+		'type_7type_7type_7type_7type_7' : 3.4482758620689653
+		'type_10type_10type_10type_9type_9' : 3.4482758620689653
+		'type_3type_3type_3type_10type_10' : 3.4482758620689653
+		'type_1type_3type_3type_3type_9' : 3.4482758620689653
+		'type_3type_3type_3type_9type_9' : 3.4482758620689653
+		'type_5type_5type_5type_9type_9' : 3.4482758620689653
+		'type_4type_4type_4type_1type_1' : 3.4482758620689653
+		'type_3type_3type_4type_4type_4' : 3.4482758620689653
+		'type_10type_10type_10type_10type_10' : 3.4482758620689653
+		'type_9type_3type_3type_3type_3'
+ : 3.4482758620689653
+type_3 type_3 type_6 type_6 type_6  :
+		'type_4type_4type_4type_4type_4' : 21.428571428571427
+		'type_10type_10type_10type_10type_10' : 14.285714285714285
+		'type_9type_9type_9type_9type_9' : 21.428571428571427
+		'type_10type_10type_10type_4type_4' : 3.571428571428571
+		'type_3type_3type_3type_3type_3' : 17.857142857142858
+		'type_7type_7type_7type_7type_9' : 3.571428571428571
+		'type_7type_7type_7type_7type_7' : 3.571428571428571
+		'type_3type_4type_4type_4type_4' : 3.571428571428571
+		'type_10type_4type_4type_4type_4' : 3.571428571428571
+		'type_7type_7type_5type_5type_5' : 3.571428571428571
+		'type_4type_4type_4type_4type_4'
+ : 3.571428571428571
+type_7 type_7 type_9 type_9 type_9  :
+		'type_9type_9type_9type_9type_9' : 26.31578947368421
+		'type_3type_3type_3type_3type_3' : 15.789473684210526
+		'type_9type_9type_3type_3type_3' : 2.631578947368421
+		'type_10type_9type_9type_9type_9' : 2.631578947368421
+		'type_3type_3type_3type_4type_4' : 2.631578947368421
+		'type_4type_4type_4type_4type_4' : 10.526315789473683
+		'type_10type_10type_10type_10type_10' : 15.789473684210526
+		'type_4type_3type_3type_3type_3' : 2.631578947368421
+		'type_7type_7type_7type_7type_7' : 2.631578947368421
+		'type_4type_7type_7type_7type_7' : 2.631578947368421
+		'type_10type_10type_10type_3type_3' : 2.631578947368421
+		'type_9type_9type_9type_3type_3' : 2.631578947368421
+		'type_5type_5type_5type_5type_5' : 2.631578947368421
+		'type_3type_3type_10type_10type_10' : 5.263157894736842
+		'type_10type_10type_10type_10type_10'
+ : 2.631578947368421
+type_7 type_1 type_6 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 27.27272727272727
+		'type_4type_4type_4type_4type_4' : 12.121212121212121
+		'type_5type_5type_5type_5type_5' : 9.090909090909092
+		'type_10type_10type_10type_10type_10' : 12.121212121212121
+		'type_3type_3type_3type_3type_3' : 24.242424242424242
+		'type_4type_4type_4type_4type_3' : 3.0303030303030303
+		'type_3type_3type_3type_7type_7' : 3.0303030303030303
+		'type_4type_4type_10type_4type_4' : 3.0303030303030303
+		'type_4type_4type_4type_3type_3' : 3.0303030303030303
+		'type_3type_3type_3type_3type_3'
+ : 3.0303030303030303
+type_5 type_5 type_5 type_3 type_7  :
+		'type_9type_9type_9type_9type_4' : 7.4074074074074066
+		'type_10type_10type_10type_10type_10' : 22.22222222222222
+		'type_9type_9type_9type_9type_10' : 3.7037037037037033
+		'type_9type_9type_9type_9type_9' : 11.11111111111111
+		'type_4type_4type_4type_4type_4' : 14.814814814814813
+		'type_1type_1type_1type_1type_1' : 3.7037037037037033
+		'type_3type_3type_3type_3type_3' : 11.11111111111111
+		'type_3type_9type_9type_9type_9' : 7.4074074074074066
+		'type_3type_3type_10type_10type_10' : 3.7037037037037033
+		'type_7type_7type_7type_7type_7' : 7.4074074074074066
+		'type_3type_3type_3type_9type_3' : 3.7037037037037033
+		'type_9type_9type_9type_9type_9'
+ : 3.7037037037037033
+type_5 type_5 type_5 type_7 type_7  :
+		'type_1type_1type_1type_1type_1' : 6.8181818181818175
+		'type_4type_4type_4type_4type_9' : 2.272727272727273
+		'type_3type_10type_10type_10type_10' : 4.545454545454546
+		'type_9type_9type_9type_9type_9' : 20.454545454545457
+		'type_3type_3type_3type_3type_3' : 20.454545454545457
+		'type_3type_3type_3type_3type_10' : 2.272727272727273
+		'type_4type_4type_9type_9type_9' : 2.272727272727273
+		'type_4type_4type_4type_4type_4' : 9.090909090909092
+		'type_10type_10type_10type_10type_10' : 13.636363636363635
+		'type_9type_9type_9type_1type_1' : 2.272727272727273
+		'type_4type_7type_4type_4type_4' : 2.272727272727273
+		'type_4type_4type_4type_5type_5' : 2.272727272727273
+		'type_7type_7type_7type_7type_7' : 2.272727272727273
+		'type_3type_3type_3type_4type_9' : 2.272727272727273
+		'type_4type_4type_3type_3type_3' : 4.545454545454546
+		'type_9type_9type_9type_9type_9'
+ : 2.272727272727273
+type_6 type_1 type_1 type_1 type_1  :
+		'type_5type_5type_4type_4type_4' : 2.7027027027027026
+		'type_3type_3type_3type_3type_3' : 13.513513513513514
+		'type_7type_7type_7type_7type_7' : 5.405405405405405
+		'type_9type_9type_9type_9type_9' : 18.91891891891892
+		'type_10type_10type_10type_10type_10' : 16.216216216216218
+		'type_4type_4type_4type_4type_4' : 18.91891891891892
+		'type_4type_4type_4type_1type_1' : 2.7027027027027026
+		'type_1type_1type_1type_1type_1' : 2.7027027027027026
+		'type_9type_9type_9type_9type_3' : 2.7027027027027026
+		'type_4type_4type_4type_4type_3' : 2.7027027027027026
+		'type_5type_5type_5type_5type_5' : 2.7027027027027026
+		'type_9type_9type_9type_7type_7' : 2.7027027027027026
+		'type_10type_10type_10type_10type_4' : 2.7027027027027026
+		'type_9type_9type_9type_9type_4' : 2.7027027027027026
+		'type_10type_10type_10type_10type_10'
+ : 2.7027027027027026
+type_9 type_3 type_7 type_7 type_7  :
+		'type_4type_4type_10type_10type_10' : 2.941176470588235
+		'type_10type_10type_10type_10type_10' : 11.76470588235294
+		'type_4type_4type_4type_4type_4' : 20.588235294117645
+		'type_9type_9type_9type_9type_9' : 20.588235294117645
+		'type_3type_3type_3type_3type_3' : 23.52941176470588
+		'type_9type_9type_9type_10type_10' : 2.941176470588235
+		'type_10type_10type_10type_10type_9' : 2.941176470588235
+		'type_9type_3type_3type_3type_3' : 2.941176470588235
+		'type_3type_3type_3type_1type_1' : 2.941176470588235
+		'type_3type_3type_3type_3type_9' : 2.941176470588235
+		'type_7type_7type_7type_7type_7' : 2.941176470588235
+		'type_4type_4type_4type_4type_4'
+ : 2.941176470588235
+type_9 type_3 type_9 type_9 type_9  :
+		'type_3type_3type_3type_3type_3' : 13.333333333333334
+		'type_4type_4type_4type_4type_4' : 26.666666666666668
+		'type_3type_3type_3type_3type_10' : 3.3333333333333335
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_10type_10type_10type_10type_10' : 10.0
+		'type_1type_1type_1type_1type_1' : 10.0
+		'type_9type_9type_7type_7type_7' : 3.3333333333333335
+		'type_4type_4type_4type_1type_1' : 3.3333333333333335
+		'type_9type_9type_9type_9type_10' : 3.3333333333333335
+		'type_3type_3type_10type_10type_10' : 3.3333333333333335
+		'type_5type_5type_5type_5type_7' : 3.3333333333333335
+		'type_4type_4type_4type_7type_7'
+ : 3.3333333333333335
+type_9 type_9 type_6 type_6 type_6  :
+		'type_9type_4type_4type_4type_4' : 4.0
+		'type_5type_5type_5type_5type_5' : 4.0
+		'type_9type_9type_9type_9type_4' : 4.0
+		'type_1type_1type_1type_1type_1' : 12.0
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_3type_3type_3type_3type_3' : 16.0
+		'type_10type_10type_10type_10type_10' : 8.0
+		'type_4type_3type_3type_3type_3' : 4.0
+		'type_4type_4type_4type_4type_4' : 16.0
+		'type_3type_9type_9type_9type_9' : 4.0
+		'type_7type_7type_7type_7type_7' : 4.0
+		'type_7type_7type_7type_7type_7'
+ : 4.0
+type_5 type_5 type_5 type_3 type_9  :
+		'type_9type_9type_9type_9type_9' : 23.809523809523807
+		'type_10type_10type_10type_10type_10' : 9.523809523809524
+		'type_3type_3type_3type_3type_3' : 23.809523809523807
+		'type_4type_10type_10type_10type_10' : 4.761904761904762
+		'type_9type_9type_4type_4type_4' : 4.761904761904762
+		'type_10type_10type_3type_3type_3' : 4.761904761904762
+		'type_9type_3type_3type_3type_3' : 9.523809523809524
+		'type_5type_5type_5type_3type_3' : 4.761904761904762
+		'type_4type_4type_4type_9type_9' : 4.761904761904762
+		'type_10type_9type_9type_9type_9' : 4.761904761904762
+		'type_9type_9type_9type_9type_9'
+ : 4.761904761904762
+type_1 type_1 type_3 type_6 type_6  :
+		'type_4type_4type_4type_4type_4' : 16.0
+		'type_1type_1type_1type_1type_1' : 8.0
+		'type_10type_10type_10type_10type_10' : 12.0
+		'type_3type_3type_3type_3type_3' : 20.0
+		'type_10type_10type_4type_4type_4' : 4.0
+		'type_9type_9type_9type_4type_4' : 4.0
+		'type_4type_4type_10type_10type_10' : 4.0
+		'type_7type_7type_7type_7type_7' : 4.0
+		'type_5type_5type_5type_5type_5' : 4.0
+		'type_3type_3type_3type_9type_9' : 4.0
+		'type_9type_9type_9type_9type_9' : 12.0
+		'type_1type_9type_9type_9type_9' : 4.0
+		'type_3type_3type_3type_3type_3'
+ : 4.0
+type_1 type_1 type_1 type_9 type_3  :
+		'type_9type_3type_3type_3type_3' : 4.3478260869565215
+		'type_3type_3type_3type_3type_9' : 8.695652173913043
+		'type_9type_9type_9type_9type_9' : 13.043478260869565
+		'type_4type_4type_4type_4type_4' : 17.391304347826086
+		'type_10type_10type_10type_10type_10' : 8.695652173913043
+		'type_9type_9type_1type_1type_1' : 4.3478260869565215
+		'type_4type_4type_4type_4type_9' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3' : 13.043478260869565
+		'type_10type_10type_3type_3type_3' : 4.3478260869565215
+		'type_9type_9type_9type_9type_10' : 4.3478260869565215
+		'type_5type_5type_5type_5type_5' : 4.3478260869565215
+		'type_9type_9type_9type_9type_3' : 4.3478260869565215
+		'type_10type_3type_9type_9type_9' : 4.3478260869565215
+		'type_1type_1type_1type_1type_1'
+ : 4.3478260869565215
+type_3 type_7 type_5 type_5 type_5  :
+		'type_9type_9type_9type_9type_9' : 18.181818181818183
+		'type_9type_9type_9type_4type_4' : 4.545454545454546
+		'type_10type_10type_10type_10type_10' : 18.181818181818183
+		'type_4type_4type_4type_4type_4' : 18.181818181818183
+		'type_4type_3type_3type_9type_9' : 4.545454545454546
+		'type_3type_3type_3type_4type_4' : 4.545454545454546
+		'type_4type_10type_10type_10type_10' : 4.545454545454546
+		'type_3type_3type_3type_3type_3' : 4.545454545454546
+		'type_9type_9type_9type_9type_3' : 4.545454545454546
+		'type_1type_1type_1type_1type_1' : 4.545454545454546
+		'type_9type_9type_10type_10type_10' : 4.545454545454546
+		'type_9type_9type_3type_3type_3' : 4.545454545454546
+		'type_9type_9type_9type_9type_9'
+ : 4.545454545454546
+type_7 type_7 type_1 type_6 type_6  :
+		'type_7type_7type_7type_7type_7' : 4.3478260869565215
+		'type_9type_9type_9type_9type_9' : 26.08695652173913
+		'type_5type_5type_5type_5type_5' : 8.695652173913043
+		'type_10type_10type_10type_10type_10' : 13.043478260869565
+		'type_4type_4type_4type_4type_4' : 26.08695652173913
+		'type_3type_3type_3type_3type_3' : 17.391304347826086
+		'type_3type_9type_9type_9type_9'
+ : 4.3478260869565215
+type_9 type_9 type_9 type_9 type_1  :
+		'type_10type_10type_10type_10type_10' : 12.121212121212121
+		'type_4type_4type_4type_4type_4' : 6.0606060606060606
+		'type_3type_3type_3type_3type_3' : 33.33333333333333
+		'type_9type_9type_9type_9type_9' : 21.21212121212121
+		'type_4type_4type_4type_4type_9' : 3.0303030303030303
+		'type_9type_9type_9type_10type_10' : 3.0303030303030303
+		'type_9type_9type_9type_9type_10' : 3.0303030303030303
+		'type_3type_3type_3type_4type_4' : 3.0303030303030303
+		'type_5type_5type_5type_5type_5' : 3.0303030303030303
+		'type_3type_3type_3type_9type_9' : 3.0303030303030303
+		'type_5type_5type_5type_5type_3' : 3.0303030303030303
+		'type_9type_9type_9type_5type_5' : 3.0303030303030303
+		'type_10type_10type_10type_10type_10'
+ : 3.0303030303030303
+type_6 type_5 type_5 type_5 type_6  :
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_4type_4type_4type_4type_4' : 16.666666666666664
+		'type_3type_3type_3type_3type_9' : 4.166666666666666
+		'type_9type_9type_3type_3type_3' : 4.166666666666666
+		'type_1type_1type_10type_10type_10' : 4.166666666666666
+		'type_10type_10type_10type_10type_10' : 16.666666666666664
+		'type_1type_1type_1type_1type_1' : 8.333333333333332
+		'type_3type_3type_3type_3type_3' : 8.333333333333332
+		'type_7type_7type_7type_7type_7' : 4.166666666666666
+		'type_3type_3type_3type_9type_9' : 4.166666666666666
+		'type_9type_9type_4type_4type_4' : 4.166666666666666
+		'type_10type_10type_9type_9type_9' : 4.166666666666666
+		'type_4type_4type_4type_4type_4'
+ : 4.166666666666666
+type_3 type_7 type_7 type_7 type_3  :
+		'type_10type_10type_10type_10type_10' : 13.043478260869565
+		'type_4type_10type_10type_10type_10' : 4.3478260869565215
+		'type_9type_9type_9type_9type_9' : 17.391304347826086
+		'type_6type_6type_6type_6type_6' : 4.3478260869565215
+		'type_7type_7type_7type_7type_7' : 4.3478260869565215
+		'type_10type_10type_10type_9type_9' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3' : 4.3478260869565215
+		'type_4type_4type_4type_4type_4' : 26.08695652173913
+		'type_3type_3type_3type_3type_9' : 4.3478260869565215
+		'type_3type_3type_3type_9type_9' : 8.695652173913043
+		'type_10type_10type_10type_3type_3' : 4.3478260869565215
+		'type_9type_9type_9type_9type_9'
+ : 4.3478260869565215
+type_3 type_7 type_7 type_7 type_6  :
+		'type_10type_10type_10type_10type_10' : 19.230769230769234
+		'type_4type_4type_4type_4type_4' : 19.230769230769234
+		'type_9type_9type_9type_9type_9' : 11.538461538461538
+		'type_3type_3type_9type_9type_9' : 3.8461538461538463
+		'type_10type_10type_10type_9type_9' : 3.8461538461538463
+		'type_3type_3type_3type_3type_1' : 3.8461538461538463
+		'type_3type_3type_3type_3type_3' : 11.538461538461538
+		'type_4type_4type_4type_9type_9' : 3.8461538461538463
+		'type_7type_7type_7type_7type_7' : 11.538461538461538
+		'type_1type_1type_1type_7type_7' : 3.8461538461538463
+		'type_3type_3type_1type_3type_3' : 3.8461538461538463
+		'type_10type_10type_10type_10type_10'
+ : 3.8461538461538463
+type_6 type_6 type_6 type_9 type_3  :
+		'type_4type_4type_4type_4type_4' : 24.0
+		'type_9type_9type_9type_9type_9' : 16.0
+		'type_3type_4type_4type_4type_4' : 4.0
+		'type_4type_10type_10type_10type_10' : 4.0
+		'type_10type_10type_10type_10type_10' : 8.0
+		'type_3type_3type_3type_3type_3' : 20.0
+		'type_3type_3type_3type_3type_9' : 4.0
+		'type_5type_5type_5type_5type_5' : 4.0
+		'type_1type_1type_1type_1type_1' : 8.0
+		'type_3type_9type_9type_9type_9' : 4.0
+		'type_3type_3type_3type_3type_3'
+ : 4.0
+type_1 type_1 type_1 type_5 type_5  :
+		'type_3type_3type_3type_3type_3' : 22.448979591836736
+		'type_10type_10type_10type_10type_10' : 16.3265306122449
+		'type_3type_3type_3type_9type_9' : 2.0408163265306123
+		'type_9type_9type_9type_9type_9' : 18.367346938775512
+		'type_4type_4type_4type_4type_4' : 12.244897959183673
+		'type_4type_1type_1type_1type_1' : 2.0408163265306123
+		'type_9type_9type_9type_5type_5' : 2.0408163265306123
+		'type_7type_7type_7type_9type_9' : 2.0408163265306123
+		'type_3type_3type_3type_3type_9' : 2.0408163265306123
+		'type_4type_4type_4type_4type_9' : 4.081632653061225
+		'type_1type_1type_1type_1type_1' : 4.081632653061225
+		'type_4type_4type_4type_3type_3' : 2.0408163265306123
+		'type_5type_5type_5type_5type_5' : 2.0408163265306123
+		'type_5type_10type_10type_10type_10' : 2.0408163265306123
+		'type_3type_3type_9type_9type_9' : 2.0408163265306123
+		'type_7type_7type_7type_7type_4' : 2.0408163265306123
+		'type_4type_4type_4type_4type_4'
+ : 2.0408163265306123
+type_3 type_9 type_1 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 26.923076923076923
+		'type_3type_3type_3type_3type_3' : 19.230769230769234
+		'type_1type_4type_1type_1type_1' : 3.8461538461538463
+		'type_4type_4type_4type_4type_4' : 11.538461538461538
+		'type_10type_10type_10type_10type_10' : 15.384615384615385
+		'type_7type_1type_5type_5type_5' : 3.8461538461538463
+		'type_9type_9type_9type_9type_3' : 3.8461538461538463
+		'type_3type_3type_3type_3type_4' : 3.8461538461538463
+		'type_4type_5type_5type_5type_5' : 3.8461538461538463
+		'type_5type_5type_5type_5type_5' : 3.8461538461538463
+		'type_9type_9type_9type_9type_9'
+ : 3.8461538461538463
+type_3 type_3 type_3 type_9 type_3  :
+		'type_9type_9type_9type_9type_9' : 11.538461538461538
+		'type_10type_10type_10type_10type_10' : 15.384615384615385
+		'type_4type_4type_4type_4type_4' : 15.384615384615385
+		'type_9type_9type_9type_3type_3' : 3.8461538461538463
+		'type_7type_7type_7type_7type_4' : 3.8461538461538463
+		'type_3type_3type_3type_3type_3' : 15.384615384615385
+		'type_1type_1type_1type_1type_1' : 11.538461538461538
+		'type_3type_10type_10type_10type_10' : 3.8461538461538463
+		'type_4type_3type_3type_3type_3' : 3.8461538461538463
+		'type_1type_1type_1type_1type_4' : 3.8461538461538463
+		'type_3type_3type_3type_9type_9' : 3.8461538461538463
+		'type_7type_7type_7type_7type_7' : 3.8461538461538463
+		'type_9type_9type_9type_9type_9'
+ : 3.8461538461538463
+type_5 type_9 type_9 type_9 type_9  :
+		'type_3type_3type_3type_3type_4' : 3.225806451612903
+		'type_4type_4type_4type_4type_4' : 19.35483870967742
+		'type_4type_3type_3type_3type_3' : 3.225806451612903
+		'type_9type_9type_9type_9type_9' : 22.58064516129032
+		'type_1type_1type_1type_1type_1' : 3.225806451612903
+		'type_3type_3type_3type_3type_3' : 12.903225806451612
+		'type_4type_4type_3type_3type_3' : 3.225806451612903
+		'type_9type_9type_10type_10type_10' : 3.225806451612903
+		'type_9type_9type_9type_3type_9' : 3.225806451612903
+		'type_3type_3type_3type_3type_9' : 3.225806451612903
+		'type_3type_3type_3type_1type_1' : 3.225806451612903
+		'type_3type_3type_3type_9type_9' : 3.225806451612903
+		'type_10type_10type_10type_10type_10' : 3.225806451612903
+		'type_9type_3type_3type_3type_3' : 3.225806451612903
+		'type_10type_10type_9type_9type_9' : 3.225806451612903
+		'type_3type_3type_3type_10type_10' : 3.225806451612903
+		'type_10type_10type_10type_10type_10'
+ : 3.225806451612903
+type_9 type_9 type_9 type_9 type_5  :
+		'type_9type_9type_9type_9type_9' : 25.0
+		'type_4type_4type_4type_4type_4' : 16.666666666666664
+		'type_3type_3type_3type_4type_4' : 4.166666666666666
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_10type_10type_10type_10type_3' : 4.166666666666666
+		'type_10type_10type_10type_9type_9' : 4.166666666666666
+		'type_7type_7type_7type_7type_7' : 4.166666666666666
+		'type_5type_5type_5type_5type_5' : 4.166666666666666
+		'type_10type_10type_10type_10type_10' : 12.5
+		'type_3type_10type_10type_10type_10' : 4.166666666666666
+		'type_9type_9type_9type_9type_9'
+ : 4.166666666666666
+type_6 type_3 type_3 type_3 type_3  :
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_10type_10type_10type_10type_10' : 4.166666666666666
+		'type_4type_4type_4type_4type_4' : 33.33333333333333
+		'type_3type_3type_3type_3type_3' : 16.666666666666664
+		'type_9type_9type_9type_3type_3' : 8.333333333333332
+		'type_3type_9type_9type_9type_9' : 4.166666666666666
+		'type_3type_3type_3type_3type_4' : 4.166666666666666
+		'type_1type_1type_1type_1type_1' : 4.166666666666666
+		'type_4type_4type_4type_7type_7' : 4.166666666666666
+		'type_5type_5type_5type_5type_5'
+ : 4.166666666666666
+type_1 type_6 type_6 type_1 type_1  :
+		'type_1type_1type_1type_1type_1' : 9.523809523809524
+		'type_4type_4type_4type_4type_4' : 42.857142857142854
+		'type_7type_7type_7type_7type_7' : 4.761904761904762
+		'type_9type_9type_9type_9type_9' : 19.047619047619047
+		'type_4type_4type_4type_7type_7' : 4.761904761904762
+		'type_10type_10type_10type_10type_10' : 9.523809523809524
+		'type_10type_9type_9type_9type_9' : 4.761904761904762
+		'type_10type_10type_10type_3type_3'
+ : 4.761904761904762
+type_1 type_9 type_1 type_1 type_1  :
+		'type_9type_9type_9type_9type_9' : 23.809523809523807
+		'type_10type_10type_10type_10type_10' : 4.761904761904762
+		'type_1type_1type_1type_1type_1' : 9.523809523809524
+		'type_7type_7type_7type_9type_9' : 4.761904761904762
+		'type_4type_4type_4type_4type_4' : 23.809523809523807
+		'type_5type_5type_5type_5type_5' : 4.761904761904762
+		'type_3type_3type_10type_10type_3' : 4.761904761904762
+		'type_3type_3type_3type_3type_9' : 4.761904761904762
+		'type_3type_3type_3type_3type_3' : 14.285714285714285
+		'type_9type_9type_9type_9type_9'
+ : 4.761904761904762
+type_1 type_3 type_7 type_7 type_7  :
+		'type_4type_4type_4type_4type_4' : 13.636363636363635
+		'type_10type_10type_10type_10type_10' : 9.090909090909092
+		'type_9type_9type_9type_9type_9' : 18.181818181818183
+		'type_3type_3type_3type_3type_3' : 18.181818181818183
+		'type_6type_6type_6type_6type_6' : 4.545454545454546
+		'type_3type_3type_3type_3type_9' : 9.090909090909092
+		'type_3type_3type_4type_4type_4' : 4.545454545454546
+		'type_4type_4type_1type_9type_9' : 4.545454545454546
+		'type_7type_7type_7type_7type_7' : 4.545454545454546
+		'type_1type_1type_1type_1type_7' : 4.545454545454546
+		'type_3type_3type_3type_1type_3' : 4.545454545454546
+		'type_4type_4type_4type_3type_3'
+ : 4.545454545454546
+type_7 type_7 type_7 type_7 type_6  :
+		'type_3type_3type_3type_3type_3' : 13.157894736842104
+		'type_9type_9type_9type_9type_9' : 15.789473684210526
+		'type_4type_4type_4type_4type_4' : 23.684210526315788
+		'type_4type_4type_4type_4type_9' : 2.631578947368421
+		'type_10type_10type_10type_9type_9' : 2.631578947368421
+		'type_10type_10type_10type_10type_4' : 2.631578947368421
+		'type_10type_10type_10type_4type_4' : 2.631578947368421
+		'type_10type_10type_10type_10type_3' : 2.631578947368421
+		'type_5type_5type_5type_5type_5' : 2.631578947368421
+		'type_9type_7type_7type_7type_9' : 2.631578947368421
+		'type_1type_1type_1type_4type_4' : 2.631578947368421
+		'type_10type_10type_10type_10type_10' : 7.894736842105263
+		'type_9type_3type_3type_3type_3' : 2.631578947368421
+		'type_1type_1type_1type_1type_1' : 2.631578947368421
+		'type_9type_3type_3type_3type_10' : 2.631578947368421
+		'type_9type_9type_9type_10type_10' : 2.631578947368421
+		'type_7type_7type_1type_7type_7' : 2.631578947368421
+		'type_3type_10type_10type_10type_10' : 2.631578947368421
+		'type_10type_10type_10type_10type_4'
+ : 2.631578947368421
+type_6 type_6 type_6 type_7 type_1  :
+		'type_10type_10type_10type_10type_10' : 14.814814814814813
+		'type_3type_3type_3type_10type_10' : 3.7037037037037033
+		'type_9type_9type_9type_9type_9' : 22.22222222222222
+		'type_4type_4type_4type_4type_4' : 18.51851851851852
+		'type_1type_1type_1type_1type_1' : 3.7037037037037033
+		'type_10type_10type_10type_10type_9' : 3.7037037037037033
+		'type_3type_3type_3type_3type_3' : 22.22222222222222
+		'type_9type_3type_3type_3type_3' : 3.7037037037037033
+		'type_7type_7type_5type_5type_5' : 3.7037037037037033
+		'type_9type_9type_1type_1type_1'
+ : 3.7037037037037033
+type_5 type_3 type_7 type_7 type_7  :
+		'type_1type_7type_7type_7type_7' : 4.166666666666666
+		'type_10type_10type_10type_10type_10' : 16.666666666666664
+		'type_9type_9type_4type_4type_4' : 4.166666666666666
+		'type_4type_4type_4type_4type_4' : 25.0
+		'type_9type_9type_9type_9type_9' : 16.666666666666664
+		'type_3type_3type_3type_3type_3' : 12.5
+		'type_1type_1type_1type_1type_1' : 8.333333333333332
+		'type_10type_10type_10type_3type_3' : 4.166666666666666
+		'type_7type_7type_7type_7type_7' : 4.166666666666666
+		'type_10type_10type_10type_10type_10'
+ : 4.166666666666666
+type_7 type_7 type_7 type_7 type_5  :
+		'type_9type_9type_9type_9type_9' : 25.0
+		'type_3type_3type_3type_3type_3' : 32.142857142857146
+		'type_10type_10type_10type_10type_10' : 17.857142857142858
+		'type_4type_4type_4type_3type_3' : 3.571428571428571
+		'type_4type_4type_4type_4type_4' : 3.571428571428571
+		'type_5type_5type_5type_5type_5' : 3.571428571428571
+		'type_9type_9type_9type_4type_9' : 3.571428571428571
+		'type_3type_3type_3type_9type_9' : 3.571428571428571
+		'type_7type_7type_7type_7type_7' : 3.571428571428571
+		'type_4type_4type_4type_4type_4'
+ : 3.571428571428571
+type_7 type_5 type_5 type_5 type_5  :
+		'type_10type_10type_10type_10type_10' : 9.375
+		'type_9type_9type_10type_10type_10' : 3.125
+		'type_4type_4type_4type_4type_4' : 28.125
+		'type_4type_4type_4type_4type_3' : 3.125
+		'type_3type_3type_9type_9type_9' : 3.125
+		'type_1type_1type_1type_1type_1' : 3.125
+		'type_9type_9type_9type_9type_9' : 18.75
+		'type_4type_4type_9type_3type_3' : 3.125
+		'type_9type_9type_9type_10type_10' : 3.125
+		'type_9type_9type_7type_7type_7' : 3.125
+		'type_3type_3type_3type_3type_3' : 6.25
+		'type_5type_5type_3type_3type_3' : 3.125
+		'type_9type_10type_10type_10type_10' : 3.125
+		'type_4type_3type_3type_3type_3' : 3.125
+		'type_9type_3type_3type_3type_3' : 3.125
+		'type_9type_9type_9type_9type_9'
+ : 3.125
+type_6 type_6 type_1 type_7 type_7  :
+		'type_9type_9type_9type_9type_9' : 21.73913043478261
+		'type_4type_4type_4type_4type_4' : 34.78260869565217
+		'type_7type_7type_3type_3type_3' : 4.3478260869565215
+		'type_9type_3type_3type_3type_3' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3' : 8.695652173913043
+		'type_10type_10type_10type_10type_4' : 4.3478260869565215
+		'type_10type_10type_10type_10type_3' : 4.3478260869565215
+		'type_10type_10type_10type_10type_10' : 8.695652173913043
+		'type_10type_10type_4type_4type_4' : 4.3478260869565215
+		'type_10type_10type_10type_10type_10'
+ : 4.3478260869565215
+type_5 type_5 type_3 type_6 type_6  :
+		'type_9type_9type_9type_9type_9' : 31.25
+		'type_4type_4type_4type_3type_3' : 3.125
+		'type_3type_3type_3type_3type_3' : 12.5
+		'type_9type_3type_3type_3type_3' : 3.125
+		'type_7type_7type_7type_7type_7' : 3.125
+		'type_1type_5type_5type_5type_5' : 3.125
+		'type_4type_4type_4type_4type_4' : 15.625
+		'type_10type_10type_9type_9type_9' : 3.125
+		'type_10type_10type_10type_10type_10' : 15.625
+		'type_10type_10type_3type_3type_3' : 3.125
+		'type_10type_10type_10type_5type_5' : 3.125
+		'type_9type_9type_9type_9type_3'
+ : 3.125
+type_1 type_6 type_6 type_6 type_1  :
+		'type_3type_3type_3type_3type_3' : 12.0
+		'type_4type_4type_4type_4type_4' : 20.0
+		'type_10type_10type_10type_10type_10' : 12.0
+		'type_9type_9type_9type_9type_9' : 20.0
+		'type_5type_5type_5type_5type_5' : 8.0
+		'type_9type_10type_10type_10type_10' : 4.0
+		'type_1type_1type_1type_1type_1' : 4.0
+		'type_4type_3type_3type_4type_4' : 4.0
+		'type_4type_4type_3type_3type_3' : 4.0
+		'type_7type_7type_7type_7type_7' : 8.0
+		'type_9type_9type_4type_4type_4'
+ : 4.0
+type_3 type_3 type_3 type_3 type_7  :
+		'type_4type_4type_4type_4type_4' : 18.181818181818183
+		'type_9type_9type_9type_9type_9' : 24.242424242424242
+		'type_7type_7type_7type_3type_3' : 3.0303030303030303
+		'type_10type_10type_10type_10type_10' : 12.121212121212121
+		'type_3type_3type_3type_3type_3' : 24.242424242424242
+		'type_10type_10type_10type_10type_4' : 3.0303030303030303
+		'type_3type_9type_9type_9type_9' : 3.0303030303030303
+		'type_3type_3type_4type_9type_9' : 3.0303030303030303
+		'type_4type_4type_7type_7type_7' : 3.0303030303030303
+		'type_7type_7type_7type_9type_9' : 3.0303030303030303
+		'type_1type_1type_1type_1type_1'
+ : 3.0303030303030303
+type_5 type_5 type_5 type_1 type_1  :
+		'type_10type_10type_10type_10type_10' : 20.930232558139537
+		'type_3type_3type_3type_3type_3' : 34.883720930232556
+		'type_5type_4type_4type_4type_4' : 2.3255813953488373
+		'type_9type_9type_9type_9type_9' : 11.627906976744185
+		'type_4type_4type_4type_4type_4' : 11.627906976744185
+		'type_9type_4type_4type_4type_4' : 2.3255813953488373
+		'type_7type_7type_7type_7type_7' : 4.651162790697675
+		'type_3type_4type_4type_4type_4' : 2.3255813953488373
+		'type_9type_9type_1type_1type_9' : 2.3255813953488373
+		'type_1type_1type_1type_1type_1' : 2.3255813953488373
+		'type_3type_3type_3type_4type_4' : 2.3255813953488373
+		'type_4type_4type_4type_4type_4'
+ : 2.3255813953488373
+type_5 type_1 type_1 type_1 type_1  :
+		'type_10type_10type_10type_10type_10' : 17.24137931034483
+		'type_4type_4type_4type_4type_4' : 6.896551724137931
+		'type_3type_3type_9type_9type_9' : 3.4482758620689653
+		'type_9type_9type_9type_9type_9' : 20.689655172413794
+		'type_3type_3type_3type_3type_3' : 17.24137931034483
+		'type_7type_7type_7type_7type_7' : 3.4482758620689653
+		'type_5type_5type_5type_5type_5' : 3.4482758620689653
+		'type_3type_4type_4type_4type_4' : 3.4482758620689653
+		'type_9type_9type_9type_9type_10' : 3.4482758620689653
+		'type_10type_10type_10type_3type_3' : 3.4482758620689653
+		'type_1type_1type_1type_1type_1' : 3.4482758620689653
+		'type_3type_3type_3type_3type_4' : 3.4482758620689653
+		'type_1type_9type_9type_9type_9' : 3.4482758620689653
+		'type_4type_4type_3type_3type_3' : 3.4482758620689653
+		'type_3type_3type_3type_3type_3'
+ : 3.4482758620689653
+type_5 type_1 type_6 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 12.5
+		'type_4type_4type_4type_4type_4' : 3.125
+		'type_1type_1type_1type_1type_1' : 9.375
+		'type_9type_9type_9type_9type_9' : 21.875
+		'type_3type_10type_10type_10type_10' : 6.25
+		'type_10type_10type_10type_10type_3' : 3.125
+		'type_7type_7type_7type_7type_9' : 3.125
+		'type_10type_10type_10type_10type_10' : 15.625
+		'type_7type_1type_1type_1type_1' : 3.125
+		'type_9type_9type_9type_9type_10' : 3.125
+		'type_10type_10type_10type_9type_9' : 3.125
+		'type_4type_4type_4type_3type_3' : 3.125
+		'type_9type_1type_1type_1type_1' : 3.125
+		'type_9type_9type_10type_10type_10' : 3.125
+		'type_3type_3type_3type_10type_10' : 3.125
+		'type_4type_4type_4type_4type_4'
+ : 3.125
+type_9 type_6 type_6 type_6 type_6  :
+		'type_5type_5type_5type_5type_5' : 6.451612903225806
+		'type_9type_9type_9type_4type_4' : 3.225806451612903
+		'type_10type_10type_10type_10type_10' : 16.129032258064516
+		'type_9type_9type_9type_9type_9' : 22.58064516129032
+		'type_4type_4type_4type_4type_9' : 3.225806451612903
+		'type_3type_3type_3type_3type_3' : 19.35483870967742
+		'type_4type_4type_4type_4type_4' : 9.67741935483871
+		'type_3type_3type_3type_9type_9' : 3.225806451612903
+		'type_10type_10type_3type_3type_3' : 3.225806451612903
+		'type_1type_1type_1type_1type_1' : 3.225806451612903
+		'type_9type_9type_9type_9type_3' : 3.225806451612903
+		'type_4type_4type_10type_10type_3' : 3.225806451612903
+		'type_3type_3type_3type_3type_3'
+ : 3.225806451612903
+type_1 type_1 type_7 type_6 type_6  :
+		'type_3type_3type_3type_3type_3' : 22.727272727272727
+		'type_10type_10type_10type_10type_10' : 9.090909090909092
+		'type_9type_9type_9type_9type_9' : 36.36363636363637
+		'type_1type_1type_1type_1type_1' : 13.636363636363635
+		'type_4type_4type_4type_4type_4' : 9.090909090909092
+		'type_3type_3type_10type_10type_10' : 4.545454545454546
+		'type_10type_10type_10type_10type_10'
+ : 4.545454545454546
+type_6 type_6 type_3 type_7 type_7  :
+		'type_4type_10type_10type_10type_10' : 4.0
+		'type_10type_10type_10type_10type_10' : 32.0
+		'type_5type_5type_5type_5type_5' : 12.0
+		'type_9type_9type_9type_9type_9' : 16.0
+		'type_1type_1type_1type_1type_1' : 4.0
+		'type_10type_10type_3type_3type_3' : 4.0
+		'type_4type_4type_9type_9type_9' : 4.0
+		'type_9type_9type_9type_9type_3' : 4.0
+		'type_9type_9type_9type_3type_3' : 4.0
+		'type_4type_4type_4type_4type_4' : 4.0
+		'type_7type_7type_7type_7type_7' : 4.0
+		'type_9type_7type_3type_3type_3' : 4.0
+		'type_4type_4type_4type_4type_4'
+ : 4.0
+type_9 type_9 type_5 type_5 type_5  :
+		'type_10type_10type_10type_10type_10' : 22.727272727272727
+		'type_9type_9type_9type_9type_10' : 4.545454545454546
+		'type_4type_4type_4type_4type_4' : 27.27272727272727
+		'type_1type_1type_1type_1type_1' : 4.545454545454546
+		'type_3type_3type_3type_3type_3' : 13.636363636363635
+		'type_7type_7type_7type_7type_7' : 9.090909090909092
+		'type_5type_5type_10type_10type_10' : 4.545454545454546
+		'type_9type_9type_9type_9type_9' : 4.545454545454546
+		'type_4type_3type_3type_3type_3' : 4.545454545454546
+		'type_10type_10type_10type_10type_10'
+ : 4.545454545454546
+type_5 type_5 type_7 type_6 type_6  :
+		'type_10type_10type_10type_10type_10' : 13.043478260869565
+		'type_3type_3type_3type_3type_3' : 13.043478260869565
+		'type_9type_9type_9type_9type_9' : 26.08695652173913
+		'type_4type_4type_4type_4type_4' : 13.043478260869565
+		'type_9type_9type_5type_5type_5' : 4.3478260869565215
+		'type_10type_10type_10type_10type_3' : 4.3478260869565215
+		'type_4type_4type_4type_4type_10' : 4.3478260869565215
+		'type_5type_4type_4type_4type_4' : 4.3478260869565215
+		'type_1type_1type_1type_1type_4' : 4.3478260869565215
+		'type_10type_3type_3type_9type_9' : 4.3478260869565215
+		'type_7type_7type_7type_7type_7' : 4.3478260869565215
+		'type_3type_3type_3type_3type_3'
+ : 4.3478260869565215
+type_1 type_1 type_5 type_5 type_5  :
+		'type_10type_10type_10type_10type_10' : 24.0
+		'type_3type_3type_3type_3type_3' : 24.0
+		'type_9type_9type_9type_9type_9' : 16.0
+		'type_3type_10type_10type_10type_10' : 4.0
+		'type_4type_4type_4type_4type_4' : 20.0
+		'type_4type_4type_4type_9type_9' : 4.0
+		'type_4type_4type_3type_7type_7' : 4.0
+		'type_7type_7type_7type_4type_4'
+ : 4.0
+type_6 type_6 type_1 type_1 type_3  :
+		'type_4type_4type_4type_4type_4' : 21.428571428571427
+		'type_10type_10type_10type_10type_10' : 21.428571428571427
+		'type_9type_9type_9type_9type_7' : 3.571428571428571
+		'type_4type_9type_9type_9type_9' : 3.571428571428571
+		'type_3type_3type_3type_3type_3' : 10.714285714285714
+		'type_9type_9type_9type_9type_9' : 17.857142857142858
+		'type_10type_10type_10type_10type_4' : 3.571428571428571
+		'type_4type_4type_4type_3type_3' : 3.571428571428571
+		'type_4type_4type_4type_4type_10' : 3.571428571428571
+		'type_3type_4type_4type_3type_3' : 3.571428571428571
+		'type_7type_7type_7type_7type_7' : 3.571428571428571
+		'type_1type_3type_3type_3type_3'
+ : 3.571428571428571
+type_3 type_3 type_3 type_3 type_5  :
+		'type_9type_9type_9type_9type_9' : 12.0
+		'type_3type_3type_3type_3type_3' : 32.0
+		'type_4type_4type_4type_4type_4' : 32.0
+		'type_3type_3type_10type_10type_10' : 4.0
+		'type_10type_10type_10type_10type_10' : 4.0
+		'type_3type_3type_9type_9type_9' : 4.0
+		'type_7type_7type_7type_7type_7' : 8.0
+		'type_9type_9type_9type_9type_9'
+ : 4.0
+type_7 type_9 type_9 type_9 type_9  :
+		'type_9type_9type_9type_9type_9' : 32.142857142857146
+		'type_3type_3type_3type_3type_3' : 14.285714285714285
+		'type_4type_4type_4type_7type_7' : 3.571428571428571
+		'type_3type_3type_4type_4type_4' : 3.571428571428571
+		'type_4type_4type_4type_4type_4' : 7.142857142857142
+		'type_10type_10type_10type_10type_10' : 10.714285714285714
+		'type_3type_3type_3type_3type_5' : 3.571428571428571
+		'type_3type_3type_9type_9type_9' : 3.571428571428571
+		'type_7type_7type_7type_7type_7' : 3.571428571428571
+		'type_5type_5type_5type_5type_9' : 3.571428571428571
+		'type_10type_10type_5type_5type_5' : 3.571428571428571
+		'type_3type_10type_10type_10type_10' : 3.571428571428571
+		'type_3type_3type_3type_4type_4' : 3.571428571428571
+		'type_3type_10type_10type_10type_10'
+ : 3.571428571428571
+type_6 type_6 type_6 type_3 type_7  :
+		'type_4type_4type_10type_10type_10' : 3.0303030303030303
+		'type_3type_3type_3type_3type_3' : 12.121212121212121
+		'type_10type_10type_10type_10type_10' : 21.21212121212121
+		'type_4type_5type_5type_5type_5' : 3.0303030303030303
+		'type_4type_4type_4type_4type_4' : 12.121212121212121
+		'type_1type_1type_1type_1type_1' : 6.0606060606060606
+		'type_9type_9type_9type_9type_9' : 24.242424242424242
+		'type_3type_3type_3type_10type_10' : 3.0303030303030303
+		'type_5type_5type_5type_5type_5' : 3.0303030303030303
+		'type_9type_9type_9type_9type_3' : 3.0303030303030303
+		'type_10type_10type_10type_4type_3' : 3.0303030303030303
+		'type_3type_3type_7type_7type_7' : 3.0303030303030303
+		'type_4type_4type_4type_4type_4'
+ : 3.0303030303030303
+type_6 type_6 type_5 type_5 type_3  :
+		'type_3type_3type_3type_3type_3' : 13.636363636363635
+		'type_3type_3type_9type_9type_9' : 4.545454545454546
+		'type_9type_9type_9type_3type_3' : 4.545454545454546
+		'type_10type_3type_3type_3type_10' : 4.545454545454546
+		'type_4type_4type_4type_4type_4' : 9.090909090909092
+		'type_9type_9type_9type_9type_9' : 22.727272727272727
+		'type_3type_3type_3type_9type_9' : 4.545454545454546
+		'type_10type_10type_10type_10type_10' : 9.090909090909092
+		'type_10type_10type_10type_10type_3' : 4.545454545454546
+		'type_7type_7type_10type_10type_10' : 4.545454545454546
+		'type_3type_3type_3type_7type_7' : 4.545454545454546
+		'type_3type_7type_7type_7type_7' : 4.545454545454546
+		'type_4type_4type_4type_9type_9' : 4.545454545454546
+		'type_1type_1type_1type_10type_10'
+ : 4.545454545454546
