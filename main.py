@@ -26,20 +26,20 @@ if __name__=="__main__":
     #create_files_utils.createFileByType(type=5)
 
     """clustering 3D"""
-    #vector1= db_queries.pull_3types_from_range_age(type_1 = 1, type_2 = 4, type_3 = 5, age_min = 30, age_max = 40)
-    #vector2 = db_queries.pull_3types_from_range_age(type_1 = 1, type_2 = 4, type_3 = 5, age_min = 60, age_max = 90)
+    #vector1= db_queries.pull_3types_from_range_age(type_1 = 1, type_2 = 5, type_3 = 4, age_min = 30, age_max = 40)
+    #vector2 = db_queries.pull_3types_from_range_age(type_1 = 1, type_2 = 5, type_3 = 4, age_min = 60, age_max = 90)
     #vector1 = np.array(vector1)
     #vector2 = np.array(vector2)
     #vector = np.concatenate([vector1,vector2])
     #clustering.cluster3D(dataset = vector, range1 = vector1, range2 = vector2, n_clusters = 2)
 
     """clustering 2D"""
-    vector1= db_queries.pull_2types_from_range_age(type_1 = 5, type_2 = 4, age_min = 30, age_max = 40)
-    vector2 = db_queries.pull_2types_from_range_age(type_1 = 5, type_2 = 4, age_min = 60, age_max = 90)
-    vector1 = np.array(vector1)
-    vector2 = np.array(vector2)
-    vector = np.concatenate([vector1,vector2])
-    clustering.cluster2D_by_vectors(dataset = vector, range1 = vector1, range2 = vector2, n_clusters = 2)
+    #vector1= db_queries.pull_2types_from_range_age(type_1 = 5, type_2 = 4, age_min = 30, age_max = 40)
+    #vector2 = db_queries.pull_2types_from_range_age(type_1 = 5, type_2 = 4, age_min = 60, age_max = 90)
+    #vector1 = np.array(vector1)
+    #vector2 = np.array(vector2)
+    #vector = np.concatenate([vector1,vector2])
+    #clustering.cluster2D_by_vectors(dataset = vector, range1 = vector1, range2 = vector2, n_clusters = 2)
 
     """grafici a linea monodimensionali"""
     #graph.graph_avg_plot(type = 5, age1_min = 0, age1_max = 30, age2_min = 60, age2_max = 90)
@@ -51,9 +51,9 @@ if __name__=="__main__":
     #graph.scatter3D_3types_from_2ranges(type_1 = 5,type_2 = 4,type_3 = 1,age1_min = 0,age1_max = 30,age2_min = 60,age2_max = 90)
 
     """classificatore"""
-    #classificator.training(5,4)
-    #user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
-    #classificator.predict_result(user)
+    classificator.training(type_feature_1 = 5,type_feature_2 = 4)
+    user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
+    classificator.predict_result(user)
 
     '''clustering dei segmenti, relativi ai segnali di tipo 5, in base al loro modulo e alla loro inclinazione'''
     #segments1,types=cluster_segments.manual_clustering(10,90,5)
