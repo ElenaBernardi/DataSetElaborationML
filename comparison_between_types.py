@@ -19,7 +19,7 @@ def compare(ageMin,ageMax,type2,typeFile,window, window2):
 
 '''metodo di ricerca dei comportamenti ripetitivi nel segnale contenuto nella lista list2[] al verificarsi 
 dei pattern, di dimensione window, nel segnale contenuto nella lista list1[]'''
-def comparison(list1, list2, type, window, window2):
+def comparison(list1, list2, type, window, window2,delta):
     dict = read_file(type)
     keys = dict.keys()
     range_iter= min(len(list1),len(list2))
@@ -31,8 +31,8 @@ def comparison(list1, list2, type, window, window2):
                     tmp = tmp+" "+list1[j]
                 if(key.replace(" ","")==tmp.replace(" ","")):
                     tmp1 = ""
-                    if (i + window2 < len(list2) - 1):
-                        for j in range(i,i+window2):
+                    if (i + window2+delta < len(list2) - 1):
+                        for j in range(i+delta,i+window2+delta):
                             tmp1= tmp1+" "+list2[j]
                         dict[key].append(tmp1)
     return dict
