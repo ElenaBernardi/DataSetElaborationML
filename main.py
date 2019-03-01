@@ -56,24 +56,21 @@ if __name__=="__main__":
     #classificator.predict_result(user)
 
     '''clustering dei segmenti, relativi ai segnali di tipo 5, in base al loro modulo e alla loro inclinazione'''
-    #segments1,types=cluster_segments.manual_clustering(age_min = 10,age_max = 90,type = 5)
+    segments1,types=cluster_segments.manual_clustering(age_min = 10, age_max = 90, type = 5)
     #segments2, types2 = cluster_segments.manual_clustering(age_min = 10, age_max = 90, type = 4)
-
     #print(types)
 
     '''rilevazione dei pattern di sequenza di n segmenti'''
-
-    #B= types.copy()
-    #d=find_pattern.get_patters(sequence_1 = types,sequence_2 = B, window = 5)
+    #d=find_pattern.get_patters(sequence= types, window = 5)
     #create_files_utils.save_patterns(patterns = d,type = 5,threshold_min = 200)
 
     '''rilevazione di comportamenti ripetitivi in altri segnali al verificarsi dei pattern'''
-    #dict=comparison_between_types.compare(10,90,4,5,5,6)
+    #dict=comparison_between_types.compare(age_min = 10, age_max = 90, type_sequence_2 = 4, type_sequence_saved_in_file = 5, window_sequence_2 = 5, delta = 6)
     #print(dict)
     #create_files_utils.save_comparison(dict,4,5)
 
     '''rilevazione di comportamenti ripetitivi, relativi ad altri segnali, al verificarsi dei pattern con la relativa percentuale di successo'''
-    #dict=comparison_between_types.percentage_comparison(4,5)
-    #create_files_utils.save_percentage(dict)
-    # print(math.sqrt(2 * 102912 + 1/4) - 1/2)
+    dict=comparison_between_types.percentage_comparison(type_1 = 4, type_2 = 5)
+    create_files_utils.save_percentage(dict)
+    #print(math.sqrt(2 * 102912 + 1/4) - 1/2)
 

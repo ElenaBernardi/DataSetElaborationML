@@ -19,10 +19,10 @@ def manual_clustering(age_min, age_max, type):
     #get metadatas from segments
     modules, gradients = zip(*metadatas)
     list2 = math_operations.normalize(gradients, min(gradients), max(gradients))
-    zipped = zip(modules, gradients)
+    zipped = zip(modules, list2)
     array = list(zipped)
     #cluster segments by metadatas
-    types=get_types_from_features(metadatas)
+    types=get_types_from_features(array)
     return elements,types
 
 '''clustering manuale dei segmenti nei 10 possibili insiemi in base ai valori di inclinazione e modulo'''
@@ -34,35 +34,35 @@ def get_types_from_features(list_of_segment_features):
         if gradient<0:
             if 0.1<fabs(gradient)<0.5:
                 if module<avg_module:
-                    types.append("type_1")
+                    types.append("0")
                 else:
-                    types.append("type_2")
+                    types.append("1")
             if 0.5<=fabs(gradient):
                 if module<avg_module:
-                    types.append("type_3")
+                    types.append("2")
                 else:
-                    types.append("type_4")
+                    types.append("3")
             if 0<=fabs(gradient)<=0.1:
                 if module<avg_module:
-                    types.append("type_5")
+                    types.append("4")
                 else:
-                    types.append("type_6")
+                    types.append("5")
         else:
             if 0.1<fabs(gradient)<0.5:
                 if module<avg_module:
-                    types.append("type_7")
+                    types.append("6")
                 else:
-                    types.append("type_8")
+                    types.append("7")
             if 0.5<=fabs(gradient):
                 if module<avg_module:
-                    types.append("type_9")
+                    types.append("8")
                 else:
-                    types.append("type_10")
+                    types.append("9")
             if 0<=fabs(gradient)<=0.1:
                 if module<avg_module:
-                    types.append("type_5")
+                    types.append("4")
                 else:
-                    types.append("type_6")
+                    types.append("5")
     return types
 
 
