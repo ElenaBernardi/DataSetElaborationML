@@ -7,10 +7,10 @@ import segments
 
 '''metodo che restituisce la lista intera dei segmenti appartenenti
  agli utenti, con età compresa in un range, e la loro classe di tipo a cui appartengono, da 1 a 10 '''
-def manual_clustering(ageMin,ageMax, type):
+def manual_clustering(age_min, age_max, type):
     metadatas = []
     #get data from DB
-    results = db_queries.map_user_and_value_from_age_range(ageMin, ageMax, type)
+    results = db_queries.map_user_and_value_from_age_range(age_min, age_max, type)
     #get segments for each user
     elements = segments.segments(results)
     #concatenate all segments for all user
@@ -22,16 +22,15 @@ def manual_clustering(ageMin,ageMax, type):
     zipped = zip(modules, gradients)
     array = list(zipped)
     #cluster segments by metadatas
-    types=get_types_from_metadatas(metadatas)
+    types=get_types_from_features(metadatas)
     return elements,types
 
 '''clustering manuale dei segmenti nei 10 possibili insiemi in base ai valori di inclinazione e modulo'''
-def get_types_from_metadatas(metadatas):
-    #print(metadatas)
+def get_types_from_features(list_of_segment_features):
     types=[]
-    modules,gradients =zip(*metadatas)
+    modules,gradients = zip(*list_of_segment_features)
     avg_module = sum(modules)/float(len(modules))
-    for module,gradient in metadatas:
+    for module,gradient in list_of_segment_features:
         if gradient<0:
             if 0.1<fabs(gradient)<0.5:
                 if module<avg_module:

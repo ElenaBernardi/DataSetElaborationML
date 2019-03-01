@@ -2,7 +2,7 @@ import csv
 from collections import defaultdict
 
 import numpy as np
-
+from matplotlib import pyplot as plt
 import comparison_between_types
 import find_pattern
 import cluster_segments
@@ -51,21 +51,21 @@ if __name__=="__main__":
     #graph.scatter3D_3types_from_2ranges(type_1 = 5,type_2 = 4,type_3 = 1,age1_min = 0,age1_max = 30,age2_min = 60,age2_max = 90)
 
     """classificatore"""
-    classificator.training(type_feature_1 = 5,type_feature_2 = 4)
-    user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
-    classificator.predict_result(user)
+    #classificator.training(type_feature_1 = 5,type_feature_2 = 4)
+    #user = "'8ac9cda47064ec1f64f873dff99f0edd44bcf38a'"
+    #classificator.predict_result(user)
 
     '''clustering dei segmenti, relativi ai segnali di tipo 5, in base al loro modulo e alla loro inclinazione'''
-    #segments1,types=cluster_segments.manual_clustering(10,90,5)
-    #segments2, types2 = cluster_segments.manual_clustering(10, 90, 4)
+    #segments1,types=cluster_segments.manual_clustering(age_min = 10,age_max = 90,type = 5)
+    #segments2, types2 = cluster_segments.manual_clustering(age_min = 10, age_max = 90, type = 4)
 
     #print(types)
 
     '''rilevazione dei pattern di sequenza di n segmenti'''
 
     #B= types.copy()
-    #d=find_pattern.get_patters(types,B,5)
-    #create_files_utils.save_patterns(d,5,200)
+    #d=find_pattern.get_patters(sequence_1 = types,sequence_2 = B, window = 5)
+    #create_files_utils.save_patterns(patterns = d,type = 5,threshold_min = 200)
 
     '''rilevazione di comportamenti ripetitivi in altri segnali al verificarsi dei pattern'''
     #dict=comparison_between_types.compare(10,90,4,5,5,6)
@@ -76,3 +76,4 @@ if __name__=="__main__":
     #dict=comparison_between_types.percentage_comparison(4,5)
     #create_files_utils.save_percentage(dict)
     # print(math.sqrt(2 * 102912 + 1/4) - 1/2)
+

@@ -1,15 +1,15 @@
 from collections import defaultdict
 
 '''metodo che trova i pattern ricorrenti in una lista, e ritorna in output la lista dei pattern trovati'''
-def get_patters(A, B, window):
+def get_patters(sequence_1, sequence_2, window):
     d = defaultdict(int)
     #while(len(B)>1):
-    while(len(B)>=window):
+    while(len(sequence_2) >= window):
         C = []
-        B.pop(0)
-        for i in range(len(B)):
-            C.append(A[i] == B[i])
-        list = find_pattern(C, A, window)
+        sequence_2.pop(0)
+        for i in range(len(sequence_2)):
+            C.append(sequence_1[i] == sequence_2[i])
+        list = find_pattern(C, sequence_1, window)
         for k in list:
            d[k] = d[k]+1
     return d
