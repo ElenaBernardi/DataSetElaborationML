@@ -31,17 +31,14 @@ def cluster2D(n, type1,type2):
     plt.show()
 
 #clustering 2D date due vettori diversi
-def cluster2D_by_vectors(dataset, vector1, vector2):
+def cluster2D_by_vectors(dataset, range1, range2, n_clusters):
     plt.rcParams['figure.figsize'] = (16, 9)
     dataset = np.array(dataset)
-    # Creating a sample dataset with 4 clusters
+    # Creating a sample dataset with n clusters
     X = dataset
-    Y = vector1
-    Z= vector2
-    #ax.scatter(X[:, 0], X[:, 1], X[:, 2])
-    #plt.show()
+    Y = range1
+    Z= range2
     # Initializing KMeans
-    n_clusters=2
     kmeans = KMeans(n_clusters)
     # Fitting with inputs
     kmeans = kmeans.fit(X)
@@ -56,6 +53,7 @@ def cluster2D_by_vectors(dataset, vector1, vector2):
     xlabel("Vector: 1")
     ylabel("Vector : 2")
     plt.show()
+
     silhouette=metrics.silhouette_score(X, labels)
     silhouette_sample=metrics.silhouette_samples(X,labels)
     print("silhouette score: "+str(silhouette))
@@ -65,17 +63,15 @@ def cluster2D_by_vectors(dataset, vector1, vector2):
 
 
 #clustering 3D, dato un dataset
-def cluster3D(dataset, vector1, vector2):
+def cluster3D(dataset, range1, range2, n_clusters):
     plt.rcParams['figure.figsize'] = (16, 9)
     dataset = np.array(dataset)
-    # Creating a sample dataset with 4 clusters
+    # Creating a sample dataset with n clusters
     X = dataset
-    Y = vector1
-    Z= vector2
-    #ax.scatter(X[:, 0], X[:, 1], X[:, 2])
-    #plt.show()
+    Y = range1
+    Z= range2
     # Initializing KMeans
-    kmeans = KMeans(n_clusters=2)
+    kmeans = KMeans(n_clusters)
     # Fitting with inputs
     kmeans = kmeans.fit(X)
     # Predicting the clusters
@@ -88,4 +84,10 @@ def cluster3D(dataset, vector1, vector2):
     ax.scatter(Z[:, 0], Z[:, 1], Z[:, 2])
     ax.scatter(C[:, 0], C[:, 1], C[:, 2], marker='*', c='#050505', s=1000)
     plt.show()
+
+    silhouette = metrics.silhouette_score(X, labels)
+    silhouette_sample = metrics.silhouette_samples(X, labels)
+    print("silhouette score: " + str(silhouette))
+    print("silhouette samples: " + str(silhouette_sample))
+
 

@@ -8,7 +8,7 @@ from matplotlib.lines import Line2D
 def segments(data):
 
 #    data = db_queries.prova()
-    max_error = 0.5
+    max_error = 2
     print(len(data))
 
     figure()

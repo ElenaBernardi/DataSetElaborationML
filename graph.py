@@ -4,9 +4,9 @@ import db_queries
 import numpy as np
 
 #dati due type e due fasce di età stampa i punti corrispondenti alle due fasce di età
-def graph_avg_scatter(type1, type2, age1Min, age1Max, age2Min, age2Max):
-    vector1 = db_queries.pull_2types_from_range_age(type1, type2, age1Min, age1Max)
-    vector2 = db_queries.pull_2types_from_range_age(type1, type2, age2Min, age2Max)
+def graph_avg_scatter(type_1, type_2, age1_min, age1_max, age2_min, age2_max):
+    vector1 = db_queries.pull_2types_from_range_age(type_1, type_2, age1_min, age1_max)
+    vector2 = db_queries.pull_2types_from_range_age(type_1, type_2, age2_min, age2_max)
     x1,y1 = zip(*vector1)
     x2, y2 = zip(*vector2)
     giovani = plt.scatter(x1,y1)
@@ -17,9 +17,9 @@ def graph_avg_scatter(type1, type2, age1Min, age1Max, age2Min, age2Max):
     plt.show()
 
 #dato un type e due fasce di età stampa due linee
-def graph_avg_plot(type, age1, age2, age3, age4):
-    vector1 = db_queries.pull_1type_from_range_age(type, age1, age2)
-    vector2 = db_queries.pull_1type_from_range_age(type, age3, age4)
+def graph_avg_plot(type, age1_min, age1_max, age2_min, age2_max):
+    vector1 = db_queries.pull_1type_from_range_age(type, age1_min, age1_max)
+    vector2 = db_queries.pull_1type_from_range_age(type, age2_min, age2_max)
 
     print(vector1)
 
@@ -31,9 +31,9 @@ def graph_avg_plot(type, age1, age2, age3, age4):
     plt.show()
 
 #grafico 3D a punti, dati 3 tipi e due fasce di età
-def scatter3D_3types_from_2ranges(type1, type2, type3, age1Min, age1Max, age2Min, age2Max):
-    X = np.array(db_queries.pull_3types_from_range_age(type1, type2, type3, age1Min, age1Max))
-    Y = np.array(db_queries.pull_3types_from_range_age(type1, type2, type3, age2Min, age2Max))
+def scatter3D_3types_from_2ranges(type_1, type_2, type_3, age1_min, age1_max, age2_min, age2_max):
+    X = np.array(db_queries.pull_3types_from_range_age(type_1, type_2, type_3, age1_min, age1_max))
+    Y = np.array(db_queries.pull_3types_from_range_age(type_1, type_2, type_3, age2_min, age2_max))
     fig = plt.figure()
     colors = ["g.", "r.", "c.", "b.", "k.", "c."]
 
@@ -43,8 +43,8 @@ def scatter3D_3types_from_2ranges(type1, type2, type3, age1Min, age1Max, age2Min
 
     plt.show()
 
-def scatter3D_2types_and_age(n, type1, type2):
-    X = np.array(db_queries.pull_2types_and_age(type1, type2))
+def scatter3D_2types_and_age(n, type_1, type_2):
+    X = np.array(db_queries.pull_2types_and_age(type_1, type_2))
     fig=plt.figure()
     colors = ["g.", "r.", "c.", "b.", "k.", "c."]
 
