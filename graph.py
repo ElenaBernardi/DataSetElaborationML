@@ -1,4 +1,5 @@
 from matplotlib import pyplot as plt
+from matplotlib.pylab import gca, figure, plot, subplot, title, xlabel, ylabel, xlim,show
 import db_queries
 import numpy as np
 
@@ -11,6 +12,8 @@ def graph_avg_scatter(type1, type2, age1Min, age1Max, age2Min, age2Max):
     giovani = plt.scatter(x1,y1)
     anziani = plt.scatter(x2,y2)
     plt.legend((giovani,anziani), ('Giovani','Anziani'))
+    ylabel("TYPE : "+str(type2))
+    xlabel("TYPE : "+str(type1))
     plt.show()
 
 #dato un type e due fasce di età stampa due linee
@@ -23,6 +26,8 @@ def graph_avg_plot(type, age1, age2, age3, age4):
     plt.plot(vector1, label='giovani')
     plt.plot(vector2, label='adulti')
     plt.legend()
+    ylabel("Values")
+    xlabel("Samples")
     plt.show()
 
 #grafico 3D a punti, dati 3 tipi e due fasce di età

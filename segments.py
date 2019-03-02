@@ -15,6 +15,8 @@ def segments(data):
     segments = slidingwindowsegment(data, regression, sumsquared_error, max_error)
     draw_plot(data,"Sliding window with regression")
     draw_segments(segments)
+    xlabel("Samples")
+    ylabel("Values")
     show()
     return segments
     #figure()

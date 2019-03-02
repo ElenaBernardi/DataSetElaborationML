@@ -8,6 +8,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 from sklearn import metrics
 import matplotlib.cm as cm
+from matplotlib.pylab import gca, figure, plot, subplot, title, xlabel, ylabel, xlim,show
 import db_queries
 
 
@@ -25,6 +26,8 @@ def cluster2D(n, type1,type2):
     for i in range(len(X)):
         plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize = 5)
     plt.scatter(centroids[:,0], centroids[:,1], marker='x', s=150, linewidths=5)
+    xlabel("TYPE : "+type1)
+    ylabel("TYPE : "+type2)
     plt.show()
 
 #clustering 2D date due vettori diversi
@@ -50,6 +53,8 @@ def cluster2D_by_vectors(dataset, vector1, vector2):
     plt.scatter(Y[:, 0], Y[:, 1])
     plt.scatter(Z[:, 0], Z[:, 1])
     plt.scatter(C[:, 0], C[:, 1], marker='*', c='#050505', s=1000)
+    xlabel("Vector: 1")
+    ylabel("Vector : 2")
     plt.show()
     silhouette=metrics.silhouette_score(X, labels)
     silhouette_sample=metrics.silhouette_samples(X,labels)

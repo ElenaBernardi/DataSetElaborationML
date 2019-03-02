@@ -56,20 +56,20 @@ if __name__=="__main__":
     #classificator.predict_result(user)
 
     '''clustering dei segmenti, relativi ai segnali di tipo 5, in base al loro modulo e alla loro inclinazione'''
-    #segments1,types=cluster_segments.manual_clustering(10,90,5)
+    segments1,types=cluster_segments.manual_clustering(10,90,5)
    # segments2, types2 = cluster_segments.manual_clustering(10, 90, 4)
 
     #print(types)
 
     '''rilevazione dei pattern di sequenza di n segmenti'''
 
-    #B= types.copy()
-    #d=find_pattern.get_patters(types,B,5)
+    B= types.copy()
+    d=find_pattern.get_patters(types,B,5)
     #create_files_utils.save_patterns(d,5,200)
 
     '''rilevazione di comportamenti ripetitivi in altri segnali al verificarsi dei pattern'''
-    dict=comparison_between_types.compare(10,90,4,5,5,6)
-    print(dict)
+    #dict=comparison_between_types.compare(10,90,4,5,5,6)
+    #print(dict)
     #create_files_utils.save_comparison(dict,4,5)
 
     '''rilevazione di comportamenti ripetitivi, relativi ad altri segnali, al verificarsi dei pattern con la relativa percentuale di successo'''
